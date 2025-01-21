@@ -1,0 +1,7 @@
+{
+	"parent": "./tekstballon_bes",
+	"textures": {
+		"0": "./tekstballon_dirt",
+		"particle": "./tekstballon_dirt"
+	}
+}

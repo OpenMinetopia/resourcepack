@@ -1,0 +1,11 @@
+{
+	"credit": "Team DDG",
+	"parent": "./elian_helmet",
+		"textures": {
+		"0": "./ufo",
+		"1": "./alien",
+		"2": "./particle_color",
+		"3": "./particle2",
+		"particle": "./ufo"
+	}
+}

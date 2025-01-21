@@ -1,0 +1,45 @@
+{
+    "parent": "./ballon.json",
+	"textures": {
+		"0": "./balloon",
+		"1": "./rope",
+		"particle": "./balloon"
+    },
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [49, 19, -11],
+			"translation": [2.0869, 4.8695, 6.9565],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [49, 19, -11],
+			"translation": [2.0869, 4.8695, 6.9565],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [17, -49, 0],
+			"translation": [0, 6.9565, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [17, -49, 0],
+			"translation": [0, 6.9565, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 9.0434, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [17, -33, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"head": {
+			"translation": [1.5, 29.923, -1.25],
+			"scale": [3.83, 3.83, 3.83]
+		},
+		"fixed": {
+			"scale": [0.4, 0.4, 0.4]
+		}
+	}
+}

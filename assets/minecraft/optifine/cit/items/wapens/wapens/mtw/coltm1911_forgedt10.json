@@ -1,0 +1,9 @@
+{
+	"parent": "./coltm1911_fullmodel.json",
+	"__comment": "Designed by Spooky_538 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"1": "./coltm1911_forgedt10",
+		"3": "blocks/concrete_black",
+		"particle": "blocks/anvil_base"
+	}
+}

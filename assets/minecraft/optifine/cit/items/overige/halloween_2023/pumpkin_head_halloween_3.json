@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./pumpkin_head_halloween_1",
+	"textures": {
+		"1": "./pumpkin_tong"
+	}
+}

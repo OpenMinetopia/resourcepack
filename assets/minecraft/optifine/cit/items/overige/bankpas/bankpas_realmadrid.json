@@ -1,0 +1,8 @@
+{
+    "parent": "./bankpas_10_jaar_danny.json",
+    "textures": {
+        "bankpas_achterkant": "./bankpas_realmadrid_back",
+        "particle": "./bankpas_realmadrid",
+        "bankpas_voorkant": "./bankpas_realmadrid"
+    }
+}

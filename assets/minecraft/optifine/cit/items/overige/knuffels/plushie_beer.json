@@ -1,0 +1,216 @@
+{
+	"credit": "Team DDG",
+	"texture_size": [32, 32],
+	"textures": {
+		"3": "./plushie_beer"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 7],
+			"to": [11, 4, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.86447, 6.25, 8.88222]},
+			"faces": {
+				"north": {"uv": [4, 8, 7, 10], "texture": "#3"},
+				"east": {"uv": [4, 10, 6, 12], "texture": "#3"},
+				"south": {"uv": [8, 4, 11, 6], "texture": "#3"},
+				"west": {"uv": [6, 10, 8, 12], "texture": "#3"},
+				"up": {"uv": [11, 8, 8, 6], "texture": "#3"},
+				"down": {"uv": [10, 8, 7, 10], "texture": "#3"}
+			}
+		},
+		{
+			"from": [5, -0.15186, 11.76444],
+			"to": [11, 3.84814, 11.76444],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 1.84814, 11.76444]},
+			"faces": {
+				"north": {"uv": [12, 8, 15, 10], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 2], "texture": "#3"},
+				"south": {"uv": [15, 8, 12, 10], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 2], "texture": "#3"},
+				"up": {"uv": [3, 0, 0, 0], "texture": "#3"},
+				"down": {"uv": [3, 0, 0, 0], "texture": "#3"}
+			}
+		},
+		{
+			"name": "left_leg",
+			"from": [8.38251, 0, 4.1738],
+			"to": [10.38251, 2, 6.1738],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [7.86447, 6.25, 8.88222]},
+			"faces": {
+				"north": {"uv": [0, 12, 1, 13], "texture": "#3"},
+				"east": {"uv": [12, 0, 13, 1], "texture": "#3"},
+				"south": {"uv": [1, 12, 2, 13], "texture": "#3"},
+				"west": {"uv": [12, 1, 13, 2], "texture": "#3"},
+				"up": {"uv": [3, 13, 2, 12], "texture": "#3"},
+				"down": {"uv": [13, 2, 12, 3], "texture": "#3"}
+			}
+		},
+		{
+			"name": "right_leg",
+			"from": [5, 0, 5],
+			"to": [7, 2, 7],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.86447, 6.25, 8.88222]},
+			"faces": {
+				"north": {"uv": [3, 12, 4, 13], "texture": "#3"},
+				"east": {"uv": [12, 3, 13, 4], "texture": "#3"},
+				"south": {"uv": [4, 12, 5, 13], "texture": "#3"},
+				"west": {"uv": [12, 4, 13, 5], "texture": "#3"},
+				"up": {"uv": [6, 13, 5, 12], "texture": "#3"},
+				"down": {"uv": [13, 5, 12, 6], "texture": "#3"}
+			}
+		},
+		{
+			"name": "head",
+			"from": [4, 4, 5],
+			"to": [12, 12, 13],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.86447, 6.25, 8.88222]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#3"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#3"},
+				"south": {"uv": [4, 0, 8, 4], "texture": "#3"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#3"},
+				"up": {"uv": [4, 12, 0, 8], "texture": "#3"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#3"}
+			}
+		},
+		{
+			"name": "head",
+			"from": [1, 9, 8],
+			"to": [15, 14, 8],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.86447, 6.25, 8.88222]},
+			"faces": {
+				"north": {"uv": [8, 12, 15, 14.5], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 2.5], "texture": "#3"},
+				"south": {"uv": [0, 13, 7, 15.5], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 2.5], "texture": "#3"},
+				"up": {"uv": [7, 0, 0, 0], "texture": "#3"},
+				"down": {"uv": [7, 0, 0, 0], "texture": "#3"}
+			}
+		},
+		{
+			"name": "right_arm",
+			"from": [4.74458, -0.80477, 8],
+			"to": [6.74458, 3.19523, 10],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7.86447, 6.25, 8.88222]},
+			"faces": {
+				"north": {"uv": [8, 10, 9, 12], "texture": "#3"},
+				"east": {"uv": [10, 8, 11, 10], "texture": "#3"},
+				"south": {"uv": [9, 10, 10, 12], "texture": "#3"},
+				"west": {"uv": [10, 10, 11, 12], "texture": "#3"},
+				"up": {"uv": [7, 13, 6, 12], "texture": "#3"},
+				"down": {"uv": [13, 6, 12, 7], "texture": "#3"}
+			}
+		},
+		{
+			"name": "left_arm",
+			"from": [6.77617, -1.34368, 8],
+			"to": [8.77617, 2.65632, 10],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7.86447, 6.25, 8.88222]},
+			"faces": {
+				"north": {"uv": [11, 4, 12, 6], "texture": "#3"},
+				"east": {"uv": [11, 6, 12, 8], "texture": "#3"},
+				"south": {"uv": [11, 8, 12, 10], "texture": "#3"},
+				"west": {"uv": [11, 10, 12, 12], "texture": "#3"},
+				"up": {"uv": [8, 13, 7, 12], "texture": "#3"},
+				"down": {"uv": [13, 7, 12, 8], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [48, 5, 0],
+			"translation": [0, 2.75, 2.5],
+			"scale": [0.66, 0.66, 0.66]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [48, 5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-10, 118, 0],
+			"translation": [1.75, 4.75, 0.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-10, 118, 0],
+			"translation": [1.75, 4.75, 0.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [27, -142, 0],
+			"translation": [0.25, 1.25, 0]
+		},
+		"head": {
+			"translation": [-0.5, 1, 0],
+			"scale": [1.51, 1.51, 1.51]
+		},
+		"fixed": {
+			"translation": [0, 2.5, -0.25],
+			"scale": [1.37, 1.37, 1.37]
+		}
+	},
+	"groups": [
+		{
+			"name": "beer",
+			"origin": [6, 4, 0],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [
+				{
+					"name": "body",
+					"origin": [0, 1, 0],
+					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [0, 1]
+				},
+				{
+					"name": "left_leg",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [2]
+				},
+				{
+					"name": "right_leg",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [3]
+				},
+				{
+					"name": "head",
+					"origin": [0, 1, 0],
+					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [4, 5]
+				},
+				{
+					"name": "right_arm",
+					"origin": [0, -2, 0],
+					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [6]
+				},
+				{
+					"name": "left_arm",
+					"origin": [6, 4, 0],
+					"rotation": [0, 0, 90],
+					"color": 0,
+					"nbt": "{}",
+					"armAnimationEnabled": false,
+					"children": [7]
+				}
+			]
+		}
+	]
+}

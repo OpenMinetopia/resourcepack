@@ -1,0 +1,7 @@
+{
+    "parent": "./vector_normal.json",
+    "textures": {
+        "0": "./vector_normal_red",
+        "particle": "./vector_normal_red"
+    }
+}

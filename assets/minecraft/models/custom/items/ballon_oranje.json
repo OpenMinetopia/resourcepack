@@ -1,0 +1,8 @@
+{
+    "parent": "custom/items/ballon_rood",
+  "textures": {
+  	"particle": "custom/overige/ballonrope",
+  	"Rope": "custom/overige/ballonrope",
+  	"ballon": "blocks/hardened_clay_stained_orange"
+    }
+}

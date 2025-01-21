@@ -1,0 +1,7 @@
+{
+    "parent": "./scar_normal.json",
+    "textures": {
+        "0": "./scar_lama",
+        "particle": "./scar_lama"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "./kingswordmodel",
+	"textures": {
+		"0": "./kingswordwatertexture",
+		"particle": "./kingswordwatertexture"
+    }
+}

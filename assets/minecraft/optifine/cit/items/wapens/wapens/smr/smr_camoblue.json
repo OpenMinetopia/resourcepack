@@ -1,0 +1,7 @@
+{
+    "parent": "./smr_snow.json",
+	"textures": {
+		"2": "./smr_camoblue",
+		"particle": "./details"
+    }
+}

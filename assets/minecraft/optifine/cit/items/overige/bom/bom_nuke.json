@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./bom",
+	"textures": {
+		"2": "./bom_nuke",
+		"particle": "./bom_nuke"
+	}
+}

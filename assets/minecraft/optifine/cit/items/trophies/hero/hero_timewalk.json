@@ -1,0 +1,9 @@
+{
+    "credit": "robinnoob220 ;p",
+    "parent": "./hero_beker.json",
+    "textures": {
+		"0": "custom/skins/timewalk_skin",
+		"2": "./hero_beker",
+		"particle": "custom/skins/timewalk_skin"
+    }
+}

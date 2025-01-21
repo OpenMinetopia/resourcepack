@@ -1,0 +1,11 @@
+{
+    "credit": "robinnoob220 ;p",
+    "parent": "./funko_doos_ragterros",
+    "textures": {
+        "0": "custom/funko/ragterros",
+        "1": "custom/funko/standaard",
+        "2": "./funko_doos_ragterros_halloween",
+        "3": "items/blaze_rod",
+        "particle": "custom/funko/ragterros"
+    }
+}

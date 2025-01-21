@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./rolexbox_2",
+	"textures": {
+		"0": "./2/rainbowheart1",
+		"1": "./rolexbox",
+		"2": "./2/rainbowheart2",
+		"particle": "./2/rainbowheart1"
+	}
+}

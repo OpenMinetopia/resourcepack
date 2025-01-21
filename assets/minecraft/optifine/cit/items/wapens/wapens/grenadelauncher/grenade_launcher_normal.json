@@ -1,0 +1,7 @@
+{
+	"parent": "./grenade_launcher",
+	"textures": {
+		"0": "./grenade_launcher_normal",
+		"particle": "./grenade_launcher_normal"
+	}
+}

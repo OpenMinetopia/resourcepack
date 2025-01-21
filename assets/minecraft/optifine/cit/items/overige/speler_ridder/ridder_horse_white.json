@@ -1,0 +1,7 @@
+{
+	"credit": "Team DDG",
+	"parent": "./ridder_horse",
+	"textures": {
+		"0": "./ridder_horse_white"
+	}
+}

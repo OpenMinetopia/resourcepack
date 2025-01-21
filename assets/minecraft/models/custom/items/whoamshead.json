@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "custom/skins/whoams_skin"
+	},
+	"elements": [
+		{
+			"name": "Box1",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#particle"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#particle"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#particle"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#particle"},
+				"up": {"uv": [2, 0, 4, 2], "texture": "#particle"},
+				"down": {"uv": [4, 0, 6, 2], "texture": "#particle"}
+			}
+		},
+		{
+			"name": "Box2",
+			"from": [-0.5, -0.5, -0.5],
+			"to": [16.5, 16.5, 17],
+			"faces": {
+				"north": {"uv": [10, 2, 12, 4], "texture": "#particle"},
+				"east": {"uv": [8, 2, 10, 4], "texture": "#particle"},
+				"south": {"uv": [14, 2, 16, 4], "texture": "#particle"},
+				"west": {"uv": [12, 2, 14, 4], "texture": "#particle"},
+				"up": {"uv": [10, 0, 12, 2], "rotation": 180, "texture": "#particle"},
+				"down": {"uv": [12, 0, 14, 2], "texture": "#particle"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"gui": {
+			"rotation": [30, 145, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

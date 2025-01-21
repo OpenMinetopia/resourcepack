@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./rolexbox_5",
+	"textures": {
+		"0": "./5/timepiecewhiteblack",
+		"1": "./rolexbox",
+		"2": "./5/extras6",
+		"particle": "./5/timepiecewhiteblack"
+	}
+}

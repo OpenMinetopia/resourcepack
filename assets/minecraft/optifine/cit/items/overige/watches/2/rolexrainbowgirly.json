@@ -1,0 +1,8 @@
+{
+    "parent": "./rainbowwatch.json",
+	"textures": {
+		"0": "./timepiecerainbowgirly",
+		"1": "./extrasrainbowgirl",
+		"particle": "./timepiecerainbowgirly"
+    }
+}

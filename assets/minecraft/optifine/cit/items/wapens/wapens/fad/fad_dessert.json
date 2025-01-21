@@ -1,0 +1,9 @@
+{
+	"parent":"./fad.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "./fire-rate",
+		"particle": "./fire-rate",
+		"texture": "./fad_dessert"
+	}
+}

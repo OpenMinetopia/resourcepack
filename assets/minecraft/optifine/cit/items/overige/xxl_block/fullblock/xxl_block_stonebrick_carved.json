@@ -1,0 +1,7 @@
+{
+	"parent":"./xxl_block",
+	"textures": {
+		"0": "./stonebrick_carved",
+		"particle": "./stonebrick_carved"
+	}
+}

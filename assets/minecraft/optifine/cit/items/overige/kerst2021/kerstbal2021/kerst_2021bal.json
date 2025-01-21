@@ -1,0 +1,9 @@
+{
+    "credit": "robinnoob220 ;p",
+    "parent": "./fijne_kerstbal.json",
+    "textures": {
+        "0": "./bal",
+        "2": "./kerst_2021",
+        "particle": "./bal"
+    }
+}

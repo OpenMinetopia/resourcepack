@@ -1,0 +1,7 @@
+{
+	"parent": "./graffiti_regenboog",
+	"textures": {
+		"0": "./graffiti_geld_gold",
+		"particle": "./graffiti_geld_gold"
+	}
+}

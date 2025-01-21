@@ -1,0 +1,9 @@
+{
+	"parent":"./01_mk2.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "./mk2_forgedt10",
+		"fire": "./fire",
+		"txt": "./txt"
+	}
+}

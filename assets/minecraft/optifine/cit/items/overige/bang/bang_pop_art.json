@@ -1,0 +1,40 @@
+{
+	"credit": "Team DDG",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "./bang_pop_art"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [74, 180, 0],
+			"scale": [0.34, 0.34, 0.34]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [74, 180, 0],
+			"scale": [0.34, 0.34, 0.34]
+		},
+		"firstperson_righthand": {
+			"translation": [2, 1.75, 0],
+			"scale": [0.51, 0.51, 0.51]
+		},
+		"firstperson_lefthand": {
+			"translation": [2, 1.75, 0],
+			"scale": [0.51, 0.51, 0.51]
+		},
+		"ground": {
+			"translation": [0, 17.25, 0],
+			"scale": [2.6, 2.6, 2.6]
+		},
+		"gui": {
+			"translation": [0.5, 0, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"head": {
+			"translation": [0, 1, 0],
+			"scale": [3.09, 3.09, 3.09]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

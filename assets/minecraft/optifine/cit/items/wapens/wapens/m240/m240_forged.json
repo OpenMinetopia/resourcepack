@@ -1,0 +1,7 @@
+{
+	"parent":"./m240_normal.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "./m240_forged"
+	}
+}

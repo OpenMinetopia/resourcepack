@@ -1,0 +1,8 @@
+{
+	"parent":"./plushie_kerst_anoouk",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./plushie_kerst_scorpiontbr",
+		"particle": "./plushie_kerst_scorpiontbr"
+	}
+}

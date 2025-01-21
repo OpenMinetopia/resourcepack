@@ -1,0 +1,15 @@
+{
+    "credit": "robinlol2 ;p",
+    "parent": "./icon_base.json",
+    "textures": {
+        "0": "./gold_shards",
+        "particle": "./gold_shards"
+    },
+    "gui_light": "front",
+    "display": {
+        "gui": {
+            "rotation": [0, -180, 0],
+            "translation": [-0.5, 0.5, -0.5]
+        }
+    }
+}

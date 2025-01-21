@@ -1,0 +1,6 @@
+{
+    "parent": "custom/items/gokuhair",
+    "textures": {
+  		"texture": "custom/overige/gokugreen"
+    }
+}

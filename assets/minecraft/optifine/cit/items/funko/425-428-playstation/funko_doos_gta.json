@@ -1,0 +1,11 @@
+{
+	"credit": "Team DDG",
+	"parent": "./funko_doos_spiderman",
+	"textures": {
+		"1": "custom/funko/standaard",
+		"2": "./doos_gta",
+		"3": "custom/funko/ps5_doos_gta",
+		"4": "custom/funko/ps5",
+		"particle": "custom/funko/ps5_doos_gta"
+	}
+}

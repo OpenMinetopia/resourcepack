@@ -1,0 +1,7 @@
+{
+	"parent": "./scar_normal.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./scar_forgedt10"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"credit": "Team DDG",
+	"parent": "./funko_doos_woody",
+	"textures": {
+		"0": "custom/funko/woody",
+		"1": "custom/funko/standaard",
+		"2": "./funko_doos_woody_halloween",
+		"3": "custom/funko/lasso",
+		"particle": "custom/funko/woody"
+	}
+}

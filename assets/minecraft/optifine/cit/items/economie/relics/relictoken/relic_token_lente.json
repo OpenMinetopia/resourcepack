@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent":"./relic_token_nether",
+	"textures": {
+		"0": "./relic_token_lente",
+		"particle": "./relic_token_lente"
+	}
+}

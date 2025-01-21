@@ -1,0 +1,7 @@
+{
+	"parent": "./graffiti_regenboog",
+	"textures": {
+		"0": "./graffiti_david",
+		"particle": "./graffiti_david"
+	}
+}

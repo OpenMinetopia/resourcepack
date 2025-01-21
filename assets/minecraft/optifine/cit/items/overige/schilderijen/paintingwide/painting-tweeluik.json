@@ -1,0 +1,11 @@
+{
+    "parent": "./easelwide.json",
+	"textures": {
+		"0": "./birch_planks",
+		"2": "./anvil_base",
+		"3": "./white_wool",
+		"4": "./anvil_top",
+		"5": "custom/schilderijen/painting-tweeluik",
+		"particle": "./birch_planks"
+    }
+}

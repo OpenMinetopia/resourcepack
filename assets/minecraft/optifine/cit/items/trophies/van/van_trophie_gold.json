@@ -1,0 +1,11 @@
+{
+    "parent": "./van_trophie_bronze.json",
+    "textures": {
+		"3": "./bone_block_side",
+		"4": "./gold_block",
+		"5": "./dark_oak_planks",
+		"particle": "./gold_block",
+		"voxels_atlas": "./muel_texture_gold",
+		"2_voxels_atlas": "./muel_tires_normal"
+    }
+}

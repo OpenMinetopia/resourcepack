@@ -1,0 +1,10 @@
+{
+	"credit": "Team DDG",
+	"parent": "./funko_doos_beef_burger",
+	"textures": {
+		"0": "custom/funko/lama_pickaxe",
+		"1": "custom/funko/standaard",
+		"2": "./doos_renegade_raider",
+		"particle": "custom/funko/renegade_raider"
+	}
+}

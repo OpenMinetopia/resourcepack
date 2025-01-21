@@ -1,0 +1,9 @@
+{
+	"credit": "Team DDG",
+	"parent": "./funko_pop_ps5_spiderman",
+	"textures": {
+		"3": "custom/funko/ps5_doos_gta",
+		"4": "custom/funko/ps5",
+		"particle": "custom/funko/ps5_doos_gta"
+	}
+}

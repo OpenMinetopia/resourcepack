@@ -1,0 +1,6 @@
+{
+	"parent":"./magnum44_fullmodel",
+	"textures": {
+		"voxels_atlas": "./magnum44_fake"
+	}
+}

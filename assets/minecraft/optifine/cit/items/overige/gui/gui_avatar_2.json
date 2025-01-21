@@ -1,0 +1,57 @@
+{
+	"credit": "robinnoob220 ;p",
+	"textures": {
+		"0": "./gui_avatar_2",
+		"particle": "./gui_avatar_2"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 8.5],
+			"to": [32, 32, 8.5],
+			"faces": {
+				"north": {"uv": [1.6875, 3.875, 13.8125, 16], "texture": "#0"},
+				"east": {"uv": [1.6875, 3.875, 13.8125, 16], "texture": "#0"},
+				"south": {"uv": [1.6875, 3.875, 13.8125, 16], "texture": "#0"},
+				"west": {"uv": [1.6875, 3.875, 13.8125, 16], "texture": "#0"},
+				"up": {"uv": [1.6875, 3.875, 13.8125, 16], "texture": "#0"},
+				"down": {"uv": [1.6875, 3.875, 13.8125, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [2, 2.25, 0],
+			"scale": [0.14, 0.14, 0.14]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [2, 2.25, 0],
+			"scale": [0.14, 0.14, 0.14]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 0.75, 0],
+			"scale": [0.23, 0.23, 0.23]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 0.75, 0],
+			"scale": [0.23, 0.23, 0.23]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.18, 0.18, 0.18]
+		},
+		"gui": {
+			"translation": [72, -51, -80],
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"fixed": {
+			"translation": [0, 0, -1.25],
+			"scale": [0.41, 0.41, 0.41]
+		}
+	}
+}

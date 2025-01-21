@@ -1,0 +1,6 @@
+{
+	"parent": "./lama_pickaxe.json",
+	"textures": {
+		"0": "./lama_pickaxe_forged"
+	}
+}

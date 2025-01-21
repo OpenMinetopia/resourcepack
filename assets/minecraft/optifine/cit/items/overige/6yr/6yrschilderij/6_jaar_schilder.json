@@ -1,0 +1,55 @@
+{
+    "credit": "robinlol2 ;p",
+    "textures": {
+        "0": "./6",
+        "1": "blocks/planks_spruce",
+        "particle": "./6"
+    },
+    "elements": [{
+        "name": "touw",
+        "from": [0, 1.125, 16],
+        "to": [16, 17.125, 16.5],
+        "rotation": { "angle": 0, "axis": "y", "origin": [-1.75, 0.025, 0] },
+        "faces": {
+            "north": { "uv": [0, 0, 16, 16], "texture": "#0" },
+            "east": { "uv": [0, 16, 1, 0], "texture": "#1" },
+            "south": { "uv": [0, 0, 16, 16], "texture": "#1" },
+            "west": { "uv": [0, 0, 1, 16], "texture": "#1" },
+            "up": { "uv": [0, 16, 1, 0], "rotation": 90, "texture": "#1" },
+            "down": { "uv": [0, 0, 1, 16], "rotation": 90, "texture": "#1" }
+        }
+    }],
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [71, 0, 0],
+            "translation": [0, 8.5, -2.25]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [71, 0, 0],
+            "translation": [0, 8.5, -2.25]
+        },
+        "firstperson_righthand": {
+            "rotation": [0, 153, 0],
+            "translation": [3, 0, 2.25]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0, 153, 0],
+            "translation": [3, 0, 2.25]
+        },
+        "ground": {
+            "translation": [0, 4.5, -8.75]
+        },
+        "gui": {
+            "rotation": [30, 225, 0],
+            "translation": [5, -3, 0],
+            "scale": [0.8, 0.8, 0.8]
+        },
+        "head": {
+            "translation": [0, 39.75, -5.5],
+            "scale": [2, 2, 2]
+        },
+        "fixed": {
+            "translation": [0.25, -1, -10]
+        }
+    }
+}

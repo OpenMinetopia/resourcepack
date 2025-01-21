@@ -1,0 +1,11 @@
+{
+	"credit": "Team DDG",
+	"parent": "./funko_doos_xbox_spiderman",
+	"textures": {
+		"1": "custom/funko/standaard",
+		"2": "./xbox_ratchet_clank",
+		"3": "custom/funko/xbox_doos_ratchet_clank",
+		"6": "custom/funko/xbox",
+		"particle": "custom/funko/xbox_doos_ratchet_clank"
+	}
+}

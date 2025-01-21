@@ -1,0 +1,8 @@
+{
+	"credit": "Team DDG",
+	"parent": "./aardenation_grafitti",
+	"textures": {
+		"0": "./airnation_grafitti",
+		"particle": "./airnation_grafitti"
+	}
+}

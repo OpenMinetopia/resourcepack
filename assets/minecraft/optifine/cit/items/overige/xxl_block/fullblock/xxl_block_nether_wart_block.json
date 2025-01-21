@@ -1,0 +1,7 @@
+{
+	"parent":"./xxl_block",
+	"textures": {
+		"0": "./nether_wart_block",
+		"particle": "./nether_wart_block"
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "./hogehoed.json",
+	"textures": {
+		"0": "./hogehoed_gold",
+		"particle": "./hogehoed_gold"
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"credit": "Team DDG",
+	"parent": "./rolex_nieuw_bb_color",
+	"textures": {
+		"1": "./leeg",
+		"2": "./leeg",
+		"3": "./plaat_olimpic_1",
+		"4": "./horloge_olimpic_1",
+		"particle": "./horloge_olimpic_1"
+	}
+}

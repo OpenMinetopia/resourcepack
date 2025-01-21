@@ -1,0 +1,44 @@
+{
+	"credit": "TimeWalk Made with Blockbench",
+	"textures": {
+		"0": "blocks/upgrades/koelbox",
+		"1": "custom/overige/clear",
+		"particle": "blocks/upgrades/koelbox"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 8, 0, 0 ],
+			"to": [ 8.001, 15, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#1" }
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"translation":  [ 0, 6, 0 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ 0, 5, 0 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 90, 0 ]
+		},
+		"head": {
+			"rotation":  [ 0, -100, 0 ],
+			"translation":  [ 0, 18.5, 0 ]
+		},
+		"ground": {
+			"translation":  [ 0, 9.5, 0 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, -100, 0 ]
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "./mp5_fullmodel.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"3": "./mp5_forgedt10",
+		"4": "blocks/concrete_black",
+		"particle": "./mp5_forged"
+	}
+}

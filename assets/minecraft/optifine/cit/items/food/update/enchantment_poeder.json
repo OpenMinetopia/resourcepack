@@ -1,0 +1,40 @@
+{
+	"credit": "Team DDG",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "./enchantment_poeder"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.25, -0.25],
+			"scale": [0.52, 0.49, 0.49]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1.25, -0.25],
+			"scale": [0.52, 0.49, 0.49]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -47, 25],
+			"translation": [1.13, 2.45, 1.13],
+			"scale": [0.48, 0.48, 0.48]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -47, 25],
+			"translation": [1.13, 2.45, 1.13],
+			"scale": [0.48, 0.48, 0.48]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"translation": [0.5, -0.25, 0],
+			"scale": [1.36, 1.36, 1.36]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -0.75, 0],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}

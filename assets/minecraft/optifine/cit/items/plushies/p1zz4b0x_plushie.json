@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./plushie_base",
+	"textures": {
+		"1": "./p1zz4b0x_plushie",
+		"particle": "./p1zz4b0x_plushie"
+	}
+}

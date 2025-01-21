@@ -1,0 +1,7 @@
+{
+	"parent": "./shotgun_1.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./shotgun_1_forgedt10"
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"credit": "robinlol2 ;p",
+	"textures": {
+		"0": "./settings",
+		"particle": "./settings"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8.5],
+			"to": [16, 16, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, -0.5]
+		}
+	}
+}

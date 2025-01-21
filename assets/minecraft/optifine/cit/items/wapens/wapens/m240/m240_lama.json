@@ -1,0 +1,7 @@
+{
+    "parent": "./m240_normal.json",
+    "textures": {
+        "1": "./m240_lama",
+        "particle": "./m240_lama"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"parent":"./beamer",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./frozen",
+		"1": "./beamer",
+		"particle": "./frozen"
+	}
+}

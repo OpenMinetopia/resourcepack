@@ -1,0 +1,4 @@
+type=item
+items=chainmail_boots
+texture=bright_bomber_boots
+nbt.mtcustom=bright_bomber_boots

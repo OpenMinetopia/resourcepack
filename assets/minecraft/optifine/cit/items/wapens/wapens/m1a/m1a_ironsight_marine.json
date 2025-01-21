@@ -1,0 +1,8 @@
+{
+	"parent":"./m1a_ironsight",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "./m1a_ironsight_marine",
+		"particle": "./noise"
+	}
+}

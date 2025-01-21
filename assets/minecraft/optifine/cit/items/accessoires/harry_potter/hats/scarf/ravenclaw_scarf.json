@@ -1,0 +1,7 @@
+{
+    "parent": "./gryffindor_scarf.json",
+    "textures": {
+		"particle": "./ravenclaw_scarf",
+		"texture": "./ravenclaw_scarf"
+    }
+}

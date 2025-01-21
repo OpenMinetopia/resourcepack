@@ -1,0 +1,7 @@
+{
+    "parent": "./player_funko_head_base.json",
+    "textures": {
+        "1": "custom/funko/standaard",
+        "2": "./player_funko_head_lennertdecleen"
+    }
+}

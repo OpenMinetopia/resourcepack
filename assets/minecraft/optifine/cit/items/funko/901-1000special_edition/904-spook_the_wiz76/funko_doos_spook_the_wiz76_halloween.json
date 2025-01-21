@@ -1,0 +1,11 @@
+{
+    "credit": "robinnoob220 ;p",
+    "parent": "./funko_doos_spook_the_wiz76",
+    "textures": {
+        "1": "custom/funko/standaard",
+        "2": "./funko_doos_spook_the_wiz76_halloween",
+        "3": "custom/funko/spook_the_wiz76",
+        "4": "custom/funko/the_wiz76",
+        "particle": "custom/funko/the_wiz76"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "credit": "Team DDG",
+	"parent": "./flippo_1",
+	"textures": {
+		"0": "./flippo_68",
+		"1": "./flippo_68_back",
+		"2": "./flippo_middel",
+		"3": "./planks_spruce",
+		"particle": "./flippo_68"
+	}
+}

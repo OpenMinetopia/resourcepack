@@ -1,0 +1,13 @@
+{
+	"credit": "Team DDG",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "./leather"
+	},
+	"display": {
+		"gui": {
+			"translation": [-0.75, 0, 0],
+			"scale": [1.3, 1.3, 1.3]
+		}
+	}
+}

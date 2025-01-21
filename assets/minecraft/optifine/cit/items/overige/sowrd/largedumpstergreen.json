@@ -1,0 +1,6 @@
+{
+    "parent": "./largedumpstermodel",
+	"textures": {
+		"5": "./largedumpstergreentexture"
+    }
+}

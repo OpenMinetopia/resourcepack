@@ -1,0 +1,15 @@
+{
+    "credit": "robinlol2 ;p",
+    "parent": "./gui_balkje_base.json",
+    "textures": {
+        "0": "./skin_doll_2",
+        "particle": "./skin_doll_2"
+    },
+    "gui_light": "front",
+    "display": {
+        "gui": {
+            "translation": [72, 65, -70],
+            "scale": [3.66, 3.66, 3.66]
+        }
+    }
+}

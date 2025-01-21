@@ -1,0 +1,10 @@
+{
+    "parent": "./car_trophie_bronze.json",
+    "textures": {
+		"5": "./carsilver",
+		"6": "./road",
+		"10": "./stand",
+		"11": "./tire",
+		"particle": "./carsilver"
+    }
+}

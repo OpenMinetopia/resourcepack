@@ -1,0 +1,11 @@
+{
+    "parent": "./easelnew.json",
+	"textures": {
+		"0": "./birch_planks",
+		"2": "./anvil_base",
+		"3": "./white_wool",
+		"4": "./anvil_top",
+		"5": "custom/schilderijen/painting-krijger",
+		"particle": "./birch_planks"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "./smaragd.json",
+	"textures": {
+		"0": "./smaragdpurple",
+		"particle": "./smaragdpurple"
+    }
+}

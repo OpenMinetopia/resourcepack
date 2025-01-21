@@ -1,0 +1,9 @@
+{
+	"parent": "./dragonballs_1",
+	"textures": {
+		"2": "./dragonballs_3",
+		"3": "./nieuw_funko_naamkaartje",
+		"4": "./nieuw_funko_standaard",
+		"particle": "./dragonballs_3"
+	}
+}

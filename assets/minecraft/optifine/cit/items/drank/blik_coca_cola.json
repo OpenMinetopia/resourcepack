@@ -1,0 +1,9 @@
+{
+	"credit": "Team DDG",
+	"parent": "./blik_color",
+	"textures": {
+		"1": "./blik_coca_cola_rond_color",
+		"2": "./blik_coca_cola_rond_non_color",
+		"particle": "./blik_coca_cola_rond_non_color"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "./straatbordje.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./malibustreet",
+		"particle": "./malibustreet"
+	}
+}

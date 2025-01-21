@@ -1,0 +1,9 @@
+{
+	"credit": "robinlol2 ;p",
+    "parent": "./hollywood_a_color",
+	"textures": {
+		"1": "./hollywood_sign_m_color",
+		"2": "./rekje",
+		"particle": "./rekje"
+	}
+}

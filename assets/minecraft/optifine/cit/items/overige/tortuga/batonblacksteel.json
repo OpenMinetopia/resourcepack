@@ -1,0 +1,6 @@
+{
+    "parent": "./baton.json",
+	"textures": {
+		"1": "./batonblacksteel"
+    }
+}

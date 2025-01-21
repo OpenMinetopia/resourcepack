@@ -1,0 +1,7 @@
+{
+    "parent": "./fad_snow.json",
+	"textures": {
+		"2": "./fad_fullops",
+		"particle": "./fad_fullops"
+    }
+}

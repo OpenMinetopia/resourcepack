@@ -1,0 +1,7 @@
+{
+    "parent": "./toad_brown.json",
+    "textures": {
+		"particle": "./toad_green",
+		"texture1": "./toad_green"
+    }
+}

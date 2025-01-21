@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./rolexbox_2",
+	"textures": {
+		"0": "./2/rolexxmas",
+		"1": "./rolexbox",
+		"2": "./2/rolexxmas2",
+		"particle": "./2/rolexxmas"
+	}
+}

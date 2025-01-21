@@ -1,0 +1,10 @@
+{
+	"credit": "Team DDG",
+	"parent": "./funko_doos_enderman",
+	"textures": {
+		"1": "custom/funko/standaard",
+		"2": "./doos_netherman",
+		"3": "custom/funko/netherman",
+		"particle": "custom/funko/netherman"
+	}
+}

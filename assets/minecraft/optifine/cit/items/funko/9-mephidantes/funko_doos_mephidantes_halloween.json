@@ -1,0 +1,11 @@
+{
+	"credit": "robinnoob220 ;p",
+	"parent": "./funko_doos_mephidantes",
+	"textures": {
+		"0": "custom/funko/mephidantes",
+		"1": "custom/funko/standaard",
+		"2": "./funko_doos_mephidantes_halloween",
+		"3": "items/diamond_sword",
+		"particle": "custom/funko/mephidantes"
+	}
+}

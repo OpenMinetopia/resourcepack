@@ -1,0 +1,6 @@
+{
+    "parent": "./gasmask.json",
+	"textures": {
+		"2": "./gasmaskpunk"
+    }
+}

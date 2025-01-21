@@ -1,0 +1,10 @@
+{
+	"parent": "./vuvuzela_bel",
+	"textures": {
+		"0": "blocks/concrete_black",
+		"1": "blocks/concrete_red",
+		"2": "blocks/concrete_white",
+		"3": "blocks/concrete_blue",
+		"particle": "blocks/concrete_black"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./bierton_normaal",
+	"textures": {
+		"0": "./biertontexture",
+		"1": "./bierton_color",
+		"2": "./bierton_logo_brand",
+		"particle": "./biertontexture"
+	}
+}

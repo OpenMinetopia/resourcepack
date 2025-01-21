@@ -1,0 +1,10 @@
+{
+	"credit": "robinlol2 ;p",
+	"parent": "./funko_doos_war_machine",
+	"textures": {
+		"0": "custom/funko/war_machine",
+		"1": "custom/funko/standaard",
+		"2": "./funko_doos_war_machine_halloween",
+		"particle": "custom/funko/war_machine"
+	}
+}

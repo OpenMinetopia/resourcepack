@@ -1,0 +1,7 @@
+{
+	"parent": "./rolexwhite",
+	"textures": {
+		"0": "./timepiecefcgroningen",
+		"1": "./extras9"
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "./p90_asiimov.json",
+	"textures": {
+		"1": "./p90_fullops",
+		"particle": "./p90_asiimov"
+    }
+}

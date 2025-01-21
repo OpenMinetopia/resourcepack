@@ -1,0 +1,7 @@
+{
+	"parent":"./xxl_block",
+	"textures": {
+		"0": "./diamond_ore",
+		"particle": "./diamond_ore"
+	}
+}

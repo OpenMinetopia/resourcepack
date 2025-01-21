@@ -1,0 +1,8 @@
+{
+	"parent":"./smr.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "./smr_marine",
+		"particle": "./details"
+	}
+}

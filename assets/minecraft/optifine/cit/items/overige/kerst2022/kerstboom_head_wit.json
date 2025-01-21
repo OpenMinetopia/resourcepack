@@ -1,0 +1,7 @@
+{
+    "credit": "Milanvd",
+    "parent": "./kerstboom_head.json",
+    "textures": {
+      "1": "./kerstboom_wit"
+    }
+}

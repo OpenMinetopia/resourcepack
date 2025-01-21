@@ -1,0 +1,8 @@
+{
+    "credit": "robinnoob220 ;p",
+    "parent": "./monkey_head.json",
+    "textures": {
+        "0": "./monkey_head_gold",
+        "particle": "./monkey_head_gold"
+    }
+}

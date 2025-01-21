@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./plushie_axolotl",
+	"textures": {
+		"3": "./plushie_axolotl_blue",
+		"particle": "./plushie_axolotl_blue"
+	}
+}

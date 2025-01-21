@@ -1,0 +1,9 @@
+{
+	"parent": "./dementor",
+	"textures": {
+		"3": "./dementor_cloth",
+		"particle": "./dementor_cloth_danny",
+		"texture": "./dementor_cloth_danny",
+		"texture1": "./dementor2"
+	}
+}

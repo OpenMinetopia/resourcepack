@@ -1,0 +1,7 @@
+{
+	"parent":"./xxl_block",
+	"textures": {
+		"0": "./soul_sand",
+		"particle": "./soul_sand"
+	}
+}

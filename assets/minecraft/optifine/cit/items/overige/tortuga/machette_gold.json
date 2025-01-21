@@ -1,0 +1,6 @@
+{
+    "parent": "./machette_normal",
+	"textures": {
+		"1": "./machette_gold"
+    }
+}

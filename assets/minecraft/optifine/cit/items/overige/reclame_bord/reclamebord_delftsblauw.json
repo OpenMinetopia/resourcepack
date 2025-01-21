@@ -1,0 +1,8 @@
+{
+	"credit": "Team DDG",
+	"parent": "./reclamebord_mijn_winkel",
+	"textures": {
+		"0": "./reclamebord_delftsblauw",
+		"particle": "./reclamebord_delftsblauw"
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "./m4carbine.json",
+	"textures": {
+		"0": "./m4carbine2"
+    }
+}

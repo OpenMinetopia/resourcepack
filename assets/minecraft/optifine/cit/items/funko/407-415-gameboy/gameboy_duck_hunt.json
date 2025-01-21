@@ -1,0 +1,50 @@
+{
+    "credit": "robinlol2 ;p",
+    "parent": "./gameboy_base.json",
+    "textures": {
+        "1": "custom/funko/onzichtbaar",
+        "2": "custom/funko/onzichtbaar",
+        "4": "custom/funko/game_boy_under",
+        "5": "custom/funko/gameboy_card_red",
+        "6": "custom/funko/game_boy",
+        "7": "custom/funko/scherm_duck_hunt",
+        "8": "custom/funko/onzichtbaar",
+        "particle": "custom/funko/game_boy"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [30, -180, 0],
+            "translation": [-0.25, 3.5, 1.25],
+            "scale": [0.4, 0.4, 0.4]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [30, -180, 0],
+            "translation": [-0.25, 3.5, 1.25],
+            "scale": [0.4, 0.4, 0.4]
+        },
+        "firstperson_righthand": {
+            "rotation": [0, 170, 0],
+            "translation": [1.5, 4.5, -1.25],
+            "scale": [0.5, 0.53711, 0.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0, 170, 0],
+            "translation": [1.5, 4.5, -1.25],
+            "scale": [0.5, 0.53711, 0.5]
+        },
+        "ground": {
+            "translation": [0, 3.5, 0],
+            "scale": [0.4, 0.4, 0.4]
+        },
+        "gui": {
+            "rotation": [30, 225, 0],
+            "scale": [0.625, 0.625, 0.625]
+        },
+        "head": {
+            "translation": [-2, -2.5, 0]
+        },
+        "fixed": {
+            "translation": [-0.75, -1.25, -1.5]
+        }
+    }
+}

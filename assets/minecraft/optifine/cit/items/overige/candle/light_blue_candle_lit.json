@@ -1,0 +1,9 @@
+{
+	"credit": "Team DDG",
+	"parent": "./black_candle",
+	"textures": {
+		"1": "./fire",
+		"all": "./light_blue_candle_lit",
+		"particle": "./fire"
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "./wolverineclaw.json",
+	"textures": {
+		"2": "./wolverineclawice_sunset",
+		"particle": "./wolverineclawice_sunset"
+    }
+}

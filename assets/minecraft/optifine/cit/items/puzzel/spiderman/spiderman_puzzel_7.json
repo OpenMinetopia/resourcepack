@@ -1,0 +1,38 @@
+{
+	"credit": "Team DDG",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "./spiderman_puzzel_7"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-2, -0.25, -0.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [2, -0.5, -0.25]
+		},
+		"firstperson_righthand": {
+			"translation": [3.25, -1.5, -1.75]
+		},
+		"firstperson_lefthand": {
+			"translation": [5, -0.25, 0]
+		},
+		"ground": {
+			"translation": [-2, -1.5, 0]
+		},
+		"gui": {
+			"translation": [-5.75, -6.75, 0],
+			"scale": [2.9, 2.9, 2.9]
+		},
+		"head": {
+			"rotation": [90, 180, 0],
+			"translation": [0, -10.25, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"translation": [-4.25, -5.5, 0],
+			"scale": [2.45, 2.45, 2.45]
+		}
+	}
+}

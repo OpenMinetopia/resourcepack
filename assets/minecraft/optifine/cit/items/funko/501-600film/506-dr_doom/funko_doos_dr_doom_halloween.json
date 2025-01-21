@@ -1,0 +1,11 @@
+{
+	"credit": "robinlol2 ;p",
+	"parent": "./funko_doos_dr_doom",
+	"textures": {
+		"0": "custom/funko/dr_doom",
+		"1": "custom/funko/standaard",
+		"2": "./funko_doos_dr_doom_halloween",
+		"3": "items/book_writable",
+		"particle": "custom/funko/dr_doom"
+	}
+}

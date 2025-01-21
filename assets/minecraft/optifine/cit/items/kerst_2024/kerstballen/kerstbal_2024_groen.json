@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./kerstbal_2024_rood",
+	"textures": {
+		"1": "./kerstbal_2024_groen"
+	}
+}

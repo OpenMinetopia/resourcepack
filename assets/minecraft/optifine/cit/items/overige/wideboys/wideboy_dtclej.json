@@ -1,0 +1,6 @@
+{
+    "parent": "./wideboy_base",
+	"textures": {
+		"3": "./dtclej"
+    }
+}

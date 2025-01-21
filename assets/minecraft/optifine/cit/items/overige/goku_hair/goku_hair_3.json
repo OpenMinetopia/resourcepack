@@ -1,0 +1,6 @@
+{
+	"parent": "./goku_hair",
+	"textures": {
+		"1": "./goku_hair_3"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "./statuebronsmelizr.json",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "custom/standbeelden/yoshistandbeeld",
+		"1": "blocks/gravel",
+		"2": "blocks/bed_feet_top",
+		"particle": "blocks/gravel"
+	}
+}

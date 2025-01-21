@@ -1,0 +1,14 @@
+{
+    "credit": "robinlol2 ;p",
+    "parent": "./gameboy_base.json",
+    "textures": {
+        "1": "custom/funko/standaard",
+        "2": "./doos_kirby",
+        "4": "custom/funko/onzichtbaar",
+        "5": "custom/funko/gameboy_card_pink",
+        "6": "custom/funko/game_boy",
+        "7": "custom/funko/scherm_kirby",
+        "8": "custom/funko/scherm_kirby",
+        "particle": "custom/funko/game_boy"
+    }
+}

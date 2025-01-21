@@ -1,0 +1,6 @@
+{
+    "parent": "item/fermented_spider_eye",
+    "textures": {
+        "politie": "blocks/redstone_block"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "./welcome_sign.json",
+	"textures": {
+		"1": "./welcome_sign_kerst_danny",
+		"2": "custom/funko/danny026",
+		"particle": "./welcome_sign_kerst_danny"
+    }
+}

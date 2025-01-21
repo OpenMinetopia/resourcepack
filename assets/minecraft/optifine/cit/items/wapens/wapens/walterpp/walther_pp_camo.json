@@ -1,0 +1,7 @@
+{
+	"parent":"./walther_pp",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "./walther_pp_camo"
+	}
+}

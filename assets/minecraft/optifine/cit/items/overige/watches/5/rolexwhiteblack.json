@@ -1,0 +1,7 @@
+{
+	"parent": "./rolexwhite",
+	"textures": {
+		"0": "./timepiecewhiteblack",
+		"1": "./extras6"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "./ak47_fullmodel.json",
+	"textures": {
+		"0": "custom/overige/weapon_b",
+		"1": "./ak47_fullmodel_forgedt10",
+		"2": "blocks/hardened_clay_stained_yellow",
+		"3": "./case_gold"
+	}
+}

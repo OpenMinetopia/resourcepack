@@ -1,0 +1,7 @@
+{
+	"parent":"./mk14_iron_sight",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "./mk14_iron_sight_pink"
+	}
+}

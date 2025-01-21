@@ -1,0 +1,4 @@
+chainmailtype=item
+items=chainmail_chestplate
+texture=bright_bomber_chestplate
+nbt.mtcustom=bright_bomber_chestplate

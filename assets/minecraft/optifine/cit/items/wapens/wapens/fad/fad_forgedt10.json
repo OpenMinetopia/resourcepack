@@ -1,0 +1,9 @@
+{
+	"parent":"./fad.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "./fad_forgedt10",
+		"particle": "./fad_forgedt10",
+		"texture": "./fad_forgedt10"
+	}
+}

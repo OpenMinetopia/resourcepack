@@ -1,0 +1,7 @@
+{
+	"parent":"./graduation_hat.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "./graduation_hat_green"
+	}
+}

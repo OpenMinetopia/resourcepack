@@ -1,0 +1,9 @@
+{
+    "credit": "robinnoob220 ;p",
+    "parent": "./legend_beker.json",
+    "textures": {
+		"0": "custom/skins/duffy_skin",
+		"2": "./legend_beker",
+		"particle": "custom/skins/duffy_skin"
+    }
+}

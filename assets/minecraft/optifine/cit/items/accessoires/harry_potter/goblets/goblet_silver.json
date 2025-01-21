@@ -1,0 +1,7 @@
+{
+    "parent": "./goblet.json",
+    "textures": {
+		"particle": "./goblet_silver",
+		"texture": "./goblet_silver"
+    }
+}

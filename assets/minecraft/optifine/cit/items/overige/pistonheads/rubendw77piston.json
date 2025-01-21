@@ -1,0 +1,6 @@
+{
+    "parent": "./pistonhead.json",
+	"textures": {
+		"6": "./rubendw77piston"
+    }
+}

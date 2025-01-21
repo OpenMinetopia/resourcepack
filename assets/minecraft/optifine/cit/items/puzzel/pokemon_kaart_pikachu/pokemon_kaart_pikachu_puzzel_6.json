@@ -1,0 +1,41 @@
+{
+	"credit": "Team DDG",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "./pokemon_kaart_pikachu_puzzel_6"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-1.75, 4.5, -0.25],
+			"scale": [0.61, 0.61, 0.61]
+		},
+		"thirdperson_lefthand": {
+			"translation": [1.75, 4.75, -0.25],
+			"scale": [0.61, 0.61, 0.61]
+		},
+		"firstperson_righthand": {
+			"translation": [2, 5.5, -1.75]
+		},
+		"firstperson_lefthand": {
+			"translation": [7.25, 6.5, -1.75]
+		},
+		"ground": {
+			"translation": [-2.75, 7.75, 0]
+		},
+		"gui": {
+			"translation": [-6, 12, 0],
+			"scale": [2.24, 2.24, 2.24]
+		},
+		"head": {
+			"rotation": [90, 180, 0],
+			"translation": [0, -10.25, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [7.25, 13.5, 0],
+			"scale": [2.45, 2.45, 2.45]
+		}
+	}
+}

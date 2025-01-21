@@ -1,0 +1,8 @@
+{
+	"parent": "./grenade_launcher.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./grenade_launcher_forged",
+		"particle": "./grenade_launcher_forged"
+	}
+}

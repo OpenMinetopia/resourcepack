@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./borden_steden_minetopia",
+	"textures": {
+		"2": "./borden_steden_malibu",
+		"3": "./paal_bord",
+		"particle": "./borden_steden_malibu"
+	}
+}

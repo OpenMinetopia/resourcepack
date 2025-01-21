@@ -1,0 +1,7 @@
+{
+    "credit": "robinlol2 ;p",
+    "parent": "./heart_baloon.json",
+    "textures": {
+        "1": "./heart_baloon_pink"
+    }
+}

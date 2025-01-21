@@ -1,0 +1,9 @@
+{
+	"parent":"./kerstster_geel",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./sterbase_blauw",
+		"1": "./kerstster_blauw",
+		"particle": "./sterbase_blauw"
+	}
+}

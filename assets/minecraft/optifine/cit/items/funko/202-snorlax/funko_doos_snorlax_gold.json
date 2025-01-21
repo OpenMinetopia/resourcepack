@@ -1,0 +1,13 @@
+{
+    "credit": "robinnoob220 ;p",
+    "parent": "./funko_doos_snorlax",
+    "textures": {
+        "1": "custom/funko/standaard",
+        "2": "./doos",
+        "3": "custom/funko/snorlax_gold",
+        "4": "custom/funko/onzichtbaar",
+        "5": "custom/funko/onzichtbaar",
+        "6": "custom/funko/onzichtbaar",
+        "particle": "custom/funko/onzichtbaar"
+    }
+}

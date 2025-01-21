@@ -1,0 +1,10 @@
+{
+    "parent": "./piston_trophie_bronze.json",
+	"textures": {
+		"1": "./piston_inner_silver",
+		"2": "./piston_top_silver",
+		"3": "./cauldron_inner",
+		"particle": "./piston_side_silver",
+		"side": "./piston_side_silver"
+    }
+}

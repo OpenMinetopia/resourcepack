@@ -1,0 +1,10 @@
+{
+	"credit": "Team DDG",
+	"parent": "./funko_doos_hogwarts_legacy_case",
+	"textures": {
+		"1": "custom/funko/standaard",
+		"2": "./cod_case",
+		"3": "./cod",
+		"particle": "./cod"
+	}
+}

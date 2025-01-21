@@ -1,0 +1,6 @@
+{
+    "parent": "./shotgun_2.json",
+	"textures": {
+		"0": "./shotgun_2_fullops"
+    }
+}

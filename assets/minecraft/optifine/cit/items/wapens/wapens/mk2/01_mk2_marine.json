@@ -1,0 +1,9 @@
+{
+	"parent":"./01_mk2.json",
+	"credit":"MadewithBlockbench",
+	"textures":{
+		"texture":"./mk2_marine",
+		"fire":"./fire",
+		"txt":"./txt"
+	}
+}

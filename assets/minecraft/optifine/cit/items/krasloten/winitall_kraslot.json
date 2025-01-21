@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./7klapper_kraslot",
+	"textures": {
+		"0": "./winitall_kraslot",
+		"particle": "./winitall_kraslot"
+	}
+}

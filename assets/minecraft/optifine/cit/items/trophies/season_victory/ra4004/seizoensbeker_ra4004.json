@@ -1,0 +1,15 @@
+{
+    "parent": "./season_trophie.json",
+	"textures": {
+		"0": "./cape_texture",
+		"1": "./bone_block_side",
+		"2": "./spruce_log",
+		"3": "./dark_oak_trapdoor",
+		"4": "./dark_oak_planks",
+		"6": "./gold_block",
+		"7": "./red_glazed_terracotta",
+		"8": "./lime_shulker_box",
+		"9": "./ra4004",
+		"particle": "./bone_block_side"
+    }
+}

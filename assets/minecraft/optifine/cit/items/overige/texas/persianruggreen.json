@@ -1,0 +1,7 @@
+{
+    "parent": "./persianrug",
+	"textures": {
+		"1": "./persianruggreen",
+		"particle": "./persianruggreen"
+	}
+}

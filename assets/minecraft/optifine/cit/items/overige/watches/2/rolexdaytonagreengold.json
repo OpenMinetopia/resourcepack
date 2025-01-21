@@ -1,0 +1,8 @@
+{
+    "parent": "./rainbowwatch.json",
+	"textures": {
+		"0": "./rolexdaytonagreengold",
+		"1": "./rolexdaytonagreengold2",
+		"particle": "./rolexdaytonagreengold"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "./bandana_blue",
+    "texture_size": [32, 32],
+  	"textures": {
+  		"0": "./bandana_yellow",
+  		"particle": "./bandana_yellow"
+    }
+}

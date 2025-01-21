@@ -1,0 +1,7 @@
+{
+    "parent": "./quartzpole4highmodel.json",
+	"textures": {
+		"1": "./quartzpole4hightextureblack",
+		"particle": "./quartzpole4hightextureblack"
+    }
+}

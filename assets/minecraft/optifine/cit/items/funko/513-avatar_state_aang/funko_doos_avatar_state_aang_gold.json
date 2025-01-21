@@ -1,0 +1,13 @@
+{
+	"credit": "robinlol2 ;p",
+	"parent": "./funko_doos_avatar_state_aang",
+	"textures": {
+		"0": "custom/funko/avatar_state_aang_gold",
+		"1": "custom/funko/standaard",
+		"2": "./doos",
+		"3": "custom/funko/aang_staff",
+		"4": "custom/funko/water",
+		"5": "blocks/fire_layer_0",
+		"particle": "custom/funko/avatar_state_aang_gold"
+	}
+}

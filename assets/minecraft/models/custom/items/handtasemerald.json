@@ -1,0 +1,7 @@
+{
+	"parent": "custom/items/handtas",
+	"textures": {
+		"1": "custom/overige/handtasemerald",
+		"particle": "custom/overige/handtasemerald"
+	}
+}

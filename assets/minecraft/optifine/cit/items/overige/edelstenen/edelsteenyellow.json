@@ -1,0 +1,7 @@
+{
+    "parent": "./edelsteen.json",
+	"textures": {
+		"0": "./yellow",
+		"particle": "./yellow"
+    }
+}

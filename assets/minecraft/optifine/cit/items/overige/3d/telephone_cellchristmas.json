@@ -1,0 +1,7 @@
+{
+    "parent": "./telephone_cell.json",
+	"textures": {
+		"0": "./telephone_cellchristmas",
+		"particle": "./telephone_cellchristmas"
+    }
+}

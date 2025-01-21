@@ -1,0 +1,15 @@
+{
+    "credit": "robinlol2 ;p",
+    "parent": "./gui_balkje_base.json",
+    "textures": {
+        "0": "./high_ligt_4_kant",
+        "particle": "./high_ligt_4_kant"
+    },
+    "gui_light": "front",
+    "display": {
+        "gui": {
+            "translation": [72, 65, -75],
+            "scale": [3.66, 3.66, 3.66]
+        }
+    }
+}

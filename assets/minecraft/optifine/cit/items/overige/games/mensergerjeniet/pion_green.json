@@ -1,0 +1,8 @@
+{
+    "credit": "robinlol2 ;p",
+    "parent": "./pion_base.json",
+	"textures": {
+		"0": "./pion_green",
+		"particle": "./pion_green"
+	}
+}

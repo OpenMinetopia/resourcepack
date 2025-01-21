@@ -1,0 +1,8 @@
+{
+	"credit": "Team DDG",
+	"parent": "./jaar_sign_2015",
+	"textures": {
+		"2": "./jaar_sign_2020",
+		"particle": "./jaar_sign_2020"
+	}
+}

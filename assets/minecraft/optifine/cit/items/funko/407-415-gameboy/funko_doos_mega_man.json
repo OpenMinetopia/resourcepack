@@ -1,0 +1,14 @@
+{
+    "credit": "robinlol2 ;p",
+    "parent": "./gameboy_base.json",
+    "textures": {
+        "1": "custom/funko/standaard",
+        "2": "./doos_mega_man",
+        "4": "custom/funko/onzichtbaar",
+        "5": "custom/funko/gameboy_card_blue",
+        "6": "custom/funko/game_boy",
+        "7": "custom/funko/scherm_mega_man",
+        "8": "custom/funko/scherm_mega_man",
+        "particle": "custom/funko/game_boy"
+    }
+}

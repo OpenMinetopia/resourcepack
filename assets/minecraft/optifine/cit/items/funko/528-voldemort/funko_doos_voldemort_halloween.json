@@ -1,0 +1,11 @@
+{
+	"credit": "Team DDG",
+	"parent": "./funko_doos_voldemort",
+	"textures": {
+		"0": "custom/funko/harry_potter_wand",
+		"2": "./funko_doos_voldemort_halloween",
+		"3": "custom/funko/standaard",
+		"4": "custom/funko/voldemort",
+		"particle": "custom/funko/harry_potter_wand"
+	}
+}

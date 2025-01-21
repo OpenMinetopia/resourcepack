@@ -1,0 +1,7 @@
+{
+    "parent": "./wideboyarm_base.json",
+	"textures": {
+		"3": "./jasper2502",
+		"particle": "./jasper2502"
+    }
+}

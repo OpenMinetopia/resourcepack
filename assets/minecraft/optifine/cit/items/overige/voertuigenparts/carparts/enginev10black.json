@@ -1,0 +1,7 @@
+{
+    "parent": "./enginev6.json",
+    "textures": {
+  		"4": "./enginev10black",
+  		"particle": "./enginev10black"
+    }
+}

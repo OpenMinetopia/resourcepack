@@ -1,0 +1,8 @@
+{
+    "parent": "./rainbowwatch.json",
+	"textures": {
+		"0": "./rolexdanny1",
+		"1": "./rolexdanny2",
+		"particle": "./rolexdanny1"
+    }
+}

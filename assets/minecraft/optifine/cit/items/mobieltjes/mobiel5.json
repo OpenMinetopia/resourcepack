@@ -1,0 +1,7 @@
+{
+    "parent": "./mobiel1.json",
+	"textures": {
+		"7": "./mobiel5",
+		"particle": "./mobiel5"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "./aviator_bril",
+    "texture_size": [32, 32],
+  	"textures": {
+  		"0": "./aviator_bril3",
+  		"particle": "./aviator_bril3"
+    }
+}

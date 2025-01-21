@@ -1,0 +1,9 @@
+{
+	"parent":"./mk14_iron_sight",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "./scope",
+		"particle": "./scope",
+		"texture": "./mk14_iron_sight_dessert"
+	}
+}

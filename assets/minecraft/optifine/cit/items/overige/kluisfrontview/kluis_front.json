@@ -1,0 +1,10 @@
+{
+	"credit": "robinlol2 ;p",
+	"parent": "block/red_glazed_terracotta.json",
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0, 0, 0]
+		}
+	}
+}

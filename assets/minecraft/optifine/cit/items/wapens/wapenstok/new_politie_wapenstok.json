@@ -1,0 +1,8 @@
+{
+	"credit": "Team DDG",
+	"parent":"./new_wapenstok",
+	"textures": {
+		"1": "./new_politie_wapenstok",
+		"particle": "./new_politie_wapenstok"
+	}
+}

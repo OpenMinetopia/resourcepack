@@ -1,0 +1,40 @@
+{
+	"credit": "Team DDG",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "./cupidbow"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [66, 90, 0],
+			"translation": [1.5, 1.75, -1.25],
+			"scale": [1.7, 1.7, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [69, 0, -40],
+			"translation": [-5.5, -6.25, 7.5],
+			"scale": [1.7, 1.7, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 105, 25],
+			"translation": [1.13, 3.2, 1.13]
+		},
+		"firstperson_lefthand": {
+			"rotation": [30, -105, 25],
+			"translation": [1.13, 3.2, 1.13]
+		},
+		"ground": {
+			"translation": [0, 1, 0],
+			"scale": [0.52, 0.52, 0.52]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0.75, 0, 0],
+			"scale": [1.87, 1.87, 0.75]
+		},
+		"fixed": {
+			"translation": [-1, 0, 0],
+			"scale": [1.78, 1.78, 1.78]
+		}
+	}
+}

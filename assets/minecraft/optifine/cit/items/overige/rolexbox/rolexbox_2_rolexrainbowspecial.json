@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./rolexbox_2",
+	"textures": {
+		"0": "./2/timepiecerainbowspecial",
+		"1": "./rolexbox",
+		"2": "./2/extrasrainbowspecial",
+		"particle": "./2/timepiecerainbowspecial"
+	}
+}

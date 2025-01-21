@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./kerstverlichting_1",
+		"particle": "./kerstverlichting_1"
+	},
+	"elements": [
+		{
+			"from": [-8.45363, 14.63462, 8],
+			"to": [24.45363, 28.51738, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 21.576, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 7], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 7], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 7], "texture": "#0"},
+				"up": {"uv": [16, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [16, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -2.25, 0],
+			"scale": [0.32, 0.32, 0.32]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -2.25, 0],
+			"scale": [0.32, 0.32, 0.32]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -25.75, 0],
+			"translation": [0.75, -2.25, 0.5],
+			"scale": [0.32, 0.32, 0.32]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -25.75, 0],
+			"translation": [0.75, -2.25, 0.5],
+			"scale": [0.32, 0.32, 0.32]
+		},
+		"ground": {
+			"translation": [0, -3.75, 0],
+			"scale": [0.71, 0.71, 0.71]
+		},
+		"gui": {
+			"translation": [0, -6.75, 0],
+			"scale": [0.48, 0.48, 0.48]
+		},
+		"head": {
+			"translation": [0, -8.5, 10.25],
+			"scale": [2.54, 2.54, 2.54]
+		},
+		"fixed": {
+			"translation": [0, -7.25, 0],
+			"scale": [0.52, 0.52, 0.52]
+		}
+	}
+}

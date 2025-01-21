@@ -1,0 +1,72 @@
+{
+	"__comment": "Designed by Qildor with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"0": "custom/overige/pas_rood",
+		"1": "custom/overige/clear",
+		"particle": "custom/overige/pas_rood"
+	},
+	"elements": [
+		{
+			"__comment": "Element",
+			"from": [ 8, 0, 0 ],
+			"to": [ 8.001, 15, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#0" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#1" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 8.999, 0, 0 ],
+			"to": [ 9, 15, 16 ],
+			"faces": {
+				"down": { "uv": [ 16, 0, 0, 16 ], "texture": "#0" },
+				"up": { "uv": [ 16, 0, 0, 16 ], "texture": "#0" },
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#0" },
+				"south": { "uv": [ 16, 0, 0, 16 ], "texture": "#0" },
+				"west": { "uv": [ 16, 0, 0, 16 ], "texture": "#1" },
+				"east": { "uv": [ 16, 0, 0, 16 ], "texture": "#0" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 1, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, 1, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"firstperson_righthand": {
+			"translation":  [ 0, 5, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 0, 5, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 90, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"rotation":  [ 0, -90, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"ground": {
+			"translation":  [ 0, 1, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, -90, 0 ]
+		}
+	}
+}

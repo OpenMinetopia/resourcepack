@@ -1,0 +1,7 @@
+{
+    "parent": "./waltherpp_snow.json",
+	"textures": {
+		"1": "./waltherpp_camoblue",
+		"particle": "./waltherpp_camoblue"
+    }
+}

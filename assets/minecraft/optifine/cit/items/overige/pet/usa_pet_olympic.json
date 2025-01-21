@@ -1,0 +1,7 @@
+{
+	"credit": "Team DDG",
+	"parent": "./nederland_pet_olympic",
+	"textures": {
+		"2": "./usa_pet_olympic"
+	}
+}

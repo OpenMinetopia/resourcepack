@@ -1,0 +1,7 @@
+{
+    "parent": "./scar_normal.json",
+    "textures": {
+        "0": "./scar_normal_nether",
+        "particle": "./scar_normal_nether"
+    }
+}

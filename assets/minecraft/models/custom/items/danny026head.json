@@ -1,0 +1,46 @@
+{
+	"parent": "block/block",
+	"credit": "Made by Nathantjuhh",
+	"textures": {
+		"0": "custom/heads/danny026",
+		"particle": "blocks/stone"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [4, 4, 8, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [12, 4, 16, 8], "texture": "#0"},
+				"west": {"uv": [8, 4, 12, 8], "texture": "#0"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#0"},
+				"down": {"uv": [8, 0, 12, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-1, -1, -1],
+			"to": [17, 17, 17],
+			"faces": {
+				"north": {"uv": [4, 12, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 12, 4, 16], "texture": "#0"},
+				"south": {"uv": [12, 12, 16, 16], "texture": "#0"},
+				"west": {"uv": [8, 12, 12, 16], "texture": "#0"},
+				"up": {"uv": [4, 8, 8, 12], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [8, 8, 12, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-1.25, -1.5, 3.5],
+			"to": [17.5, 17.5, 5.7],
+			"faces": {
+				"north": {"uv": [4, 10.5, 8, 11], "texture": "#0"},
+				"east": {"uv": [4, 10.5, 8, 11], "texture": "#0"},
+				"south": {"uv": [4, 10.5, 8, 11], "texture": "#0"},
+				"west": {"uv": [4, 10.5, 8, 11], "texture": "#0"},
+				"up": {"uv": [4, 10.5, 8, 11], "texture": "#0"},
+				"down": {"uv": [4, 10.5, 8, 11], "texture": "#0"}
+			}
+		}
+	]
+}

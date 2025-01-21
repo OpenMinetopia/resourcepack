@@ -1,0 +1,43 @@
+{
+    "parent": "./funko_doos_snorlax.json",
+    "textures": {
+        "1": "custom/funko/standaard",
+        "2": "custom/funko/onzichtbaar",
+        "3": "custom/funko/snorlax",
+        "particle": "custom/funko/snorlax"
+
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [68, 0, 0],
+            "translation": [0.25, 3, 0.25],
+            "scale": [0.4, 0.4, 0.4]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [68, 0, 0],
+            "translation": [-0.25, 3, 0.25],
+            "scale": [0.4, 0.4, 0.4]
+        },
+        "firstperson_righthand": {
+            "rotation": [0, 129, 0],
+            "translation": [2, 2, -1.25],
+            "scale": [0.35, 0.35, 0.35]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0, 129, 0],
+            "translation": [2, 2, -1.25],
+            "scale": [0.35, 0.35, 0.35]
+        },
+        "ground": {
+            "translation": [0, 2.75, 0],
+            "scale": [0.4, 0.4, 0.4]
+        },
+        "gui": {
+            "rotation": [26, 137, 0],
+            "translation": [-0.75, -0.5, 0]
+        },
+        "fixed": {
+            "translation": [-1.5, -5, -7.75]
+        }
+    }
+}

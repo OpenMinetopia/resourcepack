@@ -1,0 +1,8 @@
+{
+	"parent":"./m1a_snow.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "./m1a_forgedt10",
+		"particle": "./m1a_forgedt10"
+	}
+}

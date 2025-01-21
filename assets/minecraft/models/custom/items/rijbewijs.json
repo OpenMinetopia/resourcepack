@@ -1,0 +1,94 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"bankpas_achterkant": "custom/overige/rijbewijs_achterkant",
+		"bankpas_voorkant": "custom/overige/rijbewijs_voorkant",
+		"particle": "custom/overige/rijbewijs_voorkant"
+	},
+	"elements": [
+		{
+			"name": "Cube1",
+			"from": [0.5, 7.5, 4.5],
+			"to": [15.5, 8, 11.5],
+			"faces": {
+				"north": {"uv": [0.5, 5, 15.5, 4.5], "texture": "#bankpas_achterkant"},
+				"east": {"uv": [0.5, 4.5, 1, 11.5], "texture": "#bankpas_achterkant", "rotation": 90},
+				"south": {"uv": [15.5, 11.5, 0.5, 11], "texture": "#bankpas_achterkant"},
+				"west": {"uv": [15.5, 11.5, 15, 4.5], "texture": "#bankpas_achterkant", "rotation": 90},
+				"up": {"uv": [0.5, 11.5, 15.5, 4.5], "texture": "#bankpas_achterkant", "rotation": 180},
+				"down": {"uv": [0.5, 4.5, 15.5, 11.5], "texture": "#bankpas_achterkant", "rotation": 180}
+			}
+		},
+		{
+			"name": "Cube2",
+			"from": [1, 7.5, 4],
+			"to": [15, 8, 12],
+			"faces": {
+				"north": {"uv": [1, 4.5, 15, 4], "texture": "#bankpas_achterkant"},
+				"east": {"uv": [1, 4, 1.5, 12], "texture": "#bankpas_achterkant", "rotation": 90},
+				"south": {"uv": [15, 12, 1, 11.5], "texture": "#bankpas_achterkant"},
+				"west": {"uv": [15, 12, 14.5, 4], "texture": "#bankpas_achterkant", "rotation": 90},
+				"up": {"uv": [1, 12, 15, 4], "texture": "#bankpas_achterkant", "rotation": 180},
+				"down": {"uv": [1, 4, 15, 12], "texture": "#bankpas_achterkant", "rotation": 180}
+			}
+		},
+		{
+			"name": "Cube3",
+			"from": [0.5, 8, 4.5],
+			"to": [15.5, 8.5, 11.5],
+			"faces": {
+				"north": {"uv": [15.5, 4.5, 0.5, 5], "texture": "#bankpas_voorkant"},
+				"east": {"uv": [15.5, 11.5, 15, 4.5], "texture": "#bankpas_voorkant", "rotation": 270},
+				"south": {"uv": [0.5, 11, 15.5, 11.5], "texture": "#bankpas_voorkant"},
+				"west": {"uv": [0.5, 4.5, 1, 11.5], "texture": "#bankpas_voorkant", "rotation": 270},
+				"up": {"uv": [0.5, 4.5, 15.5, 11.5], "texture": "#bankpas_voorkant"},
+				"down": {"uv": [0.5, 11.5, 15.5, 4.5], "texture": "#bankpas_voorkant"}
+			}
+		},
+		{
+			"name": "Cube4",
+			"from": [1, 8, 4],
+			"to": [15, 8.5, 12],
+			"faces": {
+				"north": {"uv": [15, 4, 1, 4.5], "texture": "#bankpas_voorkant"},
+				"east": {"uv": [15, 12, 14.5, 4], "texture": "#bankpas_voorkant", "rotation": 270},
+				"south": {"uv": [1, 11.5, 15, 12], "texture": "#bankpas_voorkant"},
+				"west": {"uv": [1, 4, 1.5, 12], "texture": "#bankpas_voorkant", "rotation": 270},
+				"up": {"uv": [1, 4, 15, 12], "texture": "#bankpas_voorkant"},
+				"down": {"uv": [1, 12, 15, 4], "texture": "#bankpas_voorkant"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-67, 180, 86],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-67, 180, 86],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [100, 0, 94],
+			"translation": [0, 3.4782, 2.0869],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [100, 0, 94],
+			"translation": [0, 3.4782, 2.0869],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [90, 0, 0]
+		},
+		"head": {
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"ground": {
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"fixed": {
+			"rotation": [90, 0, 0]
+		}
+	}
+}

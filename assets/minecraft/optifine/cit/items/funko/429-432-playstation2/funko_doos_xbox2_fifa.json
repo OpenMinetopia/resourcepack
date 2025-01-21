@@ -1,0 +1,11 @@
+{
+	"credit": "Team DDG",
+	"parent": "./funko_doos_xbox2_hogwarts_legacy_case",
+	"textures": {
+		"1": "custom/funko/standaard",
+		"2": "./xbox_2_fifa",
+		"3": "./fifa",
+		"6": "custom/funko/xbox",
+		"particle": "./fifa"
+	}
+}

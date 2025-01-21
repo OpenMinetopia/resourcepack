@@ -1,0 +1,54 @@
+{
+    "credit": "robinnoob220 ;p",
+    "parent": "./kerstbol.json",
+    "textures": {
+        "0": "custom/funko/dusdavid",
+        "1": "custom/funko/danny026",
+        "2": "custom/funko/tovenaar_timewalk",
+        "3": "blocks/glass",
+        "4": "blocks/dark_oak_planks",
+        "5": "custom/funko/onzichtbaar",
+        "6": "blocks/snow",
+        "7": "particle/particles",
+        "particle": "custom/funko/dusdavid"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [55, -180, 0],
+            "translation": [0, 4, 0.5],
+            "scale": [0.4, 0.4, 0.4]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [55, -180, 0],
+            "translation": [0, 4, 0.5],
+            "scale": [0.4, 0.4, 0.4]
+        },
+        "firstperson_righthand": {
+            "rotation": [0, -29, 0],
+            "translation": [-1, 6, 0],
+            "scale": [0.5, 0.5, 0.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0, -29, 0],
+            "translation": [-1, 6, 0],
+            "scale": [0.5, 0.5, 0.5]
+        },
+        "ground": {
+            "translation": [0, 4, 0],
+            "scale": [0.5, 0.5, 0.5]
+        },
+        "gui": {
+            "rotation": [16, -28, 0],
+            "translation": [0, 1.5, 0]
+        },
+        "head": {
+            "rotation": [0, -180, 0],
+            "translation": [0, 8, -2.5],
+            "scale": [2, 2, 2]
+        },
+        "fixed": {
+            "rotation": [0, -180, 0],
+            "translation": [0, 0, -4]
+        }
+    }
+}

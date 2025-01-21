@@ -1,0 +1,6 @@
+{
+	"parent": "./scar_normal.json",
+	"textures": {
+		"0": "./scar_normal_blackops"
+	}
+}

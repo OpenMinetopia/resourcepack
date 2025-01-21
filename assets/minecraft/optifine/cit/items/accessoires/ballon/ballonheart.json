@@ -1,0 +1,104 @@
+{
+	"credit": "Team DDG",
+	"textures": {
+		"1": "./heart_baloon_pink"
+	},
+	"elements": [
+		{
+			"name": "Cube19",
+			"from": [7.5, -11, 7.5],
+			"to": [8.5, 11, 8.5],
+			"faces": {
+				"north": {"uv": [6.75, 4.125, 7.875, 11.5], "texture": "#1"},
+				"east": {"uv": [7.5, 5, 8.5, 16], "texture": "#1"},
+				"south": {"uv": [7, 5, 8, 16], "texture": "#1"},
+				"west": {"uv": [7.5, 5, 8.5, 16], "texture": "#1"},
+				"up": {"uv": [7, 7.5, 8, 8.5], "texture": "#1"},
+				"down": {"uv": [7, 7.5, 8, 8.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4.9, 11.35, 3],
+			"to": [10.9, 23.35, 9],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7.9, 17.35, 6]},
+			"faces": {
+				"north": {"uv": [0, 6.5, 1.5, 9.5], "texture": "#1"},
+				"east": {"uv": [6, 0, 7.5, 3], "texture": "#1"},
+				"south": {"uv": [6, 3, 7.5, 6], "texture": "#1"},
+				"west": {"uv": [6, 6, 7.5, 9], "texture": "#1"},
+				"up": {"uv": [3, 8, 1.5, 6.5], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [4.5, 6.5, 3, 8], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"from": [4.9, 20.35, 6],
+			"to": [10.9, 26.35, 12],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7.9, 17.35, 6]},
+			"faces": {
+				"north": {"uv": [7.5, 3, 9, 4.5], "texture": "#1"},
+				"east": {"uv": [4.5, 6.5, 6, 8], "texture": "#1"},
+				"south": {"uv": [7.5, 0, 9, 1.5], "texture": "#1"},
+				"west": {"uv": [7.5, 1.5, 9, 3], "texture": "#1"},
+				"up": {"uv": [9, 6, 7.5, 4.5], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [9, 6, 7.5, 7.5], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.9, 10.25, 6.1],
+			"to": [9.9, 13.25, 10.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [17.9, -4, 0.1]},
+			"faces": {
+				"north": {"uv": [7.5, 8.5, 8.5, 9.25], "texture": "#1"},
+				"east": {"uv": [2.5, 8, 3.5, 8.75], "texture": "#1"},
+				"south": {"uv": [3.5, 8, 4.5, 8.75], "texture": "#1"},
+				"west": {"uv": [4.5, 8, 5.5, 8.75], "texture": "#1"},
+				"up": {"uv": [8.5, 8.5, 7.5, 7.5], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [2.5, 8, 1.5, 9], "rotation": 270, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [65, 0, 0],
+			"translation": [0, 7.5, 10.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [65, 0, 0],
+			"translation": [0, 7.5, 10.25]
+		},
+		"firstperson_righthand": {
+			"translation": [2.5, 8, -1.75]
+		},
+		"firstperson_lefthand": {
+			"translation": [2.5, 8, -1.75]
+		},
+		"ground": {
+			"translation": [0, 23.5, -1.5]
+		},
+		"gui": {
+			"rotation": [-14, -32, 0],
+			"translation": [0.75, -1.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, 18.75, -4.25],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"translation": [0, 0, -5.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "rope",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [0]
+		},
+		1,
+		2,
+		3
+	]
+}

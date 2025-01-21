@@ -1,0 +1,7 @@
+{
+	"parent": "./awg_normal.json",
+	"textures": {
+		"0": "./awg_gold",
+		"particle": "./awg_gold"
+	}
+}

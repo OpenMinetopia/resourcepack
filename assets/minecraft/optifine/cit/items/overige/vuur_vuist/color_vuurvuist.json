@@ -1,0 +1,7 @@
+{
+	"parent": "./vuurvuist",
+	"textures": {
+		"0": "./color_vuurvuist",
+		"particle": "./color_vuurvuist"
+	}
+}

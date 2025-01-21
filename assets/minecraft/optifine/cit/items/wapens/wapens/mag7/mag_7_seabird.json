@@ -1,0 +1,8 @@
+{
+	"parent": "./mag_7_normal.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "./mag_7_seabird",
+		"particle": "./mag_7_seabird"
+	}
+}

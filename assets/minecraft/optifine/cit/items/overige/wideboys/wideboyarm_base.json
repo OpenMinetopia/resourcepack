@@ -1,0 +1,49 @@
+{
+	"credit": "Team DDG",
+	"texture_size": [32, 32],
+	"textures": {
+		"3": "./danny026",
+		"particle": "./danny026"
+	},
+	"elements": [
+		{
+			"from": [13.4434, -4.7324, -1.9792],
+			"to": [20.245, 10.4256, 3.7728],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.8442, 2.8466, 0.3968]},
+			"faces": {
+				"north": {"uv": [10, 5, 11, 8], "texture": "#3"},
+				"east": {"uv": [13, 5, 14, 8], "texture": "#3"},
+				"south": {"uv": [12, 5, 13, 8], "texture": "#3"},
+				"west": {"uv": [11, 5, 12, 8], "texture": "#3"},
+				"up": {"uv": [11, 4, 12, 5], "texture": "#3"},
+				"down": {"uv": [12, 4, 13, 5], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [93, 0, 0],
+			"translation": [-9.75, -10.75, 12],
+			"scale": [1.41977, 1.16, 1.16]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [93, 0, 0],
+			"translation": [15.25, -10.75, 12],
+			"scale": [1.41977, 1.16, 1.16]
+		},
+		"firstperson_lefthand": {
+			"translation": [18.5, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, 61],
+			"translation": [-8.25, -4.5, 0]
+		},
+		"head": {
+			"translation": [0.25, -2, 13.25],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"fixed": {
+			"translation": [-7, 5.5, 8.25]
+		}
+	}
+}

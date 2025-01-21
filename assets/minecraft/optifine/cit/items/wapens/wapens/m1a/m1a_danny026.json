@@ -1,0 +1,7 @@
+{
+    "parent": "./m1a_snow.json",
+	"textures": {
+		"2": "./m1a_danny026",
+		"particle": "./noise"
+    }
+}

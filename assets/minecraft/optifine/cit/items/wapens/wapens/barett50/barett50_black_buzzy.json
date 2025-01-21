@@ -1,0 +1,7 @@
+{
+	"parent": "./barett50_normal",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./barett50_black_buzzy"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "./xxl_block_up_down",
+	"textures": {
+		"0": "./piston_top_normal",
+		"1": "./piston_bottom",
+		"2": "./piston_side",
+		"particle": "./piston_top_normal"
+	}
+}

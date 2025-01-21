@@ -1,0 +1,8 @@
+{
+	"parent": "./vuvuzela_blauw",
+	"textures": {
+		"0": "blocks/concrete_black",
+		"1": "blocks/hardened_clay_stained_yellow",
+		"particle": "blocks/concrete_black"
+	}
+}

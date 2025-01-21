@@ -1,0 +1,49 @@
+{
+	"credit": "Team DDG",
+	"parent": "./funko_valentijn_zijn",
+	"textures": {
+		"1": "custom/funko/standaard",
+		"2": "custom/funko/valentijn",
+		"3": "blocks/dark_oak_planks",
+		"4": "custom/funko/onzichtbaar",
+		"5": "custom/funko/onzichtbaar",
+		"particle": "custom/funko/valentijn"
+	},	
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 0, 0],
+			"translation": [-0.25, 3.75, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 0, 0],
+			"translation": [-0.25, 3.75, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 107, 0],
+			"translation": [2, 2, -1.25],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 107, 0],
+			"translation": [1.25, 2, -1],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [26, 136, 0],
+			"translation": [0, -0.25, 0],
+			"scale": [0.89, 0.89, 0.89]
+		},
+		"head": {
+			"translation": [1, -7.5, 0]
+		},
+		"fixed": {
+			"translation": [-1.75, -1.25, -7.75]
+		}
+	}
+}

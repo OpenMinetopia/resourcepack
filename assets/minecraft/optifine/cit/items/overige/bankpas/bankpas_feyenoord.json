@@ -1,0 +1,8 @@
+{
+    "parent": "./bankpas_10_jaar_danny.json",
+    "textures": {
+        "bankpas_achterkant": "./bankpas_feyenoord_back",
+        "particle": "./bankpas_feyenoord",
+        "bankpas_voorkant": "./bankpas_feyenoord"
+    }
+}

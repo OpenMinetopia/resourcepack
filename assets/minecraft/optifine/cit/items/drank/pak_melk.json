@@ -1,0 +1,9 @@
+{
+	"credit": "Team DDG",
+"parent": "./pak",
+	"textures": {
+		"0": "./pak_melk_non_color",
+		"1": "./pak_melk_color",
+		"particle": "./pak_melk_color"
+	}
+}

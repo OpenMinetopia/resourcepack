@@ -1,0 +1,13 @@
+{
+	"parent":"./ballista_scoped",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "./ballista_marine",
+		"fire": "./fire",
+		"scope_top_1": "./scope_top_1",
+		"scope_top_2": "./scope_top_2",
+		"scope_side": "./scope_side",
+		"scope_side_2": "./scope_side_2",
+		"scope_front": "./scope_front"
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "credit": "robinnoob220 ;p",
+    "parent": "./masker_base.json",
+    "textures": {
+        "0": "./hoofd_dutchtuber",
+        "1": "custom/funko/onzichtbaar",
+        "2": "./band",
+        "3": "custom/funko/onzichtbaar",
+        "4": "custom/funko/onzichtbaar",
+        "particle": "custom/funko/onzichtbaar"
+    }
+}

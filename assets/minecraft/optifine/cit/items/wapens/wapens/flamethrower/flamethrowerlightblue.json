@@ -1,0 +1,8 @@
+{
+	"parent":"./flamethrower.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./flamethrowerlightblue",
+		"particle": "./flamethrowerlightblue"
+	}
+}

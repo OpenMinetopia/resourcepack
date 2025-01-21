@@ -1,0 +1,9 @@
+{
+    "parent": "./btrophy1.json",
+    "textures": {
+		"1": "blocks/gold_block",
+		"2": "blocks/concrete_black",
+		"3": "blocks/concrete_white",
+		"5": "custom/overige/4"
+    }
+}

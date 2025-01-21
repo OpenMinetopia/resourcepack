@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./filmposter_avatar_1",
+	"textures": {
+		"10": "./filmposter_avatar_3",
+		"particle": "./filmposter_avatar_3"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "./funko_doos_chucky",
+	"textures": {
+		"0": "custom/funko/chucky_gold",
+		"2": "./doos",
+		"3": "custom/funko/standaard",
+		"4": "custom/funko/mes",
+		"particle": "custom/funko/chucky_gold"
+	}
+}

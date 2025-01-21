@@ -1,0 +1,6 @@
+{
+    "parent": "./chainsaw.json",
+	"textures": {
+		"2": "./chainsawhalloween"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "credit": "robinnoob220 ;p",
+    "parent": "./hero_beker.json",
+    "textures": {
+		"0": "custom/skins/myreleios_skin",
+		"2": "./hero_beker",
+		"particle": "custom/skins/myreleios_skin"
+    }
+}

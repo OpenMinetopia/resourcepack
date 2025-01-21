@@ -1,0 +1,7 @@
+{
+	"parent": "./scorpion_normal.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "./scorpion_flamingoroze"
+	}
+}

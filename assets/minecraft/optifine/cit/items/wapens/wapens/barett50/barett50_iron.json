@@ -1,0 +1,7 @@
+{
+	"parent": "./barett50_normal.json",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./barett50_iron"
+	}
+}

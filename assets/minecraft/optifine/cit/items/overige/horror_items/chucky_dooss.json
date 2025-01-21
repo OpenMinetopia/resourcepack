@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "./chucky_doos"
+	},
+	"elements": [
+		{
+			"from": [3.25, 0, 4.75],
+			"to": [12.75, 21, 11.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 16, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.375, 5.25], "texture": "#1"},
+				"east": {"uv": [5, 0, 6.625, 5.25], "texture": "#1"},
+				"south": {"uv": [2.5, 0, 4.875, 5.25], "texture": "#1"},
+				"west": {"uv": [0, 5.25, 1.625, 10.5], "texture": "#1"},
+				"up": {"uv": [4.125, 6.875, 1.75, 5.25], "texture": "#1"},
+				"down": {"uv": [6.625, 5.25, 4.25, 6.875], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [1, 3.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [1, 3.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 117, 0],
+			"translation": [1.75, 2.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 117, 0],
+			"translation": [1.75, 2.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.48, 0.48, 0.48]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -1.25, 0],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"head": {
+			"translation": [0, -0.25, 0],
+			"scale": [1.36, 1.36, 1.36]
+		},
+		"fixed": {
+			"translation": [0, -1.75, 0],
+			"scale": [0.79, 0.79, 0.79]
+		}
+	}
+}

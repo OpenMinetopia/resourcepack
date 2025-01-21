@@ -1,0 +1,7 @@
+{
+	"parent": "./tekstballon_aarde",
+	"textures": {
+		"0": "./tekstballon_ster",
+		"particle": "./tekstballon_ster"
+	}
+}

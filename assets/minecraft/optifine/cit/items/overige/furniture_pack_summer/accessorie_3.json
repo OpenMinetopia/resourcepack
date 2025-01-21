@@ -1,0 +1,57 @@
+{
+	"credit": "Polygony Creation Co.,Ltd.",
+	"texture_size": [48, 48],
+	"textures": {
+		"2": "./accessorie_3",
+		"particle": "./accessorie_3"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 16, 0.05],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 5.33333], "texture": "#2"},
+				"south": {"uv": [16, 0, 0, 5.33333], "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [5.75, -1.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [5.75, -1.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [34, 106, 0],
+			"translation": [9.5, 1.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [34, 106, 0],
+			"translation": [9.5, 1.75, 0]
+		},
+		"ground": {
+			"rotation": [45, 0, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [35, 135, 0],
+			"translation": [4, 0, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"translation": [0, -3, 3.75]
+		},
+		"fixed": {
+			"translation": [0, 0, 15.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}
