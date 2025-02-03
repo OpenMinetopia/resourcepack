@@ -3,8 +3,8 @@
 "textures": {
     "particle": "block/red_sand",
     "texture": "block/red_wool",
-    "anvil_base": "block/anvil_base",
-    "hardened_clay_stained_yellow": "block/hardened_clay_stained_yellow",
+    "anvil_base": "block/anvil",
+    "hardened_clay_stained_yellow": "block/yellow_terracotta",
     "lapis_block": "block/lapis_block",
     "mushroom_block_skin_stem": "block/mushroom_block_skin_stem"
 },

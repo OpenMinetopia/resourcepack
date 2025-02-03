@@ -2,8 +2,8 @@
 	"credit": "Team DDG",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "blocks/speelgoed2",
-		"particle": "blocks/speelgoed2"
+		"1": "block/speelgoed2",
+		"particle": "block/speelgoed2"
 	},
 	"elements": [
 		{

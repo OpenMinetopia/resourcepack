@@ -1,7 +1,7 @@
 {
 "__comment": "Designed by Ddgsdevelopment with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
 "textures": {
-    "texture": "block/hardened_clay_stained_blue",
+    "texture": "block/blue_terracotta",
     "iron_block": "block/iron_block",
     "snow": "block/snow"
 },

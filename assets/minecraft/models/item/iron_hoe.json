@@ -1,9 +1,9 @@
 {
 "__comment": "Designed by Eagleshooter217 with BDcraft Cubik PRO 0.96 Beta - http://bdcraft.net",
 "textures": {
-    "texture": "block/anvil_base",
-    "hardened_clay_stained_yellow": "block/hardened_clay_stained_yellow",
-    "redstone_torch_on": "block/redstone_torch_on",
+    "texture": "block/anvil",
+    "hardened_clay_stained_yellow": "block/yellow_terracotta",
+    "redstone_torch_on": "block/redstone_torch",
     "iron_block": "block/iron_block"
 },
 "elements": [ 

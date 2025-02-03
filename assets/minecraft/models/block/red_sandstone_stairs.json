@@ -1,16 +1,16 @@
 {
 	"credit": "robinnoob220 ;p",
 	"textures": {
-		"1": "block/anvil_base",
-		"2": "block/concrete_silver",
+		"1": "block/anvil",
+		"2": "block/light_gray_concrete",
 		"3": "block/beacon",
-		"4": "block/stone_slab_top",
+		"4": "block/smooth_stone",
 		"5": "block/black_concrete",
-		"7": "block/concrete_red",
-		"8": "block/concrete_lime",
-		"9": "block/concrete_yellow",
+		"7": "block/red_concrete",
+		"8": "block/lime_concrete",
+		"9": "block/yellow_concrete",
 		"10": "custom/overige/4",
-		"particle": "block/concrete_gray"
+		"particle": "block/light_gray_concrete"
 	},
 	"elements": [
 		{

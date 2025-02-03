@@ -1,9 +1,9 @@
 {
 "__comment": "Designed by Portalcrafter51 with BDcraft Cubik PRO 0.8 Beta - http://bdcraft.net",
 "textures": {
-    "dark_handle": "block/anvil_base",
+    "dark_handle": "block/anvil",
     "texture": "block/iron_block",
-    "handle": "block/planks_jungle"
+    "handle": "block/jungle_planks"
 },
 "elements": [ 
 {

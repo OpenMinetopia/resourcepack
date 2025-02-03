@@ -1,10 +1,10 @@
 {
 	"credit": "Made by Zeeppompje for the DDG MineTopia ResourcePack",
 	"textures": {
-		"0": "blocks/concrete_cyan",
+		"0": "block/cyan_concrete",
 		"1": "custom/overige/minetopia_logo",
-		"2": "blocks/concrete_silver",
-		"particle": "blocks/concrete_cyan"
+		"2": "block/silver_concrete",
+		"particle": "block/cyan_concrete"
 	},
 	"elements": [
 		{

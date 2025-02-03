@@ -1,7 +1,7 @@
 {
 "__comment": "Designed by Timbayens by order of DusDavid (DusDavidGames)",
 "textures": {
-    "texture": "blocks/wool_colored_black"
+    "texture": "block/black_wool"
 },
 "elements": [ 
 {

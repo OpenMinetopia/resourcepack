@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/abilitycooldown",
+		"0": "block/upgrades/abilitycooldown",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/abilitycooldown"
+		"particle": "block/upgrades/abilitycooldown"
 	},
 	"elements": [ 	 
 		{

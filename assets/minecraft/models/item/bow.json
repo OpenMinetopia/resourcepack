@@ -1,7 +1,7 @@
 {
 "textures": {
-    "texture": "block/anvil_base",
-    "planks_acacia": "block/wool_colored_brown"
+    "texture": "block/anvil",
+    "planks_acacia": "block/brown_wool"
 },
 "elements": [ 
 {

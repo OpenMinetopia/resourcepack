@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "block/anvil_base",
-		"color": "block/anvil_base",
+		"particle": "block/anvil",
+		"color": "block/anvil",
 		"light": "block/sea_lantern",
 		"color2": "block/cyan_terracotta",
 		"button": "block/polished_andesite"

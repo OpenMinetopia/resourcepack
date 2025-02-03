@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/zakkenrollen",
+		"0": "block/upgrades/zakkenrollen",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/zakkenrollen"
+		"particle": "block/upgrades/zakkenrollen"
 	},
 	"elements": [ 	 
 		{

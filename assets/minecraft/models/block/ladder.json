@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"ladder": "block/planks_oak",
-		"particle": "block/planks_oak"
+		"ladder": "block/oak_planks",
+		"particle": "block/oak_planks"
 	},
 	"elements": [
 		{

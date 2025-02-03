@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/wapenstokcooldown",
+		"0": "block/upgrades/wapenstokcooldown",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/wapenstokcooldown"
+		"particle": "block/upgrades/wapenstokcooldown"
 	},
 	"elements": [ 	 
 		{

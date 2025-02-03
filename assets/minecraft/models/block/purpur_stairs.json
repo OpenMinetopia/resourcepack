@@ -1,16 +1,16 @@
 {
 	"credit": "robinnoob220 ;p",
 	"textures": {
-		"0": "block/concrete_black",
-		"1": "block/concrete_silver",
-		"2": "block/stone_slab_top",
-		"3": "block/anvil_base",
-		"6": "block/concrete_red",
-		"7": "block/concrete_lime",
-		"8": "block/concrete_yellow",
+		"0": "block/black_concrete",
+		"1": "block/light_gray_concrete",
+		"2": "block/smooth_stone",
+		"3": "block/anvil",
+		"6": "block/red_concrete",
+		"7": "block/lime_concrete",
+		"8": "block/yellow_concrete",
 		"9": "custom/overige/4",
-		"10": "block/wool_colored_gray",
-		"particle": "block/concrete_black"
+		"10": "block/gray_wool",
+		"particle": "block/black_concrete"
 	},
 	"elements": [
 		{

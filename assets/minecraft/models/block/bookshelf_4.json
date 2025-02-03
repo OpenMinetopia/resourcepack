@@ -1,9 +1,9 @@
 {
 "__comment": "Sibsib92 3D Models for Default Resourcepack",
 "textures": {
-    "texture": "block/planks_oak",
+    "texture": "block/oak_planks",
     "particle": "block/bookshelf",
-    "lapis": "item/dye_powder_blue",
+    "lapis": "item/blue_dye",
     "emerald": "item/emerald",
     "gold_ingot": "item/gold_ingot",
     "redstone_dust": "item/redstone_dust",

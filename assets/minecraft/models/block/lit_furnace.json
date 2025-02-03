@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/dirt",
-		"2": "block/glass_black",
-		"3": "block/anvil_base",
-		"4": "block/stone_slab_top",
+		"2": "block/black_stained_glass",
+		"3": "block/anvil",
+		"4": "block/smooth_stone",
 		"5": "custom/overige/furnace_top",
-		"particle": "block/glass_black"
+		"particle": "block/black_stained_glass"
 	},
 	"elements": [
 		{

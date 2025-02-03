@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Nathankuijt with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_gray",
-		"texture": "blocks/coal_block",
-		"texture1": "blocks/quartz_block_bottom"
+		"particle": "block/gray_terracotta",
+		"texture": "block/coal_block",
+		"texture1": "block/quartz_block_bottom"
 	},
 	"elements": [ 	 
 		{

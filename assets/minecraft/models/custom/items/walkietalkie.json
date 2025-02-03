@@ -1,10 +1,10 @@
 {
 	"credit": "Made by Zeeppompje for the DDG MineTopia ResourcePack",
 	"textures": {
-		"0": "blocks/dispenser_front_horizontal",
-		"1": "blocks/structure_block",
-		"3": "blocks/bedrock",
-		"particle": "blocks/dispenser_front_horizontal"
+		"0": "block/dispenser_front",
+		"1": "block/structure_block",
+		"3": "block/bedrock",
+		"particle": "blocks/dispenser_front"
 	},
 	"elements": [
 		{

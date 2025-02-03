@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by Timbayens by order of DusDavid (DusDavidGames)",
 "textures": {
-    "texture": "block/anvil_base",
-    "row": "block/hardened_clay_stained_green"
+    "texture": "block/anvil",
+    "row": "block/green_terracotta"
 },
 "elements": [ 
 {

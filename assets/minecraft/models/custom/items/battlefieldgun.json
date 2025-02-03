@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/battlefieldgun",
+		"0": "block/upgrades/battlefieldgun",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/battlefieldgun"
+		"particle": "block/upgrades/battlefieldgun"
 	},
 	"elements": [ 	 
 		{

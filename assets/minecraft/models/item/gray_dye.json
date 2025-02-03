@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by NathanKuijt - In Order Of DusDavidGames",
 "textures": {
-    "particle": "block/anvil_base",
-    "texture": "block/anvil_base"
+    "particle": "block/anvil",
+    "texture": "block/anvil"
 },
 "elements": [ 
 {

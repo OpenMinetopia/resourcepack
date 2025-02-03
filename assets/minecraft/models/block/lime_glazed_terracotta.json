@@ -1,9 +1,9 @@
 {
 	"credit": "robinnoob220 ;p",
 	"textures": {
-		"0": "block/door_spruce_upper",
-		"1": "block/itemframe_background",
-		"particle": "block/door_spruce_upper"
+		"0": "block/spruce_door_top",
+		"1": "block/item_frame",
+		"particle": "block/spruce_door_top"
 	},
 	"elements": [
 		{

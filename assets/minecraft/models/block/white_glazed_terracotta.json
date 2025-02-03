@@ -1,14 +1,14 @@
 {
 	"credit": "robinnoob220 ;p",
 	"textures": {
-		"1": "block/anvil_base",
+		"1": "block/anvil",
 		"2": "block/black_wool",
 		"3": "block/iron_block",
 		"4": "block/quartz_block_bottom",
 		"5": "block/andesite",
 		"6": "block/cyan_wool",
-		"7": "block/itemframe_background",
-		"particle": "block/anvil_base"
+		"7": "block/item_frame",
+		"particle": "block/anvil"
 	},
 	"elements": [
 		{

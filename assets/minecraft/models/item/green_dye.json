@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/e_particle",
 		"texture": "block/e_texture",
-		"texture1": "block/anvil_base",
+		"texture1": "block/anvil",
 		"texture2": "block/lime_stained_glass"
 	},
 	"elements": [

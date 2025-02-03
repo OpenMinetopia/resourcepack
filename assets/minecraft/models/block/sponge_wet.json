@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/stone_slab_top",
-		"1": "block/hardened_clay_stained_yellow",
+		"0": "block/smooth_stone",
+		"1": "block/yellow_terracotta",
 		"2": "custom/overige/oil",
-		"particle": "block/stone_slab_top"
+		"particle": "block/smooth_stone"
 	},
 	"elements": [
 		{

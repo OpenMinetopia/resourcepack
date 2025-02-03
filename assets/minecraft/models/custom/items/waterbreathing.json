@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/waterbreathing",
+		"0": "block/upgrades/waterbreathing",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/waterbreathing"
+		"particle": "block/upgrades/waterbreathing"
 	},
 	"elements": [ 	 
 		{

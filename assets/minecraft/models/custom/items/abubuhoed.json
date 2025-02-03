@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by Timbayens by order of DusDavid (DusDavidGames)",
 "textures": {
-    "straw": "blocks/gold_block",
-    "texture": "blocks/bed_feet_top"
+    "straw": "block/gold_block",
+    "texture": "block/bed_feet_top"
 },
 "elements": [ 
 {

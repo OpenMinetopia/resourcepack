@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom/overige/zebra",
-		"1": "blocks/hardened_clay_stained_black",
+		"1": "block/black_terracotta",
 		"particle": "custom/overige/zebra"
 	},
 	"elements": [

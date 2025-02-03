@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/zwemspeed",
+		"0": "block/upgrades/zwemspeed",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/zwemspeed"
+		"particle": "block/upgrades/zwemspeed"
 	},
 	"elements": [ 	 
 		{

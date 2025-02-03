@@ -1,11 +1,11 @@
 {
 	"credit": "Made by Nathantjuhh",
 	"textures": {
-		"0": "block/anvil_base",
+		"0": "block/anvil",
 		"1": "block/clay",
-		"2": "block/hardened_clay_stained_red",
-		"3": "block/hardened_clay_stained_white",
-		"particle": "block/anvil_base"
+		"2": "block/red_terracotta",
+		"3": "block/white_terracotta",
+		"particle": "block/anvil"
 	},
 	"elements": [
 		{
