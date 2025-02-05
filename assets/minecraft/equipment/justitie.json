@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:justitie"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:justitie"
+    } ]
+  }
+}

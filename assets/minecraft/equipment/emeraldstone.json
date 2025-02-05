@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:emeraldstone"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:emeraldstone"
+    } ]
+  }
+}

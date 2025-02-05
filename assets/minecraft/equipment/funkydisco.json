@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:funkydisco"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:funkydisco"
+    } ]
+  }
+}

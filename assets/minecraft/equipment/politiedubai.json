@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:politiedubai"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:politiedubai"
+    } ]
+  }
+}

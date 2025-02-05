@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:kwik_kwek_en_kwak"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:kwik_kwek_en_kwak"
+    } ]
+  }
+}

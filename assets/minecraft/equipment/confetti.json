@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:confetti"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:confetti"
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:mondriaan3"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:mondriaan3"
+    } ]
+  }
+}

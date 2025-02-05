@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:magma"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:magma"
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:disco_overlay"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:disco_overlay"
+    } ]
+  }
+}

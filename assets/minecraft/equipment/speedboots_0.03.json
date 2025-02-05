@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:speedboots_0.03"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:speedboots_0.03"
+    } ]
+  }
+}

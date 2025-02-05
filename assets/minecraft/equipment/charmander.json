@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:charmander"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:charmander"
+    } ]
+  }
+}

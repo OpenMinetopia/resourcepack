@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:venomgold"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:venomgold"
+    } ]
+  }
+}

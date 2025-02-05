@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:valentijn_ddg_2023_3"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:valentijn_ddg_2023_3"
+    } ]
+  }
+}

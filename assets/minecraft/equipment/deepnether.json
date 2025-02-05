@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:deepnether"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:deepnether"
+    } ]
+  }
+}

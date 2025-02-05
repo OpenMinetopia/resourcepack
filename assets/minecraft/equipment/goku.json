@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:goku"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:goku"
+    } ]
+  }
+}

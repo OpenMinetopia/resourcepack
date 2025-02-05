@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:octo"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:octo"
+    } ]
+  }
+}

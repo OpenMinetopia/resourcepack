@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:manchester_city"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:manchester_city"
+    } ]
+  }
+}

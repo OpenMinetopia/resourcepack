@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:voldemort"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:voldemort"
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:ek2021ned"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:ek2021ned"
+    } ]
+  }
+}

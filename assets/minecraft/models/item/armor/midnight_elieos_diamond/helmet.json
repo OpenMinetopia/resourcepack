@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/generated",
+  "textures" : {
+    "layer0" : "minecraft:item/armor/midnight_elieos_diamond/helmet"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:end_portal"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:end_portal"
+    } ]
+  }
+}

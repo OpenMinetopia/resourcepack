@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:mariolegend"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:mariolegend"
+    } ]
+  }
+}

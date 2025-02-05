@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:dark_prismarine"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:dark_prismarine"
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:halloween_2022_shirt"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:halloween_2022_shirt"
+    } ]
+  }
+}

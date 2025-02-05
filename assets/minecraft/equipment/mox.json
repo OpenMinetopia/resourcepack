@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:mox"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:mox"
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:fakeagent"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:fakeagent"
+    } ]
+  }
+}

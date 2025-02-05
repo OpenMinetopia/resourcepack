@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:fctwente"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:fctwente"
+    } ]
+  }
+}

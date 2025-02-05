@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:goudpak"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:goudpak"
+    } ]
+  }
+}

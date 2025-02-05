@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:aqua_diamond"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:aqua_diamond"
+    } ]
+  }
+}

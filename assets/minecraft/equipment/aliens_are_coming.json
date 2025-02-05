@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:aliens_are_coming"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:aliens_are_coming"
+    } ]
+  }
+}

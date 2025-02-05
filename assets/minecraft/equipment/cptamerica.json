@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:cptamerica"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:cptamerica"
+    } ]
+  }
+}

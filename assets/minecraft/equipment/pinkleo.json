@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:pinkleo"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:pinkleo"
+    } ]
+  }
+}

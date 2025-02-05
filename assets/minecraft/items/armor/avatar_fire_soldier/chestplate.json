@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/armor/avatar_fire_soldier/chestplate"
+  }
+}

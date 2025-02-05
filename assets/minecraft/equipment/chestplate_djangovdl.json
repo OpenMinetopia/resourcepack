@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:chestplate_djangovdl"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:chestplate_djangovdl"
+    } ]
+  }
+}

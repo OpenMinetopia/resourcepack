@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:golden_age_diamond"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:golden_age_diamond"
+    } ]
+  }
+}

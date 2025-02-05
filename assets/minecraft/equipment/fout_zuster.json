@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:fout_zuster"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:fout_zuster"
+    } ]
+  }
+}

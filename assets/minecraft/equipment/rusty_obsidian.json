@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:rusty_obsidian"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:rusty_obsidian"
+    } ]
+  }
+}

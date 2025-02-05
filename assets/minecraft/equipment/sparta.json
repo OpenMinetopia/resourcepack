@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:sparta"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:sparta"
+    } ]
+  }
+}

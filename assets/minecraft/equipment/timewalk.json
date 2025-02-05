@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:timewalk"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:timewalk"
+    } ]
+  }
+}

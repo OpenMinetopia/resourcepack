@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:sapphirestone"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:sapphirestone"
+    } ]
+  }
+}

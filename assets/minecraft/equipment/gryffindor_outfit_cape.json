@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:gryffindor_outfit_cape"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:gryffindor_outfit_cape"
+    } ]
+  }
+}

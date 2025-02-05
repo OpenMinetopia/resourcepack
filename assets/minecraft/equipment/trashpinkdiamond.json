@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:trashpinkdiamond"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:trashpinkdiamond"
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:grinch"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:grinch"
+    } ]
+  }
+}

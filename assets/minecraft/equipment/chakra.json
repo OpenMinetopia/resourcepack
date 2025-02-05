@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:chakra"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:chakra"
+    } ]
+  }
+}

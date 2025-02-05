@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:endstone"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:endstone"
+    } ]
+  }
+}

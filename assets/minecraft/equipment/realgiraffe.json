@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:realgiraffe"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:realgiraffe"
+    } ]
+  }
+}

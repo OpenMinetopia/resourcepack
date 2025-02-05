@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:kerstman_2024"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:kerstman_2024"
+    } ]
+  }
+}

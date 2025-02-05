@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:spiderman2gold"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:spiderman2gold"
+    } ]
+  }
+}

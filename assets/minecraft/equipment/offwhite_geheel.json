@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:offwhite_geheel"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:offwhite_geheel"
+    } ]
+  }
+}

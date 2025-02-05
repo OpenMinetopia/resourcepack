@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:gucci_chestplate"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:gucci_chestplate"
+    } ]
+  }
+}
