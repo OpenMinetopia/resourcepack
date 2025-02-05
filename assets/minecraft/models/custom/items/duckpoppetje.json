@@ -1,10 +1,10 @@
 {
 	"credit": "Made by Zeeppompje for the DDG MineTopia ResourcePack",
 	"textures": {
-		"0": "blocks/concrete_yellow",
-		"1": "blocks/hardened_clay_stained_orange",
-		"2": "blocks/coal_block",
-		"particle": "blocks/concrete_yellow"
+		"0": "block/concrete_yellow",
+		"1": "block/hardened_clay_stained_orange",
+		"2": "block/coal_block",
+		"particle": "block/concrete_yellow"
 	},
 	"elements": [
 		{

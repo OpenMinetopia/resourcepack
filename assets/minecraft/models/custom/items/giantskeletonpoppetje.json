@@ -3,11 +3,11 @@
 	"textures": {
 		"particle": "custom/overige/skeleton_skin",
 		"skeletonskin": "custom/overige/skeleton_skin",
-		"blackskeletonhead": "blocks/wool_colored_black",
+		"blackskeletonhead": "block/wool_colored_black",
 		"skeletonleather": "custom/overige/skeleton_leather",
-		"skeletoneyes": "blocks/hardened_clay_stained_red",
+		"skeletoneyes": "block/hardened_clay_stained_red",
 		"skeleton_sword": "custom/overige/skeleton_sword",
-		"goldskeletoncrown": "blocks/gold_block"
+		"goldskeletoncrown": "block/gold_block"
 	},
 	"elements": [
 		{

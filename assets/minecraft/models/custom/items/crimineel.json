@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/crimineel",
+		"0": "block/upgrades/crimineel",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/crimineel"
+		"particle": "block/upgrades/crimineel"
 	},
 	"elements": [ 	 
 		{

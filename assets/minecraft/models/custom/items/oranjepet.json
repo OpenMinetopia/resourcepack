@@ -1,12 +1,12 @@
 {
 	"credit": "Made by Nathantjuhh",
 	"textures": {
-		"0": "blocks/wool_colored_black",
-		"1": "blocks/hardened_clay_stained_orange",
-		"2": "blocks/hardened_clay_stained_red",
-		"3": "blocks/quartz_block_bottom",
-		"4": "blocks/lapis_block",
-		"particle": "blocks/wool_colored_black"
+		"0": "block/wool_colored_black",
+		"1": "block/hardened_clay_stained_orange",
+		"2": "block/hardened_clay_stained_red",
+		"3": "block/quartz_block_bottom",
+		"4": "block/lapis_block",
+		"particle": "block/wool_colored_black"
 	},
 	"elements": [
 		{

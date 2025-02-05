@@ -4,7 +4,7 @@
     "textures": {
         "0": "items/gold_ingot",
         "1": "./munt_standaard",
-        "2": "blocks/glass",
+        "2": "block/glass",
         "particle": "items/gold_ingot"
     },
     "elements": [{

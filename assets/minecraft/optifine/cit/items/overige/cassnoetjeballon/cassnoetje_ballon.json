@@ -4,7 +4,7 @@
 		"2": "custom/overige/cassnoetje_ballon",
 		"Rope": "custom/overige/ballonrope",
 		"particle": "custom/overige/ballonrope",
-		"ballon": "blocks/hardened_clay_stained_yellow"
+		"ballon": "block/hardened_clay_stained_yellow"
 	},
 	"elements": [
 		{

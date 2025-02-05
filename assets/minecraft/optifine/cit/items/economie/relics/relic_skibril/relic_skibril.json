@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "blocks/cauldron_inner",
-		"3": "blocks/frosted_ice_0",
+		"1": "block/cauldron_inner",
+		"3": "block/frosted_ice_0",
 		"4": "custom/overige/bronze",
 		"5": "custom/overige/dark_bronze",
 		"1_3": "custom/overige/gold"

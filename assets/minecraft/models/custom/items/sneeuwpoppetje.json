@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"0": "blocks/jukebox_top",
-		"1": "blocks/wool_colored_orange",
-		"2": "blocks/wool_colored_red",
-		"3": "blocks/door_iron_lower",
-		"4": "blocks/log_oak",
-		"ballon": "blocks/quartz_block_bottom",
-		"particle": "blocks/jukebox_top"
+		"0": "block/jukebox_top",
+		"1": "block/wool_colored_orange",
+		"2": "block/wool_colored_red",
+		"3": "block/door_iron_lower",
+		"4": "block/log_oak",
+		"ballon": "block/quartz_block_bottom",
+		"particle": "block/jukebox_top"
 	},
 	"elements": [
 		{

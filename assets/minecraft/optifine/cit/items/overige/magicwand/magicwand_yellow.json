@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "./magicwand_yellow",
-		"2": "blocks/clay",
-		"particle": "blocks/clay"
+		"2": "block/clay",
+		"particle": "block/clay"
 	},
 	"elements": [
 		{

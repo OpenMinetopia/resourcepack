@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "blocks/anvil_base",
-		"row": "blocks/diamond_block"
+		"texture": "block/anvil_base",
+		"row": "block/diamond_block"
 	},
 	"elements": [
 		{

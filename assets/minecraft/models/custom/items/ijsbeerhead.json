@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by NathanKuijt - In Order Of DusDavidGames",
 	"textures": {
-		"particle": "blocks/snow",
-		"texture": "blocks/quartz_block_bottom",
-		"coal_block": "blocks/coal_block"
+		"particle": "block/snow",
+		"texture": "block/quartz_block_bottom",
+		"coal_block": "block/coal_block"
 	},
 	"elements": [ 	 
 		{

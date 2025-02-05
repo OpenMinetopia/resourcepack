@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/anvil_base",
+		"0": "block/anvil_base",
 		"3": "custom/overige/gold",
 		"4": "custom/overige/bronze",
 		"5": "custom/overige/dark_bronze",
-		"particle": "blocks/anvil_base"
+		"particle": "block/anvil_base"
 	},
 	"elements": [
 		{

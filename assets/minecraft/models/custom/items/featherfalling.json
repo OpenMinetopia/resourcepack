@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/featherfalling",
+		"0": "block/upgrades/featherfalling",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/featherfalling"
+		"particle": "block/upgrades/featherfalling"
 	},
 	"elements": [ 	 
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/shulker_top_red",
-		"1": "blocks/gold_block",
-		"particle": "blocks/shulker_top_red"
+		"0": "block/shulker_top_red",
+		"1": "block/gold_block",
+		"particle": "block/shulker_top_red"
 	},
 	"elements": [
 		{

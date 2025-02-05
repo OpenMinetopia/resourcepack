@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by AlwaysLucky_",
 	"textures": {
 		"0": "./horns_demonred",
-		"particle": "blocks/white_concrete"
+		"particle": "block/white_concrete"
 	},
 	"elements": [
 		{

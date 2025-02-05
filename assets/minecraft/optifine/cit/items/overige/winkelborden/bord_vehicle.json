@@ -2,10 +2,10 @@
     "credit": "robinnoob220 ;p",
     "textures": {
         "0": "custom/vehicle",
-        "2": "blocks/planks_acacia",
-        "3": "blocks/quartz_block_bottom",
-        "5": "blocks/quartz_ore",
-        "10": "blocks/red_nether_brick",
+        "2": "block/planks_acacia",
+        "3": "block/quartz_block_bottom",
+        "5": "block/quartz_ore",
+        "10": "block/red_nether_brick",
         "particle": "custom/vehicle"
     },
     "elements": [{

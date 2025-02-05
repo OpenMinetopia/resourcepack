@@ -3,9 +3,9 @@
 	"parent": "./bord_food",
 	"textures": {
 		"0": "custom/halloween",
-		"1": "blocks/obsidian",
-		"2": "blocks/log_big_oak",
-		"3": "blocks/log_big_oak_top",
+		"1": "block/obsidian",
+		"2": "block/log_big_oak",
+		"3": "block/log_big_oak_top",
 		"particle": "custom/halloween"
 	}
 }

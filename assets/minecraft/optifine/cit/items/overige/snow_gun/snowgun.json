@@ -2,9 +2,9 @@
 	"credit": "Team DDG",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "blocks/snow",
+		"1": "block/snow",
 		"2": "./snowgun",
-		"particle": "blocks/snow"
+		"particle": "block/snow"
 	},
 	"elements": [
 		{

@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/anvil_base",
-		"1": "blocks/hardened_clay_stained_cyan",
-		"2": "blocks/bone_block_side",
-		"3": "blocks/concrete_orange",
-		"12": "blocks/concrete_gray",
-		"14": "blocks/glass_gray",
-		"particle": "blocks/hardened_clay_stained_cyan"
+		"0": "block/anvil_base",
+		"1": "block/hardened_clay_stained_cyan",
+		"2": "block/bone_block_side",
+		"3": "block/concrete_orange",
+		"12": "block/concrete_gray",
+		"14": "block/glass_gray",
+		"particle": "block/hardened_clay_stained_cyan"
 	},
 	"elements": [
 		{

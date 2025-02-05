@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/jumpboost",
+		"0": "block/upgrades/jumpboost",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/jumpboost"
+		"particle": "block/upgrades/jumpboost"
 	},
 	"elements": [ 	 
 		{

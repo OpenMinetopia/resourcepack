@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "blocks/anvil_base",
-		"5": "blocks/coal_block",
-		"6": "blocks/hardened_clay_stained_red",
+		"4": "block/anvil_base",
+		"5": "block/coal_block",
+		"6": "block/hardened_clay_stained_red",
 		"8": "./anvil_base_light"
 	},
 	"elements": [

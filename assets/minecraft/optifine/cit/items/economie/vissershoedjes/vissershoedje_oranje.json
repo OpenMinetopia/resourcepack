@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/wool_colored_orange",
+		"0": "block/wool_colored_orange",
 		"1": "custom/overige/minetopia_logo",
-		"2": "blocks/anvil_base",
-		"particle": "blocks/wool_colored_orange"
+		"2": "block/anvil_base",
+		"particle": "block/wool_colored_orange"
 	},
 	"elements": [
 		{

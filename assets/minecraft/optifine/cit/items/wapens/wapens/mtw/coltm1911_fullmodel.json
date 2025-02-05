@@ -2,8 +2,8 @@
 	"__comment": "Designed by Spooky_538 with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"1": "./coltm1911_fullmodel",
-		"3": "blocks/concrete_black",
-		"particle": "blocks/anvil_base"
+		"3": "block/concrete_black",
+		"particle": "block/anvil_base"
 	},
 	"elements": [
 		{

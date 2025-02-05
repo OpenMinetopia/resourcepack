@@ -1,12 +1,12 @@
 {
 	"credit": "Made by Crafter_Lukas, DDG Resource Pack Artist",
 	"textures": {
-		"0": "blocks/wool_colored_red",
-		"1": "blocks/wool_colored_yellow",
-		"2": "blocks/wool_colored_lime",
-		"3": "blocks/wool_colored_light_blue",
-		"4": "blocks/anvil_base",
-		"particle": "blocks/wool_colored_red"
+		"0": "block/wool_colored_red",
+		"1": "block/wool_colored_yellow",
+		"2": "block/wool_colored_lime",
+		"3": "block/wool_colored_light_blue",
+		"4": "block/anvil_base",
+		"particle": "block/wool_colored_red"
 	},
 	"elements": [
 		{

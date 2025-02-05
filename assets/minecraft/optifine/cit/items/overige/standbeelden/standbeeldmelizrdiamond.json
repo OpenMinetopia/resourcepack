@@ -3,8 +3,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "custom/standbeelden/standbeeldmelizrdiamond",
-		"1": "blocks/diamond_block",
-		"particle": "blocks/diamond_block"
+		"1": "block/diamond_block",
+		"particle": "block/diamond_block"
 	},
 	"elements": [
 		{

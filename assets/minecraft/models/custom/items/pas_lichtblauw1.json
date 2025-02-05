@@ -2,7 +2,7 @@
 	"__comment": "Designed by Qildor with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"0": "custom/overige/pas_lichtblauw1",
-		"1": "blocks/badges/clear",
+		"1": "block/badges/clear",
 		"particle": "custom/overige/pas_lichtblauw1"
 	},
 	"elements": [

@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/silver5",
+		"0": "block/upgrades/silver5",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/silver5"
+		"particle": "block/upgrades/silver5"
 	},
 	"elements": [ 	 
 		{

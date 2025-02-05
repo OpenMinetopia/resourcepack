@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/healthboost",
+		"0": "block/upgrades/healthboost",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/healthboost"
+		"particle": "block/upgrades/healthboost"
 	},
 	"elements": [ 	 
 		{

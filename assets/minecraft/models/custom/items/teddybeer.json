@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"huid": "blocks/wool_colored_brown",
-		"oogjes": "blocks/coal_block",
-		"neus": "blocks/hardened_clay_stained_brown"
+		"huid": "block/wool_colored_brown",
+		"oogjes": "block/coal_block",
+		"neus": "block/hardened_clay_stained_brown"
 	},
 	"elements": [
 		{

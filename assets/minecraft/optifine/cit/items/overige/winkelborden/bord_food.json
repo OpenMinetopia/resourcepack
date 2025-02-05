@@ -2,9 +2,9 @@
     "credit": "robinnoob220 ;p",
     "textures": {
         "0": "custom/food",
-        "1": "blocks/cobblestone",
-        "2": "blocks/log_oak",
-        "3": "blocks/log_oak_top",
+        "1": "block/cobblestone",
+        "2": "block/log_oak",
+        "3": "block/log_oak_top",
         "particle": "custom/food"
     },
     "elements": [{

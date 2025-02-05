@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "blocks/cauldron_inner",
-		"wool_colored_blue": "blocks/gold_block",
-		"snow": "blocks/snow",
-		"cap": "blocks/gold_block",
-		"iron_block": "blocks/iron_block",
+		"texture": "block/cauldron_inner",
+		"wool_colored_blue": "block/gold_block",
+		"snow": "block/snow",
+		"cap": "block/gold_block",
+		"iron_block": "block/iron_block",
 		"DDG": "custom/overige/dhd_logo"
 	},
 	"elements": [

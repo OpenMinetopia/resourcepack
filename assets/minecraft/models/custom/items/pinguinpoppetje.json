@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Nathankuijt with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/coal_block",
-		"texture": "blocks/red_sand",
-		"texture1": "blocks/quartz_block_bottom",
+		"particle": "block/coal_block",
+		"texture": "block/red_sand",
+		"texture1": "block/quartz_block_bottom",
 		"texture2": "custom/overige/pinguin"
 	},
 	"elements": [

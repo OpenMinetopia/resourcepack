@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/money",
+		"0": "block/upgrades/money",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/money"
+		"particle": "block/upgrades/money"
 	},
 	"elements": [ 	 
 		{

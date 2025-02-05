@@ -1,8 +1,8 @@
 {
 	"credit": "Team DDG",
 	"textures": {
-		"1": "blocks/snow",
-		"particle": "blocks/snow"
+		"1": "block/snow",
+		"particle": "block/snow"
 	},
 	"elements": [
 		{

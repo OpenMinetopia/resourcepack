@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/wool_colored_orange",
-		"1": "blocks/anvil_base",
-		"particle": "blocks/wool_colored_orange"
+		"0": "block/wool_colored_orange",
+		"1": "block/anvil_base",
+		"particle": "block/wool_colored_orange"
 	},
 	"elements": [
 		{

@@ -6,8 +6,8 @@
 		"5": "custom/overige/dark_bronze",
 		"particle": "custom/overige/watch_background",
 		"background": "custom/overige/watch_background",
-		"bandje": "blocks/hardened_clay_stained_brown",
-		"clock": "blocks/hardened_clay_stained_cyan"
+		"bandje": "block/hardened_clay_stained_brown",
+		"clock": "block/hardened_clay_stained_cyan"
 	},
 	"elements": [
 		{

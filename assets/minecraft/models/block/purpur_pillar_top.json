@@ -2,8 +2,8 @@
 	"credit": "robinnoob220 ;p",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "blocks/wassing",
-		"particle": "blocks/wassing"
+		"0": "block/wassing",
+		"particle": "block/wassing"
 	},
 	"elements": [
 		{

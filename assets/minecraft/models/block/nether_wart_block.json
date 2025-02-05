@@ -1,10 +1,10 @@
 {
 	"credit": "Team DDG",
 	"textures": {
-		"0": "blocks/asfalt_top",
-		"1": "blocks/asfalt_side",
-		"2": "blocks/asfalt_under",
-		"particle": "blocks/asfalt_top"
+		"0": "block/asfalt_top",
+		"1": "block/asfalt_side",
+		"2": "block/asfalt_under",
+		"particle": "block/asfalt_top"
 	},
 	"elements": [
 		{

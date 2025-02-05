@@ -2,7 +2,7 @@
 	"credit": "Made by Nathantjuhh",
 	"textures": {
 		"0": "./anvil_base_light",
-		"1": "blocks/anvil_base",
+		"1": "block/anvil_base",
 		"particle": "./anvil_base_light"
 	},
 	"elements": [

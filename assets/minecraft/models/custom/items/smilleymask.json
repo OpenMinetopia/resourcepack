@@ -2,7 +2,7 @@
 	"credit": "Made by Crafter_Lukas, DDG Resource Pack Artist",
 	"textures": {
 		"0": "custom/overige/smiley",
-		"1": "blocks/anvil_base",
+		"1": "block/anvil_base",
 		"particle": "custom/overige/smiley"
 	},
 	"elements": [

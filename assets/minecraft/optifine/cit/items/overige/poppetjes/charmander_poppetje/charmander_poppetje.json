@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_orange",
-		"2": "blocks/pumpkin_side",
-		"3": "blocks/quartz_block_bottom",
-		"4": "blocks/bedrock",
-		"6": "blocks/wool_colored_pink",
-		"8": "blocks/fire_layer_0",
-		"particle": "blocks/hardened_clay_stained_orange"
+		"0": "block/hardened_clay_stained_orange",
+		"2": "block/pumpkin_side",
+		"3": "block/quartz_block_bottom",
+		"4": "block/bedrock",
+		"6": "block/wool_colored_pink",
+		"8": "block/fire_layer_0",
+		"particle": "block/hardened_clay_stained_orange"
 	},
 	"elements": [
 		{

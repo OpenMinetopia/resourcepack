@@ -2,7 +2,7 @@
 	"__comment": "Designed by Spooky_538 with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"3": "./mp5_fullmodel",
-		"4": "blocks/concrete_black",
+		"4": "block/concrete_black",
 		"particle": "./mp5_fullmodel"
 	},
 	"elements": [

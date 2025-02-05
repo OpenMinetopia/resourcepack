@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom/overige/case_gold",
-		"1": "blocks/anvil_base",
+		"1": "block/anvil_base",
 		"particle": "custom/overige/case_gold"
 	},
 	"elements": [

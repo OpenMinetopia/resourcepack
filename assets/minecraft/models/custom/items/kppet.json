@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "blocks/cauldron_inner",
-		"cap": "blocks/wool_colored_red",
-		"snow": "blocks/snow",
-		"iron_block": "blocks/iron_block",
+		"texture": "block/cauldron_inner",
+		"cap": "block/wool_colored_red",
+		"snow": "block/snow",
+		"iron_block": "block/iron_block",
 		"DDG": "custom/overige/kp_logo"
 	},
 	"elements": [

@@ -2,6 +2,6 @@
 	"parent":"custom/items/bivak.json",
 	"credit": "Made with Blockbench",
 	"textures": {
-   	 "texture": "blocks/wool_colored_pink"
+   	 "texture": "block/wool_colored_pink"
 	}
 }

@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Nathankuijt with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/stone_slab_top",
-		"texture": "blocks/stone"
+		"particle": "block/stone_slab_top",
+		"texture": "block/stone"
 	},
 	"elements": [ 	 
 		{

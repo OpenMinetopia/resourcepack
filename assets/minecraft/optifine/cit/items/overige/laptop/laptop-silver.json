@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/iron_block",
-		"1": "blocks/anvil_base",
-		"3": "blocks/concrete_black",
+		"0": "block/iron_block",
+		"1": "block/anvil_base",
+		"3": "block/concrete_black",
 		"4": "./laptop-background",
-		"6": "blocks/itemframe_background",
-		"particle": "blocks/iron_block"
+		"6": "block/itemframe_background",
+		"particle": "block/iron_block"
 	},
 	"elements": [
 		{

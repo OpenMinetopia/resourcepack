@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/bone_block_side",
-		"1": "blocks/bone_block_top",
-		"2": "blocks/concrete_white",
+		"0": "block/bone_block_side",
+		"1": "block/bone_block_top",
+		"2": "block/concrete_white",
 		"particle": "./peach_kroon",
 		"1_0": "./peach_kroon"
 	},

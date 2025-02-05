@@ -1,12 +1,12 @@
 {
 	"__comment": "Designed by BuffaloWout - In Order Of DusDavidGames",
 	"textures": {
-		"particle": "blocks/snow",
-		"texture": "blocks/quartz_block_bottom",
-		"coal_block": "blocks/coal_block",
-		"texture1": "blocks/hardened_clay_stained_brown",
-		"texture2": "blocks/planks_oak",
-		"texture3": "blocks/concrete_red"
+		"particle": "block/snow",
+		"texture": "block/quartz_block_bottom",
+		"coal_block": "block/coal_block",
+		"texture1": "block/hardened_clay_stained_brown",
+		"texture2": "block/planks_oak",
+		"texture3": "block/concrete_red"
 	},
 	"elements": [ 	 
 		{

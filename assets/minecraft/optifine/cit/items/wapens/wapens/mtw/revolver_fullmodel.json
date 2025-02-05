@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "custom/overige/weapon_a",
 		"1": "custom/overige/weapon_e",
-		"2": "blocks/log_spruce"
+		"2": "block/log_spruce"
 	},
 	"elements": [
 		{

@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "./fishcome_normal_t",
-		"2": "blocks/wheat_stage_3",
+		"2": "block/wheat_stage_3",
 		"particle": "./fishcome_normal_t"
 	},
 	"elements": [

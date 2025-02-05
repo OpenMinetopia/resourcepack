@@ -2,9 +2,9 @@
     "credit": "robinnoob220 ;p",
     "textures": {
         "0": "custom/drank",
-        "1": "blocks/cobblestone",
-        "2": "blocks/glazed_terracotta_red",
-        "3": "blocks/hardened_clay_stained_pink",
+        "1": "block/cobblestone",
+        "2": "block/glazed_terracotta_red",
+        "3": "block/hardened_clay_stained_pink",
         "particle": "custom/drank"
     },
     "elements": [{

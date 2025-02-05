@@ -22,15 +22,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/asfalt_top"
+            "resource": "minecraft:block/asfalt_top"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/asfalt_side"
+            "resource": "minecraft:block/asfalt_side"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/asfalt_under"
+            "resource": "minecraft:block/asfalt_under"
         },
         {
             "type": "single",
@@ -90,27 +90,27 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/anvil_base"
+            "resource": "minecraft:block/anvil_base"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/bone_block_side"
+            "resource": "minecraft:block/bone_block_side"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/speelgoed2"
+            "resource": "minecraft:block/speelgoed2"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/toolmashine"
+            "resource": "minecraft:block/toolmashine"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/stonecutter_saw"
+            "resource": "minecraft:block/stonecutter_saw"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wassing"
+            "resource": "minecraft:block/wassing"
         },
         {
             "type": "single",
@@ -150,27 +150,27 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/quartz_block_bottom"
+            "resource": "minecraft:block/quartz_block_bottom"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/glass_pink"
+            "resource": "minecraft:block/glass_pink"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/cauldron_inner"
+            "resource": "minecraft:block/cauldron_inner"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_red"
+            "resource": "minecraft:block/wool_colored_red"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/snow"
+            "resource": "minecraft:block/snow"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/iron_block"
+            "resource": "minecraft:block/iron_block"
         },
         {
             "type": "single",
@@ -186,11 +186,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/coal_block"
+            "resource": "minecraft:block/coal_block"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/red_sand"
+            "resource": "minecraft:block/red_sand"
         },
         {
             "type": "single",
@@ -198,15 +198,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/glass_blue"
+            "resource": "minecraft:block/glass_blue"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/glass_red"
+            "resource": "minecraft:block/glass_red"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_cyan"
+            "resource": "minecraft:block/hardened_clay_stained_cyan"
         },
         {
             "type": "single",
@@ -214,7 +214,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_black"
+            "resource": "minecraft:block/hardened_clay_stained_black"
         },
         {
             "type": "single",
@@ -222,11 +222,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_brown"
+            "resource": "minecraft:block/wool_colored_brown"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_brown"
+            "resource": "minecraft:block/hardened_clay_stained_brown"
         },
         {
             "type": "single",
@@ -234,15 +234,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/silver1"
+            "resource": "minecraft:block/upgrades/silver1"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/planks_spruce"
+            "resource": "minecraft:block/planks_spruce"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_red"
+            "resource": "minecraft:block/concrete_red"
         },
         {
             "type": "single",
@@ -250,19 +250,19 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/pumpkin_side"
+            "resource": "minecraft:block/pumpkin_side"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/pumpkin_face_on"
+            "resource": "minecraft:block/pumpkin_face_on"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/fire_layer_1"
+            "resource": "minecraft:block/fire_layer_1"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_black"
+            "resource": "minecraft:block/concrete_black"
         },
         {
             "type": "single",
@@ -278,11 +278,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/e_texture"
+            "resource": "minecraft:block/e_texture"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/elytrabooster"
+            "resource": "minecraft:block/upgrades/elytrabooster"
         },
         {
             "type": "single",
@@ -290,7 +290,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/planks_big_oak"
+            "resource": "minecraft:block/planks_big_oak"
         },
         {
             "type": "single",
@@ -318,47 +318,47 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/mushroom_block_skin_red"
+            "resource": "minecraft:block/mushroom_block_skin_red"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_yellow"
+            "resource": "minecraft:block/concrete_yellow"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/water_still"
+            "resource": "minecraft:block/water_still"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_red"
+            "resource": "minecraft:block/hardened_clay_stained_red"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/planks_oak"
+            "resource": "minecraft:block/planks_oak"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_pink"
+            "resource": "minecraft:block/hardened_clay_stained_pink"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/minderbenzine"
+            "resource": "minecraft:block/upgrades/minderbenzine"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_gray"
+            "resource": "minecraft:block/hardened_clay_stained_gray"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/structure_block"
+            "resource": "minecraft:block/structure_block"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/bedrock"
+            "resource": "minecraft:block/bedrock"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/bed_feet_top"
+            "resource": "minecraft:block/bed_feet_top"
         },
         {
             "type": "single",
@@ -390,7 +390,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_silver"
+            "resource": "minecraft:block/concrete_silver"
         },
         {
             "type": "single",
@@ -402,23 +402,23 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/kofferuitbreiding"
+            "resource": "minecraft:block/upgrades/kofferuitbreiding"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/jukebox_top"
+            "resource": "minecraft:block/jukebox_top"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_orange"
+            "resource": "minecraft:block/wool_colored_orange"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/door_iron_lower"
+            "resource": "minecraft:block/door_iron_lower"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/log_oak"
+            "resource": "minecraft:block/log_oak"
         },
         {
             "type": "single",
@@ -426,7 +426,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/featherfalling"
+            "resource": "minecraft:block/upgrades/featherfalling"
         },
         {
             "type": "single",
@@ -438,27 +438,27 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/lobbyxp"
+            "resource": "minecraft:block/upgrades/lobbyxp"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_gray"
+            "resource": "minecraft:block/concrete_gray"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_powder_yellow"
+            "resource": "minecraft:block/concrete_powder_yellow"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_black"
+            "resource": "minecraft:block/wool_colored_black"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_orange"
+            "resource": "minecraft:block/hardened_clay_stained_orange"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/lapis_block"
+            "resource": "minecraft:block/lapis_block"
         },
         {
             "type": "single",
@@ -486,23 +486,23 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/jumpboost"
+            "resource": "minecraft:block/upgrades/jumpboost"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_lime"
+            "resource": "minecraft:block/hardened_clay_stained_lime"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/glass_gray"
+            "resource": "minecraft:block/glass_gray"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_green"
+            "resource": "minecraft:block/hardened_clay_stained_green"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_white"
+            "resource": "minecraft:block/hardened_clay_stained_white"
         },
         {
             "type": "single",
@@ -510,11 +510,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_light_blue"
+            "resource": "minecraft:block/hardened_clay_stained_light_blue"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_blue"
+            "resource": "minecraft:block/hardened_clay_stained_blue"
         },
         {
             "type": "single",
@@ -522,15 +522,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/zwemspeed"
+            "resource": "minecraft:block/upgrades/zwemspeed"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/stone_slab_top"
+            "resource": "minecraft:block/stone_slab_top"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/stone"
+            "resource": "minecraft:block/stone"
         },
         {
             "type": "single",
@@ -542,11 +542,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_orange"
+            "resource": "minecraft:block/concrete_orange"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/dispenser_front_horizontal"
+            "resource": "minecraft:block/dispenser_front_horizontal"
         },
         {
             "type": "single",
@@ -558,11 +558,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_yellow"
+            "resource": "minecraft:block/hardened_clay_stained_yellow"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_magenta"
+            "resource": "minecraft:block/hardened_clay_stained_magenta"
         },
         {
             "type": "single",
@@ -570,7 +570,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_blue"
+            "resource": "minecraft:block/concrete_blue"
         },
         {
             "type": "single",
@@ -578,11 +578,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_powder_white"
+            "resource": "minecraft:block/concrete_powder_white"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/bookshelf"
+            "resource": "minecraft:block/bookshelf"
         },
         {
             "type": "single",
@@ -594,11 +594,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/gold_block"
+            "resource": "minecraft:block/gold_block"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/money"
+            "resource": "minecraft:block/upgrades/money"
         },
         {
             "type": "single",
@@ -606,15 +606,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/grayshardbooster"
+            "resource": "minecraft:block/upgrades/grayshardbooster"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/quartz_block_side"
+            "resource": "minecraft:block/quartz_block_side"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_blue"
+            "resource": "minecraft:block/wool_colored_blue"
         },
         {
             "type": "single",
@@ -626,11 +626,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/travelbypass"
+            "resource": "minecraft:block/upgrades/travelbypass"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_silver"
+            "resource": "minecraft:block/wool_colored_silver"
         },
         {
             "type": "single",
@@ -646,7 +646,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/koelbox"
+            "resource": "minecraft:block/upgrades/koelbox"
         },
         {
             "type": "single",
@@ -658,11 +658,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_pink"
+            "resource": "minecraft:block/wool_colored_pink"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/gold1"
+            "resource": "minecraft:block/upgrades/gold1"
         },
         {
             "type": "single",
@@ -670,11 +670,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/healthboost"
+            "resource": "minecraft:block/upgrades/healthboost"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/abilitycooldown"
+            "resource": "minecraft:block/upgrades/abilitycooldown"
         },
         {
             "type": "single",
@@ -690,11 +690,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/lowgravity"
+            "resource": "minecraft:block/upgrades/lowgravity"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/torch_on"
+            "resource": "minecraft:block/torch_on"
         },
         {
             "type": "single",
@@ -702,7 +702,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/gold2"
+            "resource": "minecraft:block/upgrades/gold2"
         },
         {
             "type": "single",
@@ -734,15 +734,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hay_block_top"
+            "resource": "minecraft:block/hay_block_top"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/debug"
+            "resource": "minecraft:block/debug"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/silver5"
+            "resource": "minecraft:block/upgrades/silver5"
         },
         {
             "type": "single",
@@ -758,7 +758,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/badges/clear"
+            "resource": "minecraft:block/badges/clear"
         },
         {
             "type": "single",
@@ -782,15 +782,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/crafting_table_front"
+            "resource": "minecraft:block/crafting_table_front"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/furnace_front_on"
+            "resource": "minecraft:block/furnace_front_on"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/glass_orange"
+            "resource": "minecraft:block/glass_orange"
         },
         {
             "type": "single",
@@ -802,7 +802,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_cyan"
+            "resource": "minecraft:block/concrete_cyan"
         },
         {
             "type": "single",
@@ -810,7 +810,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/mineboost"
+            "resource": "minecraft:block/upgrades/mineboost"
         },
         {
             "type": "single",
@@ -822,7 +822,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/battlefieldgun"
+            "resource": "minecraft:block/upgrades/battlefieldgun"
         },
         {
             "type": "single",
@@ -830,7 +830,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/dragon_egg"
+            "resource": "minecraft:block/dragon_egg"
         },
         {
             "type": "single",
@@ -846,7 +846,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/silver4"
+            "resource": "minecraft:block/upgrades/silver4"
         },
         {
             "type": "single",
@@ -866,7 +866,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/speedboost"
+            "resource": "minecraft:block/upgrades/speedboost"
         },
         {
             "type": "single",
@@ -882,19 +882,19 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_lime"
+            "resource": "minecraft:block/concrete_lime"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_light_blue"
+            "resource": "minecraft:block/concrete_light_blue"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_pink"
+            "resource": "minecraft:block/concrete_pink"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_purple"
+            "resource": "minecraft:block/concrete_purple"
         },
         {
             "type": "single",
@@ -906,27 +906,27 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/gold3"
+            "resource": "minecraft:block/upgrades/gold3"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/prismarine_bricks"
+            "resource": "minecraft:block/prismarine_bricks"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/cake_top"
+            "resource": "minecraft:block/cake_top"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/end_stone"
+            "resource": "minecraft:block/end_stone"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_white"
+            "resource": "minecraft:block/wool_colored_white"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/farmland_dry"
+            "resource": "minecraft:block/farmland_dry"
         },
         {
             "type": "single",
@@ -946,7 +946,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/glass_green"
+            "resource": "minecraft:block/glass_green"
         },
         {
             "type": "single",
@@ -954,19 +954,19 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/diamond_block"
+            "resource": "minecraft:block/diamond_block"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_yellow"
+            "resource": "minecraft:block/wool_colored_yellow"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_lime"
+            "resource": "minecraft:block/wool_colored_lime"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_light_blue"
+            "resource": "minecraft:block/wool_colored_light_blue"
         },
         {
             "type": "single",
@@ -974,11 +974,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/silver3"
+            "resource": "minecraft:block/upgrades/silver3"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_purple"
+            "resource": "minecraft:block/hardened_clay_stained_purple"
         },
         {
             "type": "single",
@@ -994,7 +994,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/hardened_clay_stained_silver"
+            "resource": "minecraft:block/hardened_clay_stained_silver"
         },
         {
             "type": "single",
@@ -1010,7 +1010,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_green"
+            "resource": "minecraft:block/wool_colored_green"
         },
         {
             "type": "single",
@@ -1022,15 +1022,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_white"
+            "resource": "minecraft:block/concrete_white"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/observer_back_lit"
+            "resource": "minecraft:block/observer_back_lit"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_powder_silver"
+            "resource": "minecraft:block/concrete_powder_silver"
         },
         {
             "type": "single",
@@ -1050,7 +1050,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/wapenstokcooldown"
+            "resource": "minecraft:block/upgrades/wapenstokcooldown"
         },
         {
             "type": "single",
@@ -1070,11 +1070,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/minderdrinken"
+            "resource": "minecraft:block/upgrades/minderdrinken"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/gold4"
+            "resource": "minecraft:block/upgrades/gold4"
         },
         {
             "type": "single",
@@ -1098,7 +1098,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/ice_packed"
+            "resource": "minecraft:block/ice_packed"
         },
         {
             "type": "single",
@@ -1106,11 +1106,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/crimineel"
+            "resource": "minecraft:block/upgrades/crimineel"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/extrauurloon"
+            "resource": "minecraft:block/upgrades/extrauurloon"
         },
         {
             "type": "single",
@@ -1118,11 +1118,11 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_powder_black"
+            "resource": "minecraft:block/concrete_powder_black"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/zakkenrollen"
+            "resource": "minecraft:block/upgrades/zakkenrollen"
         },
         {
             "type": "single",
@@ -1142,7 +1142,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/gold5"
+            "resource": "minecraft:block/upgrades/gold5"
         },
         {
             "type": "single",
@@ -1150,7 +1150,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/gold"
+            "resource": "minecraft:block/gold"
         },
         {
             "type": "single",
@@ -1162,7 +1162,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/concrete_powder_orange"
+            "resource": "minecraft:block/concrete_powder_orange"
         },
         {
             "type": "single",
@@ -1178,7 +1178,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/waterbreathing"
+            "resource": "minecraft:block/upgrades/waterbreathing"
         },
         {
             "type": "single",
@@ -1194,15 +1194,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/kortingreizen"
+            "resource": "minecraft:block/upgrades/kortingreizen"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/particle"
+            "resource": "minecraft:block/particle"
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/texture"
+            "resource": "minecraft:block/texture"
         },
         {
             "type": "single",
@@ -1210,7 +1210,7 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/upgrades/silver2"
+            "resource": "minecraft:block/upgrades/silver2"
         },
         {
             "type": "single",

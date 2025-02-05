@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "./coltm1911_fullmodel2",
-		"3": "blocks/concrete_yellow",
-		"particle": "blocks/anvil_base"
+		"3": "block/concrete_yellow",
+		"particle": "block/anvil_base"
 	}
 }

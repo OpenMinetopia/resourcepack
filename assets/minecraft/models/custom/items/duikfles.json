@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"0": "blocks/concrete_gray",
-		"1": "blocks/concrete_powder_yellow",
-		"2": "blocks/iron_block",
-		"particle": "blocks/concrete_gray"
+		"0": "block/concrete_gray",
+		"1": "block/concrete_powder_yellow",
+		"2": "block/iron_block",
+		"particle": "block/concrete_gray"
 	},
 	"elements": [
 		{

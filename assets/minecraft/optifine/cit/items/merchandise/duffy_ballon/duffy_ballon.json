@@ -4,7 +4,7 @@
 		"2": "custom/overige/duffy_logo",
 		"Rope": "custom/overige/ballonrope",
 		"particle": "custom/overige/ballonrope",
-		"ballon": "blocks/hardened_clay_stained_lime"
+		"ballon": "block/hardened_clay_stained_lime"
 	},
 	"elements": [
 		{

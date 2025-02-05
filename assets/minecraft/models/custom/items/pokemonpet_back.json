@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "blocks/mushroom_block_skin_red",
-		"cap": "blocks/mushroom_block_skin_red",
-		"snow": "blocks/snow",
-		"iron_block": "blocks/iron_block",
+		"texture": "block/mushroom_block_skin_red",
+		"cap": "block/mushroom_block_skin_red",
+		"snow": "block/snow",
+		"iron_block": "block/iron_block",
 		"DDG": "custom/overige/ash",
-		"wool_colored_red": "blocks/mushroom_block_skin_red"
+		"wool_colored_red": "block/mushroom_block_skin_red"
 	},
 	"elements": [
 		{

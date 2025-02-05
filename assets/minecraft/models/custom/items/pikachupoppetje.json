@@ -2,12 +2,12 @@
 	"__comment": "Designed by Nightcling",
 	"__comment": "Pika Pika CHHHUUUUUUUUU!!!!!",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_yellow",
-		"yellow": "blocks/hardened_clay_stained_yellow",
-		"brown": "blocks/hardened_clay_stained_brown",
-		"black": "blocks/hardened_clay_stained_black",
-		"white": "blocks/quartz_block_bottom",
-		"red": "blocks/hardened_clay_stained_red"
+		"particle": "block/hardened_clay_stained_yellow",
+		"yellow": "block/hardened_clay_stained_yellow",
+		"brown": "block/hardened_clay_stained_brown",
+		"black": "block/hardened_clay_stained_black",
+		"white": "block/quartz_block_bottom",
+		"red": "block/hardened_clay_stained_red"
 	},
 	"elements": [ 	 
 		{

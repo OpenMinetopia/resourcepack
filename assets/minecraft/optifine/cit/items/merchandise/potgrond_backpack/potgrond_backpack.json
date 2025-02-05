@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"kleur": "custom/overige/potgrond_backpack_brown",
-		"touwtjes": "blocks/hardened_clay_stained_black",
+		"touwtjes": "block/hardened_clay_stained_black",
 		"logo": "custom/overige/potgrond_logo",
-		"zipper": "blocks/hardened_clay_stained_cyan",
-		"particle": "blocks/hardened_clay_stained_cyan"
+		"zipper": "block/hardened_clay_stained_cyan",
+		"particle": "block/hardened_clay_stained_cyan"
 	},
 	"elements": [
 		{

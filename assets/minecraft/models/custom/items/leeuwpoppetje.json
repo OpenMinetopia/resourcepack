@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/wool_colored_black",
-		"1": "blocks/wool_colored_brown",
-		"2": "blocks/hay_block_top",
-		"3": "blocks/coal_block",
-		"4": "blocks/hardened_clay_stained_brown",
-		"5": "blocks/wool_colored_white",
-		"6": "blocks/farmland_dry",
-		"particle": "blocks/wool_colored_black"
+		"0": "block/wool_colored_black",
+		"1": "block/wool_colored_brown",
+		"2": "block/hay_block_top",
+		"3": "block/coal_block",
+		"4": "block/hardened_clay_stained_brown",
+		"5": "block/wool_colored_white",
+		"6": "block/farmland_dry",
+		"particle": "block/wool_colored_black"
 	},
 	"elements": [
 		{

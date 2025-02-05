@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Meloenmahn",
 	"textures": {
-		"0": "blocks/dragon_egg",
-		"1": "blocks/quartz_block_bottom"
+		"0": "block/dragon_egg",
+		"1": "block/quartz_block_bottom"
 	},
 	"elements": [
 		{

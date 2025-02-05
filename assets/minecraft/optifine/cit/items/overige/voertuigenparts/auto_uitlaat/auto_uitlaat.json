@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Nathantjuhh",
 	"textures": {
-		"1": "blocks/clay",
-		"particle": "blocks/clay"
+		"1": "block/clay",
+		"particle": "block/clay"
 	},
 	"elements": [
 		{

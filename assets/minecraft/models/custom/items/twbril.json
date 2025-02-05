@@ -1,9 +1,9 @@
 {
 "__comment": "Designed by Timbayens by order of DusDavid (DusDavidGames)",
 "textures": {
-    "texture": "blocks/snow",
-    "glass2": "blocks/glass_blue",
-    "glass1": "blocks/glass_red"
+    "texture": "block/snow",
+    "glass2": "block/glass_blue",
+    "glass1": "block/glass_red"
 },
 "elements": [ 
 {

@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "blocks/wool_colored_red",
-		"3": "blocks/wool_colored_white",
-		"particle": "blocks/wool_colored_red",
-		"texture": "blocks/quartz_block_bottom",
-		"coal_block": "blocks/coal_block"
+		"2": "block/wool_colored_red",
+		"3": "block/wool_colored_white",
+		"particle": "block/wool_colored_red",
+		"texture": "block/quartz_block_bottom",
+		"coal_block": "block/coal_block"
 	},
 	"elements": [
 		{

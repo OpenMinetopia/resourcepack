@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/crafting_table_front",
+		"0": "block/crafting_table_front",
 		"1": "custom/overige/minetopia_logo",
-		"particle": "blocks/crafting_table_front"
+		"particle": "block/crafting_table_front"
 	},
 	"elements": [
 		{

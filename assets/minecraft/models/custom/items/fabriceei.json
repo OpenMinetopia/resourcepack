@@ -3,8 +3,8 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "blocks/gold_block",
-		"main_color": "blocks/gold_block"
+		"particle": "block/gold_block",
+		"main_color": "block/gold_block"
 	},
 	"elements": [ 	 
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "blocks/anvil_base",
-		"command": "blocks/daylight_detector_top",
-		"color": "blocks/bedrock"
+		"texture": "block/anvil_base",
+		"command": "block/daylight_detector_top",
+		"color": "block/bedrock"
 	},
 	"elements": [
 		{

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "blocks/cauldron_inner",
-		"cap": "blocks/anvil_base",
-		"snow": "blocks/snow",
-		"iron_block": "blocks/iron_block"
+		"texture": "block/cauldron_inner",
+		"cap": "block/anvil_base",
+		"snow": "block/snow",
+		"iron_block": "block/iron_block"
 	},
 	"elements": [
 		{

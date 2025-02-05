@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "blocks/hardened_clay_stained_pink",
-		"cap": "blocks/hardened_clay_stained_pink",
-		"snow": "blocks/snow",
-		"iron_block": "blocks/iron_block"
+		"texture": "block/hardened_clay_stained_pink",
+		"cap": "block/hardened_clay_stained_pink",
+		"snow": "block/snow",
+		"iron_block": "block/iron_block"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/mineboost",
+		"0": "block/upgrades/mineboost",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/mineboost"
+		"particle": "block/upgrades/mineboost"
 	},
 	"elements": [ 	 
 		{

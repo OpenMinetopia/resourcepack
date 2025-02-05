@@ -1,11 +1,11 @@
 {
 	"__comment": "Designed by Benderdt with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"0": "blocks/ice_packed",
-		"1": "blocks/wool_colored_yellow",
+		"0": "block/ice_packed",
+		"1": "block/wool_colored_yellow",
 		"2": "block/gold_block",
-		"particle": "blocks/ice_packed",
-		"missing": "blocks/gold_block"
+		"particle": "block/ice_packed",
+		"missing": "block/gold_block"
 	},
 	"elements": [ 	 
 		{

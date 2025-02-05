@@ -4,7 +4,7 @@
 		"3": "custom/overige/gucci",
 		"particle": "custom/overige/gucci",
 		"texture": "custom/overige/egs_cap_black",
-		"iron_block": "blocks/iron_block"
+		"iron_block": "block/iron_block"
 	},
 	"elements": [
 		{

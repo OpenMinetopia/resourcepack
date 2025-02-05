@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"0": "blocks/anvil_base",
-		"1": "blocks/structure_block",
-		"3": "blocks/hardened_clay_stained_cyan",
-		"4": "blocks/iron_block",
-		"particle": "blocks/anvil_base"
+		"0": "block/anvil_base",
+		"1": "block/structure_block",
+		"3": "block/hardened_clay_stained_cyan",
+		"4": "block/iron_block",
+		"particle": "block/anvil_base"
 	},
 	"elements": [
 		{

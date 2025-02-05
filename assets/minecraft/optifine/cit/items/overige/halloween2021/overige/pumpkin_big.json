@@ -3,10 +3,10 @@
 	"textures": {
 		"0": "./pumpkin_big_1",
 		"1": "./pumpkin_big_2",
-		"2": "blocks/log_oak",
-		"3": "blocks/sapling_jungle",
+		"2": "block/log_oak",
+		"3": "block/sapling_jungle",
 		"4": "./pumpkin_big_3",
-		"particle": "blocks/pumpkin_side"
+		"particle": "block/pumpkin_side"
 	},
 	"elements": [
 		{

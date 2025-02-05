@@ -1,11 +1,11 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_cyan",
-		"kleur": "blocks/hardened_clay_stained_red",
-		"touwtjes": "blocks/hardened_clay_stained_black",
+		"particle": "block/cyan_terracotta",
+		"kleur": "block/red_terracotta",
+		"touwtjes": "block/black_terracotta",
 		"logo": "custom/overige/ddg_logo",
-		"zipper": "blocks/hardened_clay_stained_cyan"
+		"zipper": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

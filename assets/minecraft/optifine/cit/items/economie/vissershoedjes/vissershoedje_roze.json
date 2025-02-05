@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_magenta",
+		"0": "block/hardened_clay_stained_magenta",
 		"1": "custom/overige/minetopia_logo",
-		"2": "blocks/tnt_side",
-		"particle": "blocks/hardened_clay_stained_magenta"
+		"2": "block/tnt_side",
+		"particle": "block/hardened_clay_stained_magenta"
 	},
 	"elements": [
 		{

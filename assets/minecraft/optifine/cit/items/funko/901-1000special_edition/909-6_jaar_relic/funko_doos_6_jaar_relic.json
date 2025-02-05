@@ -5,8 +5,8 @@
 		"1": "custom/funko/standaard",
 		"2": "./doos",
 		"3": "custom/overige/bronze",
-		"4": "blocks/gold_block",
-		"5": "blocks/emerald_block",
+		"4": "block/gold_block",
+		"5": "block/emerald_block",
 		"particle": "custom/overige/bronze"
 	},
 	"elements": [

@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Zeeppompje for the DDG MineTopia ResourcePack",
 	"textures": {
-		"1": "blocks/concrete_black",
-		"3": "blocks/concrete_powder_orange",
-		"4": "blocks/bone_block_side"
+		"1": "block/concrete_black",
+		"3": "block/concrete_powder_orange",
+		"4": "block/bone_block_side"
 	},
 	"elements": [
 		{

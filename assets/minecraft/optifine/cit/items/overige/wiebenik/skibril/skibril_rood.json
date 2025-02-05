@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_red",
-		"1": "blocks/cauldron_inner",
-		"3": "blocks/frosted_ice_0",
-		"particle": "blocks/hardened_clay_stained_red"
+		"0": "block/hardened_clay_stained_red",
+		"1": "block/cauldron_inner",
+		"3": "block/frosted_ice_0",
+		"particle": "block/hardened_clay_stained_red"
 	},
 	"elements": [
 		{

@@ -4,7 +4,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "custom/standbeelden/pinguinkobe_",
-		"1": "blocks/furnace_top",
-		"particle": "blocks/furnace_top"
+		"1": "block/furnace_top",
+		"particle": "block/furnace_top"
 	}
 }

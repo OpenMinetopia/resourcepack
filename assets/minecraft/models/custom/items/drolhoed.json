@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Crafter_Lukas, DDG Resource Pack Artist",
 	"textures": {
-		"0": "blocks/wool_colored_brown",
-		"particle": "blocks/wool_colored_brown"
+		"0": "block/wool_colored_brown",
+		"particle": "block/wool_colored_brown"
 	},
 	"elements": [
 		{

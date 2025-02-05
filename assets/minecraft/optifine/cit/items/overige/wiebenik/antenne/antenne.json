@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/anvil_base",
-		"1": "blocks/cauldron_inner",
-		"2": "blocks/glazed_terracotta_purple",
-		"particle": "blocks/anvil_base"
+		"0": "block/anvil_base",
+		"1": "block/cauldron_inner",
+		"2": "block/glazed_terracotta_purple",
+		"particle": "block/anvil_base"
 	},
 	"elements": [
 		{

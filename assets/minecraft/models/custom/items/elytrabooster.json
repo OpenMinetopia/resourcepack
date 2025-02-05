@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/elytrabooster",
+		"0": "block/upgrades/elytrabooster",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/elytrabooster"
+		"particle": "block/upgrades/elytrabooster"
 	},
 	"elements": [ 	 
 		{

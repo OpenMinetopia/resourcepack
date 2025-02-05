@@ -5,8 +5,8 @@
 		"particle": "custom/overige/eengamestad_logo",
 		"texture": "custom/overige/egs_cap_black",
 		"cap": "custom/overige/egs_cap_black",
-		"snow": "blocks/snow",
-		"iron_block": "blocks/iron_block"
+		"snow": "block/snow",
+		"iron_block": "block/iron_block"
 	},
 	"elements": [
 		{

@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_cyan",
-		"1": "blocks/concrete_black",
-		"2": "blocks/fire_layer_1",
-		"3": "blocks/cauldron_inner",
-		"particle": "blocks/hardened_clay_stained_cyan"
+		"0": "block/hardened_clay_stained_cyan",
+		"1": "block/concrete_black",
+		"2": "block/fire_layer_1",
+		"3": "block/cauldron_inner",
+		"particle": "block/hardened_clay_stained_cyan"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
 "__comment": "Designed by Zorigami - www.planetminecraft.com/member/zorigami/",
 "textures": {
-    "texture": "blocks/planks_birch"
+    "texture": "block/planks_birch"
 },
 "elements": [ 
 {

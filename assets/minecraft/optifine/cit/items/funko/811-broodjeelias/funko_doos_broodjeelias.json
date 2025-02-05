@@ -5,7 +5,7 @@
 		"0": "custom/funko/broodjeelias",
 		"1": "custom/funko/standaard",
 		"2": "./doos",
-		"3": "blocks/anvil_base",
+		"3": "block/anvil_base",
 		"particle": "custom/funko/broodjeelias"
 	},
 	"elements": [

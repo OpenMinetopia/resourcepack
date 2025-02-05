@@ -3,7 +3,7 @@
 	"textures": {
 		"2": "custom/overige/ballonrope",
 		"3": "./kerst_texture",
-		"particle": "blocks/hardened_clay_stained_red"
+		"particle": "block/hardened_clay_stained_red"
 	},
 	"elements": [
 		{

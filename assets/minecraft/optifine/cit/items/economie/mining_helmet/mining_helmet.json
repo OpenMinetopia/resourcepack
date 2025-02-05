@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_gray",
-		"yellow": "blocks/hardened_clay_stained_gray",
-		"gray": "blocks/hardened_clay_stained_cyan",
-		"lamp": "blocks/redstone_lamp_on"
+		"particle": "block/hardened_clay_stained_gray",
+		"yellow": "block/hardened_clay_stained_gray",
+		"gray": "block/hardened_clay_stained_cyan",
+		"lamp": "block/redstone_lamp_on"
 	},
 	"elements": [
 		{

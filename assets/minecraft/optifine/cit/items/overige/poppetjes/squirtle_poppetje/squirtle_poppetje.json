@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/prismarine_bricks",
-		"1": "blocks/end_bricks",
-		"2": "blocks/crafting_table_top",
-		"3": "blocks/grass_side_snowed",
-		"4": "blocks/bedrock",
-		"5": "blocks/tnt_side",
-		"particle": "blocks/prismarine_bricks"
+		"0": "block/prismarine_bricks",
+		"1": "block/end_bricks",
+		"2": "block/crafting_table_top",
+		"3": "block/grass_side_snowed",
+		"4": "block/bedrock",
+		"5": "block/tnt_side",
+		"particle": "block/prismarine_bricks"
 	},
 	"elements": [
 		{

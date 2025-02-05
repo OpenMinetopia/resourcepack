@@ -3,11 +3,11 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "./vlag_op_stok",
-		"kleur": "blocks/hardened_clay_stained_red",
-		"touwtjes": "blocks/hardened_clay_stained_black",
+		"kleur": "block/hardened_clay_stained_red",
+		"touwtjes": "block/hardened_clay_stained_black",
 		"logo": "custom/overige/ddg_logo",
-		"particle": "blocks/hardened_clay_stained_cyan",
-		"zipper": "blocks/hardened_clay_stained_cyan"
+		"particle": "block/hardened_clay_stained_cyan",
+		"zipper": "block/hardened_clay_stained_cyan"
 	},
 	"elements": [
 		{

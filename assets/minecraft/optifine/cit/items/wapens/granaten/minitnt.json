@@ -1,11 +1,11 @@
 {
 	"credit": "robinnoob220 ;p",
 	"textures": {
-		"0": "blocks/tnt_side",
-		"1": "blocks/tnt_bottom",
-		"2": "blocks/tnt_top",
+		"0": "block/tnt_side",
+		"1": "block/tnt_bottom",
+		"2": "block/tnt_top",
 		"3": "./minitnt",
-		"particle": "blocks/tnt_side"
+		"particle": "block/tnt_side"
 	},
 	"elements": [
 		{

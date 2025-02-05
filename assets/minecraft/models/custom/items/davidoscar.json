@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/gold",
+		"particle": "block/gold",
 		"playerskin": "custom/skins/golden_dusdavid_skin",
-		"plate": "blocks/gold_block",
+		"plate": "block/gold_block",
 		"stage": "custom/overige/oscar_stage"
 	},
 	"elements": [

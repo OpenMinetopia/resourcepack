@@ -2,14 +2,14 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"4": "blocks/concrete_silver",
-		"5": "blocks/concrete_red",
-		"6": "blocks/concrete_white",
-		"7": "blocks/concrete_blue",
-		"8": "blocks/concrete_powder_white",
-		"9": "blocks/wool_colored_brown",
-		"10": "blocks/concrete_red",
-		"11": "blocks/concrete_powder_white"
+		"4": "block/concrete_silver",
+		"5": "block/concrete_red",
+		"6": "block/concrete_white",
+		"7": "block/concrete_blue",
+		"8": "block/concrete_powder_white",
+		"9": "block/wool_colored_brown",
+		"10": "block/concrete_red",
+		"11": "block/concrete_powder_white"
 	},
 	"elements": [
 		{

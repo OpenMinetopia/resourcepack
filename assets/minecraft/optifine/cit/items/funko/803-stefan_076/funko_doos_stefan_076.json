@@ -6,7 +6,7 @@
         "1": "custom/funko/standaard",
         "2": "./doos",
         "3": "items/clock_53",
-        "4": "blocks/anvil_base",
+        "4": "block/anvil_base",
         "particle": "custom/funko/stefan_076"
     },
     "elements": [{

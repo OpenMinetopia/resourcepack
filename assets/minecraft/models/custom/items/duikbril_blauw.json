@@ -1,12 +1,12 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_light_blue",
-		"color": "blocks/hardened_clay_stained_light_blue",
-		"glass": "blocks/glass_gray",
-		"black": "blocks/hardened_clay_stained_black",
-		"color2": "blocks/hardened_clay_stained_blue",
-		"wit": "blocks/hardened_clay_stained_white",
+		"particle": "block/hardened_clay_stained_light_blue",
+		"color": "block/hardened_clay_stained_light_blue",
+		"glass": "block/glass_gray",
+		"black": "block/hardened_clay_stained_black",
+		"color2": "block/hardened_clay_stained_blue",
+		"wit": "block/hardened_clay_stained_white",
 		"logo": "custom/overige/ddg_logo"
 	},
 	"elements": [

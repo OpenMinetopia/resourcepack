@@ -4,9 +4,9 @@
 		"3": "custom/overige/gold",
 		"4": "custom/overige/bronze",
 		"5": "custom/overige/dark_bronze",
-		"7": "blocks/gold_block",
+		"7": "block/gold_block",
 		"9": "custom/overige/case_lightbrown",
-		"particle": "blocks/gold_block"
+		"particle": "block/gold_block"
 	},
 	"elements": [
 		{

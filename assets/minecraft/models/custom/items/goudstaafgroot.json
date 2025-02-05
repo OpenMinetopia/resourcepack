@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "custom/overige/golden_bar",
 		"1": "custom/overige/gold_text",
-		"particle": "blocks/gold_block"
+		"particle": "block/gold_block"
 	},
 	"elements": [
 		{

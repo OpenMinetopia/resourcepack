@@ -5,7 +5,7 @@
         "1": "custom/funko/standaard",
         "2": "custom/funko/onzichtbaar",
         "3": "items/diamond_sword",
-        "4": "blocks/dirt",
+        "4": "block/dirt",
         "particle": "custom/funko/ragtempos"
     },
     "display": {

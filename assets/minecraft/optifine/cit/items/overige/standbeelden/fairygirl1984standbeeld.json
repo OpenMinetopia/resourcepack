@@ -4,8 +4,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "custom/standbeelden/fairygirl1984standbeeld",
-		"1": "blocks/stonebrick_cracked",
-		"2": "blocks/iron_block",
-		"particle": "blocks/stonebrick_cracked"
+		"1": "block/stonebrick_cracked",
+		"2": "block/iron_block",
+		"particle": "block/stonebrick_cracked"
 	}
 }

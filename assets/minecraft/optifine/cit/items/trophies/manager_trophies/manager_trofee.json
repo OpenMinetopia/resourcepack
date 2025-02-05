@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "./minetopia_classic_logo",
-		"1": "blocks/glass_white",
-		"2": "blocks/redstone_block",
+		"1": "block/glass_white",
+		"2": "block/redstone_block",
 		"3": "custom/overige/trashcan_top",
-		"5": "blocks/cauldron_inner",
-		"6": "blocks/door_dark_oak_upper",
+		"5": "block/cauldron_inner",
+		"6": "block/door_dark_oak_upper",
 		"7": "custom/overige/silver_bar",
 		"particle": "./minetopia_classic_logo"
 	},

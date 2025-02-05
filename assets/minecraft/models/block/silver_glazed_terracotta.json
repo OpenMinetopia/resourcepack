@@ -2,9 +2,9 @@
 	"credit": "Team DDG",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "blocks/toolmashine",
-		"1": "blocks/stonecutter_saw",
-		"particle": "blocks/toolmashine"
+		"0": "block/toolmashine",
+		"1": "block/stonecutter_saw",
+		"particle": "block/toolmashine"
 	},
 	"elements": [
 		{

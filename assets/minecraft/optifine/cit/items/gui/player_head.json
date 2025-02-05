@@ -34,6 +34,6 @@
     "gui_light": "front",
     "parent": "builtin/entity",
     "textures": {
-        "particle": "blocks/soul_sand"
+        "particle": "block/soul_sand"
     }
 }

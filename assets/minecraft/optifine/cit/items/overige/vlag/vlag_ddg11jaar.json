@@ -2,9 +2,9 @@
 	"credit": "robinnoob220 ;p",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "blocks/planks_spruce",
+		"0": "block/planks_spruce",
 		"3": "./vlag_ddg11jaar",
-		"particle": "blocks/planks_spruce"
+		"particle": "block/planks_spruce"
 	},
 	"elements": [
 		{

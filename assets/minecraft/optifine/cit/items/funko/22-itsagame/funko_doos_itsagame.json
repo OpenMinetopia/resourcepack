@@ -5,8 +5,8 @@
 		"0": "custom/funko/itsagame",
 		"1": "custom/funko/standaard",
 		"2": "./doos",
-		"3": "blocks/stone_slab_top",
-		"4": "blocks/stone",
+		"3": "block/stone_slab_top",
+		"4": "block/stone",
 		"particle": "custom/funko/itsagame"
 	},
 	"elements": [

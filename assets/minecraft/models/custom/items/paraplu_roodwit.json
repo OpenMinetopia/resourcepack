@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"0": "blocks/planks_spruce",
-		"1": "blocks/bone_block_side",
-		"2": "blocks/concrete_red",
-		"particle": "blocks/bone_block_side"
+		"0": "block/planks_spruce",
+		"1": "block/bone_block_side",
+		"2": "block/concrete_red",
+		"particle": "block/bone_block_side"
 	},
 	"elements": [
 		{

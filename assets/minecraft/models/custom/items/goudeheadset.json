@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by Benderdt with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"0": "blocks/anvil_base",
-		"1": "blocks/coal_block",
-		"2": "blocks/gold_block",
-		"particle": "blocks/anvil_base"
+		"0": "block/anvil_base",
+		"1": "block/coal_block",
+		"2": "block/gold_block",
+		"particle": "block/anvil_base"
 	},
 	"elements": [ 	 
 		{

@@ -1,13 +1,13 @@
 {
 	"credit": "Made by Nathantjuhh",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_red",
-		"1": "blocks/anvil_base",
-		"2": "blocks/concrete_silver",
-		"3": "blocks/coal_block",
-		"4": "blocks/stone_slab_top",
-		"5": "blocks/stone",
-		"particle": "blocks/hardened_clay_stained_red"
+		"0": "block/hardened_clay_stained_red",
+		"1": "block/anvil_base",
+		"2": "block/concrete_silver",
+		"3": "block/coal_block",
+		"4": "block/stone_slab_top",
+		"5": "block/stone",
+		"particle": "block/hardened_clay_stained_red"
 	},
 	"elements": [
 		{

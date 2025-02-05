@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"0": "blocks/planks_spruce",
-		"2": "blocks/concrete_red",
-		"3": "blocks/concrete_orange",
-		"4": "blocks/concrete_yellow",
-		"5": "blocks/concrete_lime",
-		"6": "blocks/concrete_light_blue",
-		"7": "blocks/concrete_pink",
-		"8": "blocks/concrete_purple",
-		"9": "blocks/concrete_blue",
-		"10": "blocks/bone_block_side"
+		"0": "block/planks_spruce",
+		"2": "block/concrete_red",
+		"3": "block/concrete_orange",
+		"4": "block/concrete_yellow",
+		"5": "block/concrete_lime",
+		"6": "block/concrete_light_blue",
+		"7": "block/concrete_pink",
+		"8": "block/concrete_purple",
+		"9": "block/concrete_blue",
+		"10": "block/bone_block_side"
 	},
 	"elements": [
 		{

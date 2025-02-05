@@ -2,7 +2,7 @@
 	"credit": "Made by Meloenmahn",
 	"textures": {
 		"0": "custom/overige/camera_scherm",
-		"1": "blocks/hardened_clay_stained_pink",
+		"1": "block/hardened_clay_stained_pink",
 		"particle": "custom/overige/camera_scherm"
 	},
 	"elements": [

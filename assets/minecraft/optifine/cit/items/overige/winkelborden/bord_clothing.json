@@ -2,8 +2,8 @@
 	"credit": "robinnoob220 ;p",
 	"textures": {
 		"0": "custom/clothing",
-		"1": "blocks/planks_acacia",
-		"2": "blocks/lapis_block",
+		"1": "block/planks_acacia",
+		"2": "block/lapis_block",
 		"particle": "custom/clothing"
 	},
 	"elements": [

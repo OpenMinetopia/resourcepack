@@ -1,11 +1,11 @@
 {
 	"credit": "robinnoob220 ;p",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_light_blue",
-		"1": "blocks/concrete_powder_white",
-		"2": "blocks/bookshelf",
+		"0": "block/hardened_clay_stained_light_blue",
+		"1": "block/concrete_powder_white",
+		"2": "block/bookshelf",
 		"3": "custom/overige/vendingbag",
-		"particle": "blocks/hardened_clay_stained_light_blue"
+		"particle": "block/hardened_clay_stained_light_blue"
 	},
 	"elements": [
 		{

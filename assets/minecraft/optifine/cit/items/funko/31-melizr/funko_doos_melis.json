@@ -4,9 +4,9 @@
     "textures": {
         "0": "custom/funko/melizr",
         "1": "custom/funko/standaard",
-        "2": "blocks/concrete_pink",
-        "3": "blocks/dark_oak_planks",
-        "4": "blocks/stone",
+        "2": "block/concrete_pink",
+        "3": "block/dark_oak_planks",
+        "4": "block/stone",
         "5": "./doos",
         "particle": "custom/funko/melizr"
     },

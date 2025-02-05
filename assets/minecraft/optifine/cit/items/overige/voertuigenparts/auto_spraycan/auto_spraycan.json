@@ -1,11 +1,11 @@
 {
 	"credit": "Made by Nathantjuhh",
 	"textures": {
-		"1": "blocks/concrete_white",
-		"2": "blocks/concrete_red",
-		"3": "blocks/coal_block",
+		"1": "block/concrete_white",
+		"2": "block/concrete_red",
+		"3": "block/coal_block",
 		"4": "./anvil_base_light",
-		"5": "blocks/concrete_silver"
+		"5": "block/concrete_silver"
 	},
 	"elements": [
 		{

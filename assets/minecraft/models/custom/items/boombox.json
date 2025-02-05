@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/wool_colored_black",
-		"1": "blocks/concrete_white",
-		"2": "blocks/concrete_silver",
-		"3": "blocks/hardened_clay_stained_cyan",
-		"4": "blocks/observer_back_lit",
+		"0": "block/black_wool",
+		"1": "block/white_concrete",
+		"2": "block/silver_concrete",
+		"3": "block/cyan_terracotta",
+		"4": "block/observer_back_lit",
 		"5": "custom/overige/ddg_logo",
-		"6": "blocks/concrete_powder_silver",
-		"particle": "blocks/wool_colored_black"
+		"6": "block/silver_terracotta",
+		"particle": "block/black_wool"
 	},
 	"elements": [
 		{

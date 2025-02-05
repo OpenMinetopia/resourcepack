@@ -1,17 +1,17 @@
 {
 	"__comment": "Designed by BuffaloWout with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"0": "blocks/pumpkin_side",
-		"1": "blocks/pumpkin_face_on",
-		"2": "blocks/fire_layer_1",
-		"3": "blocks/concrete_black",
-		"4": "blocks/bone_block_side",
+		"0": "block/pumpkin_side",
+		"1": "block/pumpkin_face_on",
+		"2": "block/fire_layer_1",
+		"3": "block/concrete_black",
+		"4": "block/bone_block_side",
 		"5": "custom/overige/pompoensnoep",
-		"6": "blocks/anvil_base",
+		"6": "block/anvil_base",
 		"7": "custom/overige/ballonrope",
 		"8": "custom/overige/case_lightbrown",
-		"particle": "blocks/pumpkin_side",
-		"missing": "blocks/e_texture"
+		"particle": "block/pumpkin_side",
+		"missing": "block/e_texture"
 	},
 	"elements": [
 		{

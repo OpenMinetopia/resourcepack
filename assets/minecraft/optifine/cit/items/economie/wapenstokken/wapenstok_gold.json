@@ -1,6 +1,6 @@
 {
     "parent": "item/fermented_spider_eye",
     "textures": {
-        "politie": "blocks/gold_block"
+        "politie": "block/gold_block"
     }
 }

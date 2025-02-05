@@ -3,11 +3,11 @@
 	"textures": {
 		"particle": "custom/overige/watch_background",
 		"background": "custom/overige/watch_background",
-		"bandje": "blocks/hardened_clay_stained_brown",
-		"clock": "blocks/hardened_clay_stained_cyan",
-		"ticks": "blocks/hardened_clay_stained_silver",
-		"black": "blocks/hardened_clay_stained_black",
-		"red_ticks": "blocks/hardened_clay_stained_red"
+		"bandje": "block/hardened_clay_stained_brown",
+		"clock": "block/hardened_clay_stained_cyan",
+		"ticks": "block/hardened_clay_stained_silver",
+		"black": "block/hardened_clay_stained_black",
+		"red_ticks": "block/hardened_clay_stained_red"
 	},
 	"elements": [
 		{

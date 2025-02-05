@@ -1,7 +1,7 @@
 {
 "__comment": "Designed by Timbayens by order of DusDavid (DusDavidGames)",
 "textures": {
-    "texture": "blocks/cauldron_inner"
+    "texture": "block/cauldron_inner"
 },
 "elements": [ 
 {

@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by BuffaloWout with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"wool_colored_white": "blocks/wool_colored_green",
-		"texture": "blocks/wool_colored_red"
+		"wool_colored_white": "block/wool_colored_green",
+		"texture": "block/wool_colored_red"
 	},
 	"elements": [ 	 
 		{

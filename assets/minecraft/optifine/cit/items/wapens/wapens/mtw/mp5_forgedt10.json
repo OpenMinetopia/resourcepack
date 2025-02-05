@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"3": "./mp5_forgedt10",
-		"4": "blocks/concrete_black",
+		"4": "block/concrete_black",
 		"particle": "./mp5_forged"
 	}
 }

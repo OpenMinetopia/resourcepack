@@ -4,8 +4,8 @@
 		"4": "custom/overige/duffygames_logo",
 		"particle": "custom/overige/duffygames_logo",
 		"texture": "custom/overige/duffygames_cap_grey",
-		"snow": "blocks/snow",
-		"iron_block": "blocks/iron_block"
+		"snow": "block/snow",
+		"iron_block": "block/iron_block"
 	},
 	"elements": [
 		{

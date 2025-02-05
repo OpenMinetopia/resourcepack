@@ -1,8 +1,8 @@
 {
 "__comment": "Designed by Timbayens by order of DusDavid (DusDavidGames)",
 "textures": {
-    "texture": "blocks/quartz_block_bottom",
-    "glass": "blocks/glass_pink"
+    "texture": "block/quartz_block_bottom",
+    "glass": "block/glass_pink"
 },
 "elements": [ 
 {

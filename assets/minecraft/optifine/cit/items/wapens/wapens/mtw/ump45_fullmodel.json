@@ -3,8 +3,8 @@
 	"textures": {
 		"0": "custom/overige/weapon_d",
 		"1": "custom/overige/weapon_a",
-		"2": "blocks/stone_andesite_smooth",
-		"3": "blocks/bedrock"
+		"2": "block/stone_andesite_smooth",
+		"3": "block/bedrock"
 	},
 	"elements": [
 		{

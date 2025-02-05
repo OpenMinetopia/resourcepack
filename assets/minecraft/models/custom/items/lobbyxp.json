@@ -1,9 +1,9 @@
 {
 	"credit": "TimeWalk Made with Blockbench",
 	"textures": {
-		"0": "blocks/upgrades/lobbyxp",
+		"0": "block/upgrades/lobbyxp",
 		"1": "custom/overige/clear",
-		"particle": "blocks/upgrades/lobbyxp"
+		"particle": "block/upgrades/lobbyxp"
 	},
 	"elements": [ 	 
 		{

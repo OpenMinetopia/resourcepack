@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "./minetopia_classic_logo",
-		"1": "blocks/glass_white",
-		"2": "blocks/diamond_block",
-		"6": "blocks/door_dark_oak_upper",
-		"7": "blocks/bed_feet_top",
+		"1": "block/glass_white",
+		"2": "block/diamond_block",
+		"6": "block/door_dark_oak_upper",
+		"7": "block/bed_feet_top",
 		"particle": "./minetopia_classic_logo"
 	},
 	"elements": [

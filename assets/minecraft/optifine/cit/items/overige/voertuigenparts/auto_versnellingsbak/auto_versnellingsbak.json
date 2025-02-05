@@ -1,10 +1,10 @@
 {
 	"credit": "Made by Nathantjuhh",
 	"textures": {
-		"0": "blocks/anvil_base",
+		"0": "block/anvil_base",
 		"1": "./anvil_base_light",
-		"2": "blocks/clay",
-		"particle": "blocks/anvil_base"
+		"2": "block/clay",
+		"particle": "block/anvil_base"
 	},
 	"elements": [
 		{

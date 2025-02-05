@@ -2,7 +2,7 @@
     "parent": "./6_jaar_schilder.json",
     "textures": {
         "0": "./6_nobold",
-        "1": "blocks/planks_spruce",
+        "1": "block/planks_spruce",
         "particle": "./6_nobold"
     }
 }

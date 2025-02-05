@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "blocks/gold_block"
+		"1": "block/gold_block"
 	},
 	"elements": [
 		{

@@ -1,11 +1,11 @@
 {
     "credit": "robinnoob220 ;p",
     "textures": {
-        "0": "blocks/sponge",
-        "1": "blocks/planks_spruce",
+        "0": "block/sponge",
+        "1": "block/planks_spruce",
         "2": "./vlagje",
-        "3": "blocks/planks_oak",
-        "particle": "blocks/sponge"
+        "3": "block/planks_oak",
+        "particle": "block/sponge"
     },
     "elements": [{
             "from": [7, 1, 14],

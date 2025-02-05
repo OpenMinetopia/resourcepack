@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by AlwaysLucky_",
 	"textures": {
 		"1": "./cleaver",
-		"2": "blocks/log_big_oak"
+		"2": "block/log_big_oak"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Crafter_Lukas, DDG Resource Pack Artist",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_red",
-		"1": "blocks/planks_oak",
-		"particle": "blocks/hardened_clay_stained_red"
+		"0": "block/hardened_clay_stained_red",
+		"1": "block/planks_oak",
+		"particle": "block/hardened_clay_stained_red"
 	},
 	"elements": [
 		{

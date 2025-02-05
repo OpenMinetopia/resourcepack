@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "blocks/planks_spruce",
+		"0": "block/planks_spruce",
 		"1": "./het_is_thijmen_vlag",
-		"particle": "blocks/planks_spruce"
+		"particle": "block/planks_spruce"
 	},
 	"elements": [
 		{

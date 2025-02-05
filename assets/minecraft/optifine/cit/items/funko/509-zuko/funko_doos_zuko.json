@@ -4,7 +4,7 @@
 		"0": "custom/funko/zuko",
 		"1": "custom/funko/standaard",
 		"2": "./doos",
-		"3": "blocks/fire_layer_1",
+		"3": "block/fire_layer_1",
 		"particle": "custom/funko/zuko"
 	},
 	"elements": [

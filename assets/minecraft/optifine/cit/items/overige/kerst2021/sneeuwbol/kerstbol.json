@@ -4,10 +4,10 @@
 		"0": "custom/funko/dusdavid",
 		"1": "custom/funko/danny026",
 		"2": "custom/funko/tovenaar_timewalk",
-		"3": "blocks/glass",
-		"4": "blocks/dark_oak_planks",
+		"3": "block/glass",
+		"4": "block/dark_oak_planks",
 		"5": "./huis",
-		"6": "blocks/snow",
+		"6": "block/snow",
 		"7": "particle/particles",
 		"particle": "custom/funko/dusdavid"
 	},

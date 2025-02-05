@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Nathantjuhh",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_brown",
-		"1": "blocks/anvil_base",
-		"particle": "blocks/hardened_clay_stained_brown"
+		"0": "block/hardened_clay_stained_brown",
+		"1": "block/anvil_base",
+		"particle": "block/hardened_clay_stained_brown"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "blocks/anvil_base",
-		"row": "blocks/bed_feet_top"
+		"texture": "block/anvil_base",
+		"row": "block/bed_feet_top"
 	},
 	"elements": [
 		{

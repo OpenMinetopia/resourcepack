@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "blocks/concrete_powder_pink",
-		"5": "blocks/wool_colored_white",
-		"7": "blocks/wool_colored_pink"
+		"3": "block/concrete_powder_pink",
+		"5": "block/wool_colored_white",
+		"7": "block/wool_colored_pink"
 	},
 	"elements": [
 		{

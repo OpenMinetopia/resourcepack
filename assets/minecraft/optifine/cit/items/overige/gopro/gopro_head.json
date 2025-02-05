@@ -1,14 +1,14 @@
 {
 	"credit": "robinnoob220 ;p",
 	"textures": {
-		"0": "blocks/cauldron_inner",
-		"1": "blocks/hardened_clay_stained_cyan",
-		"2": "blocks/structure_block",
-		"3": "blocks/bedrock",
-		"6": "blocks/bed_feet_top",
+		"0": "block/cauldron_inner",
+		"1": "block/hardened_clay_stained_cyan",
+		"2": "block/structure_block",
+		"3": "block/bedrock",
+		"6": "block/bed_feet_top",
 		"7": "./klip",
 		"8": "custom/overige/vending_machine",
-		"particle": "blocks/cauldron_inner"
+		"particle": "block/cauldron_inner"
 	},
 	"elements": [
 		{

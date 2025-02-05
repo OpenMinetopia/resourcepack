@@ -1,11 +1,11 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_cyan",
-		"kleur": "blocks/hardened_clay_stained_brown",
-		"touwtjes": "blocks/hardened_clay_stained_black",
+		"particle": "block/hardened_clay_stained_cyan",
+		"kleur": "block/hardened_clay_stained_brown",
+		"touwtjes": "block/hardened_clay_stained_black",
 		"logo": "custom/overige/minetopia_logo",
-		"zipper": "blocks/hardened_clay_stained_cyan"
+		"zipper": "block/hardened_clay_stained_cyan"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"wool_colored_white": "blocks/wool_colored_white",
-		"texture": "blocks/wool_colored_orange"
+		"wool_colored_white": "block/wool_colored_white",
+		"texture": "block/wool_colored_orange"
 	},
 	"elements": [
 		{

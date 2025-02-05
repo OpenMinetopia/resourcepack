@@ -3,7 +3,7 @@
 	"credit": "Made by Nathantjuhh",
 	"textures": {
 		"0": "custom/heads/danny026",
-		"particle": "blocks/stone"
+		"particle": "block/stone"
 	},
 	"elements": [
 		{

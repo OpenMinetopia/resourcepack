@@ -5,9 +5,9 @@
 		"0": "custom/funko/emilyvm",
 		"1": "custom/funko/standaard",
 		"2": "./doos",
-		"4": "blocks/dispenser_front_vertical",
+		"4": "block/dispenser_front_vertical",
 		"5": "items/fireworks",
-		"6": "blocks/furnace_top",
+		"6": "block/furnace_top",
 		"7": "items/clock_53",
 		"particle": "custom/funko/emilyvm"
 	},

@@ -3,11 +3,11 @@
 	"textures": {
 		"background": "custom/overige/watch_background",
 		"particle": "custom/overige/watch_background",
-		"bandje": "blocks/gold_block",
-		"clock": "blocks/iron_block",
-		"ticks": "blocks/gold_block",
-		"black": "blocks/coal_block",
-		"red_ticks": "blocks/gold_block"
+		"bandje": "block/gold_block",
+		"clock": "block/iron_block",
+		"ticks": "block/gold_block",
+		"black": "block/coal_block",
+		"red_ticks": "block/gold_block"
 	},
 	"elements": [
 		{

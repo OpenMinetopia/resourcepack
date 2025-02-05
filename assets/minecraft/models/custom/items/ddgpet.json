@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "blocks/cauldron_inner",
-		"cap": "blocks/bed_feet_top",
-		"snow": "blocks/snow",
-		"iron_block": "blocks/iron_block",
+		"texture": "block/cauldron_inner",
+		"cap": "block/bed_feet_top",
+		"snow": "block/snow",
+		"iron_block": "block/iron_block",
 		"DDG": "custom/overige/ddg_logo"
 	},
 	"elements": [

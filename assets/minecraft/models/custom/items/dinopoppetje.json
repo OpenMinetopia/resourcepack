@@ -1,14 +1,14 @@
 {
 	"__comment": "Designed by Nightcling with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/hardened_clay_stained_green",
-		"dinoskin": "blocks/hardened_clay_stained_green",
-		"dinoteeth": "blocks/quartz_block_bottom",
-		"dinomouth": "blocks/hardened_clay_stained_red",
-		"dinooogwit": "blocks/quartz_block_bottom",
-		"dinooogzwart": "blocks/coal_block",
-		"dinobuikje": "blocks/hardened_clay_stained_lime",
-		"dinoscubben": "blocks/bone_block_side"
+		"particle": "block/hardened_clay_stained_green",
+		"dinoskin": "block/hardened_clay_stained_green",
+		"dinoteeth": "block/quartz_block_bottom",
+		"dinomouth": "block/hardened_clay_stained_red",
+		"dinooogwit": "block/quartz_block_bottom",
+		"dinooogzwart": "block/coal_block",
+		"dinobuikje": "block/hardened_clay_stained_lime",
+		"dinoscubben": "block/bone_block_side"
 	},
 	"elements": [
 		{

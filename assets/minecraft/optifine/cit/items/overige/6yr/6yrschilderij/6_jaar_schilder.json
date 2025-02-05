@@ -2,7 +2,7 @@
     "credit": "robinlol2 ;p",
     "textures": {
         "0": "./6",
-        "1": "blocks/planks_spruce",
+        "1": "block/planks_spruce",
         "particle": "./6"
     },
     "elements": [{

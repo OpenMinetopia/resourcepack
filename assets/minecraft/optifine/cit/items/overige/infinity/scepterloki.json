@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "blocks/gold",
-		"1": "blocks/glass_blue",
-		"2": "blocks/anvil_base",
-		"3": "blocks/concrete_black",
-		"particle": "blocks/gold"
+		"0": "block/gold",
+		"1": "block/glass_blue",
+		"2": "block/anvil_base",
+		"3": "block/concrete_black",
+		"particle": "block/gold"
 	},
 	"elements": [
 		{

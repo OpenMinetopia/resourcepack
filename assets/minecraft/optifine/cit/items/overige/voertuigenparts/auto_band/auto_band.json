@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "./tire",
-		"1": "blocks/stone_slab_top",
+		"1": "block/stone_slab_top",
 		"2": "./anvil_base_light",
-		"3": "blocks/hardened_clay_stained_gray",
-		"4": "blocks/anvil_base",
+		"3": "block/hardened_clay_stained_gray",
+		"4": "block/anvil_base",
 		"particle": "./tire"
 	},
 	"elements": [

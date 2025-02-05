@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/pumpkin_side",
-		"1": "blocks/pumpkin_face_on",
-		"3": "blocks/concrete_black",
-		"4": "blocks/bone_block_side",
-		"10": "blocks/torch_on",
-		"particle": "blocks/pumpkin_side"
+		"0": "block/pumpkin_side",
+		"1": "block/pumpkin_face_on",
+		"3": "block/concrete_black",
+		"4": "block/bone_block_side",
+		"10": "block/torch_on",
+		"particle": "block/pumpkin_side"
 	},
 	"elements": [
 		{

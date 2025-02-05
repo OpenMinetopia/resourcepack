@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "custom/schilderijen/painting-23",
-		"1": "blocks/planks_spruce",
+		"1": "block/planks_spruce",
 		"particle": "custom/schilderijen/painting-23"
 	},
 	"elements": [

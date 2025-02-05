@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/planks_oak",
-		"1": "blocks/stone",
-		"2": "blocks/gold_block",
-		"3": "blocks/wool_colored_red",
-		"4": "blocks/planks_spruce",
-		"particle": "blocks/planks_oak"
+		"0": "block/planks_oak",
+		"1": "block/stone",
+		"2": "block/gold_block",
+		"3": "block/wool_colored_red",
+		"4": "block/planks_spruce",
+		"particle": "block/planks_oak"
 	},
 	"elements": [
 		{

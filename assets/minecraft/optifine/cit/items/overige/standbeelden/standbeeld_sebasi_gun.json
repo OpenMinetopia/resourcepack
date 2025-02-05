@@ -3,8 +3,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"3": "./sebasi",
-		"4": "blocks/furnace_top",
-		"5": "blocks/gold_block",
+		"4": "block/furnace_top",
+		"5": "block/gold_block",
 		"particle": "./sebasi"
 	},
 	"elements": [

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench by AlwaysLucky_",
 	"textures": {
 		"0": "./cleaver",
-		"1": "blocks/log_big_oak",
+		"1": "block/log_big_oak",
 		"2": "./scythe",
 		"particle": "./cleaver"
 	},
