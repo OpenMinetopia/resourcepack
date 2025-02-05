@@ -1,6 +1,0 @@
-{
-  "parent" : "minecraft:item/generated",
-  "textures" : {
-    "layer0" : "minecraft:item/armor/7_yr_mt_2/chestplate"
-  }
-}

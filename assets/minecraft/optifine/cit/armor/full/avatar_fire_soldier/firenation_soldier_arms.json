@@ -1,0 +1,65 @@
+{
+	"credit": "Team DDG",
+	"texture_size": [32, 32],
+	"textures": {
+		"3": "./firenation_soldier_arms"
+	},
+	"elements": [
+		{
+			"from": [4.82513, 10.25, 4.5],
+			"to": [11.57513, 13.25, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 11.62095, 8]},
+			"faces": {
+				"north": {"uv": [3, 3, 6, 4.5], "texture": "#3"},
+				"east": {"uv": [0, 3, 3, 4.5], "texture": "#3"},
+				"south": {"uv": [9, 3, 12, 4.5], "texture": "#3"},
+				"west": {"uv": [6, 3, 9, 4.5], "texture": "#3"},
+				"up": {"uv": [6, 3, 3, 0], "texture": "#3"},
+				"down": {"uv": [9, 0, 6, 3], "texture": "#3"}
+			}
+		},
+		{
+			"from": [5.90255, 7.85879, 4.75],
+			"to": [7.90255, 14.60879, 11.25],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7.5, 11.62095, 8]},
+			"faces": {
+				"north": {"uv": [3, 7.5, 6, 8.5], "rotation": 90, "texture": "#3"},
+				"east": {"uv": [9, 4.5, 6, 7.5], "rotation": 270, "texture": "#3"},
+				"south": {"uv": [9, 7.5, 12, 8.5], "rotation": 270, "texture": "#3"},
+				"west": {"uv": [6, 7.5, 3, 4.5], "rotation": 270, "texture": "#3"},
+				"up": {"uv": [0, 7.5, 3, 8.5], "rotation": 270, "texture": "#3"},
+				"down": {"uv": [6, 7.5, 9, 8.5], "rotation": 270, "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 180, 0],
+			"translation": [1.5, -2, 8.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [1.5, -2, 8.25]
+		},
+		"ground": {
+			"scale": [0.59, 0.59, 0.59]
+		},
+		"gui": {
+			"rotation": [30, 21, 0],
+			"translation": [0, -2.5, 0],
+			"scale": [1.17, 1.17, 1.17]
+		},
+		"fixed": {
+			"translation": [0, -5.25, 0],
+			"scale": [1.64, 1.64, 1.64]
+		}
+	},
+	"groups": [
+		{
+			"name": "left_arm",
+			"origin": [10.32513, 22, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
