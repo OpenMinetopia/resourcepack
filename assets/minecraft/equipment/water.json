@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:water"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:water"
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:pak11"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:pak11"
+    } ]
+  }
+}

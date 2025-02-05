@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:log_oak"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:log_oak"
+    } ]
+  }
+}

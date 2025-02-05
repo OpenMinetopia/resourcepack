@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:deadpool"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:deadpool"
+    } ]
+  }
+}

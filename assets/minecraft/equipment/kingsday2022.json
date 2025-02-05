@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:kingsday2022"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:kingsday2022"
+    } ]
+  }
+}

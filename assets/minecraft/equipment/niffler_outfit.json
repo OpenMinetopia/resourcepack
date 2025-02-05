@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:niffler_outfit"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:niffler_outfit"
+    } ]
+  }
+}

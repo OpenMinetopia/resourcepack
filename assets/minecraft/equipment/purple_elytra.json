@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:purple_elytra"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:purple_elytra"
+    } ]
+  }
+}

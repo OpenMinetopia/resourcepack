@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:valentijn_pink_diamond_heart"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:valentijn_pink_diamond_heart"
+    } ]
+  }
+}

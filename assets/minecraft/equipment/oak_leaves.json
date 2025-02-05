@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:oak_leaves"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:oak_leaves"
+    } ]
+  }
+}

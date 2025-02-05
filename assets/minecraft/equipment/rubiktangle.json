@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:rubiktangle"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:rubiktangle"
+    } ]
+  }
+}

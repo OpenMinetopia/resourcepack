@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:offwhite strepen"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:offwhite strepen"
+    } ]
+  }
+}

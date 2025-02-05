@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:nebula"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:nebula"
+    } ]
+  }
+}

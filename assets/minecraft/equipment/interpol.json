@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:interpol"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:interpol"
+    } ]
+  }
+}

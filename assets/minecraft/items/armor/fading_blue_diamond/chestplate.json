@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/armor/fading_blue_diamond/chestplate"
+  }
+}

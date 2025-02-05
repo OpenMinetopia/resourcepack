@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:ddg_qr"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:ddg_qr"
+    } ]
+  }
+}

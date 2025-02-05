@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:spiderman_fade"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:spiderman_fade"
+    } ]
+  }
+}

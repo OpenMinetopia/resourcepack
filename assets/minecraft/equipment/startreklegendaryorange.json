@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:startreklegendaryorange"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:startreklegendaryorange"
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:emotie_setjes"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:emotie_setjes"
+    } ]
+  }
+}

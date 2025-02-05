@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:dreamingstripes"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:dreamingstripes"
+    } ]
+  }
+}

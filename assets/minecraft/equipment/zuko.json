@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:zuko"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:zuko"
+    } ]
+  }
+}

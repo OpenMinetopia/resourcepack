@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:warhammer_ultimate_edition"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:warhammer_ultimate_edition"
+    } ]
+  }
+}

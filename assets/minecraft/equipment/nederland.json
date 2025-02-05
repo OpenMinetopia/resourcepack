@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:nederland"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:nederland"
+    } ]
+  }
+}

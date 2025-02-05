@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:camo"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:camo"
+    } ]
+  }
+}

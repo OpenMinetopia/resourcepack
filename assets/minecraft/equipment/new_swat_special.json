@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:new_swat_special"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:new_swat_special"
+    } ]
+  }
+}

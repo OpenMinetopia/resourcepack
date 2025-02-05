@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/armor/army_armor_yellow/chestplate"
+  }
+}

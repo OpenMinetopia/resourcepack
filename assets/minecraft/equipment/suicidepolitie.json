@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:suicidepolitie"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:suicidepolitie"
+    } ]
+  }
+}

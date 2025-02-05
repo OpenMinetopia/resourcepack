@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:beertje_paddington"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:beertje_paddington"
+    } ]
+  }
+}

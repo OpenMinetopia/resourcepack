@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:welkom_op_minetopia"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:welkom_op_minetopia"
+    } ]
+  }
+}

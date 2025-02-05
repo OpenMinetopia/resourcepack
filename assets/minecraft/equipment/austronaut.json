@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:austronaut"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:austronaut"
+    } ]
+  }
+}

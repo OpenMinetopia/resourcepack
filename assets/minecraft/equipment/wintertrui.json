@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:wintertrui"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:wintertrui"
+    } ]
+  }
+}

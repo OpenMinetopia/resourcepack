@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:olafhd"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:olafhd"
+    } ]
+  }
+}

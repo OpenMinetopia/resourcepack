@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:hufflepuff_outfit_full"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:hufflepuff_outfit_full"
+    } ]
+  }
+}

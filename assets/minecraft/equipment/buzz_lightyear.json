@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:buzz_lightyear"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:buzz_lightyear"
+    } ]
+  }
+}

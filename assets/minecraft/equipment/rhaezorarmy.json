@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:rhaezorarmy"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:rhaezorarmy"
+    } ]
+  }
+}

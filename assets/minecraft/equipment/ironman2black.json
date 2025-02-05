@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:ironman2black"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:ironman2black"
+    } ]
+  }
+}

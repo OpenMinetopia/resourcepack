@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:minister_economie"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:minister_economie"
+    } ]
+  }
+}

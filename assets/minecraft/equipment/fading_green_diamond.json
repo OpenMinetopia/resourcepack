@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:fading_green_diamond"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:fading_green_diamond"
+    } ]
+  }
+}

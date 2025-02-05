@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:avatar_fire_soldier"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:avatar_fire_soldier"
+    } ]
+  }
+}

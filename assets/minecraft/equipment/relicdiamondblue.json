@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:relicdiamondblue"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:relicdiamondblue"
+    } ]
+  }
+}

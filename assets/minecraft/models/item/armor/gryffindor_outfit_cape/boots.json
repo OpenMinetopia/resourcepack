@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/generated",
+  "textures" : {
+    "layer0" : "minecraft:item/armor/gryffindor_outfit_cape/boots"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:ash_ketchum_suit"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:ash_ketchum_suit"
+    } ]
+  }
+}

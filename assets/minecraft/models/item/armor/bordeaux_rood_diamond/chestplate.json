@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/generated",
+  "textures" : {
+    "layer0" : "minecraft:item/armor/bordeaux_rood_diamond/chestplate"
+  }
+}

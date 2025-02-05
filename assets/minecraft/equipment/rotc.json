@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:rotc"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:rotc"
+    } ]
+  }
+}

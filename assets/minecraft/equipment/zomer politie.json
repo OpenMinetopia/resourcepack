@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:zomer politie"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:zomer politie"
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:slytherin_outfit_full"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:slytherin_outfit_full"
+    } ]
+  }
+}

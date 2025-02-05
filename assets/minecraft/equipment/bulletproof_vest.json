@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:bulletproof_vest"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:bulletproof_vest"
+    } ]
+  }
+}

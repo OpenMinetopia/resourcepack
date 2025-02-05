@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:13jrddg_set"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:13jrddg_set"
+    } ]
+  }
+}

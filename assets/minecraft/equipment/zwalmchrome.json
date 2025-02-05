@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:zwalmchrome"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:zwalmchrome"
+    } ]
+  }
+}

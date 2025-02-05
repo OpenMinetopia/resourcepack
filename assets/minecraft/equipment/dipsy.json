@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:dipsy"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:dipsy"
+    } ]
+  }
+}

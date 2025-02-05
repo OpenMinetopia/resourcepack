@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:superddg"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:superddg"
+    } ]
+  }
+}

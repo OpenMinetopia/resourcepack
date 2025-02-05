@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:battlefieldupgraded"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:battlefieldupgraded"
+    } ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:dombo"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:dombo"
+    } ]
+  }
+}

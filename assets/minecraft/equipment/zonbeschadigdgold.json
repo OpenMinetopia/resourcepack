@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:zonbeschadigdgold"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:zonbeschadigdgold"
+    } ]
+  }
+}

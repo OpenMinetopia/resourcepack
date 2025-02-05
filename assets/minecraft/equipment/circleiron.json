@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:circleiron"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:circleiron"
+    } ]
+  }
+}

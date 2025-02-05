@@ -1,0 +1,10 @@
+{
+  "layers" : {
+    "humanoid" : [ {
+      "texture" : "minecraft:masterpo"
+    } ],
+    "humanoid_leggings" : [ {
+      "texture" : "minecraft:masterpo"
+    } ]
+  }
+}
