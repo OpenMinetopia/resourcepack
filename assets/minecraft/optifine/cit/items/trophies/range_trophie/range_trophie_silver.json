@@ -1,9 +1,0 @@
-{
-    "parent": "./range_trophie_gold.json",
-    "textures": {
-		"1": "./anvil",
-		"2": "./bone_block_side",
-		"4": "./dark_oak_planks",
-		"5": "./silver_block"
-    }
-}

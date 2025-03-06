@@ -1,7 +1,0 @@
-{
-	"parent": "./vector_normal.json",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "./vector_forgedt10"
-	}
-}

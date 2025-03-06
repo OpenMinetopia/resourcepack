@@ -1,9 +1,0 @@
-{
-    "parent": "./abubu_blauw.json",
-	"textures": {
-		"0": "./abubu_botzwart",
-		"1": "./abubu_deco",
-		"2": "./abubu_topzwart",
-		"particle": "./abubu_botzwart"
-    }
-}

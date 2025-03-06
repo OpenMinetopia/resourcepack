@@ -1,7 +1,0 @@
-{
-    "parent": "./ballista_snow.json",
-	"textures": {
-		"4": "./ballista_camoblue",
-		"particle": "./ballista_camoblue"
-    }
-}

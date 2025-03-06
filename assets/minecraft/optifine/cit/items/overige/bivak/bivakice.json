@@ -1,7 +1,0 @@
-{
-	"parent":"custom/items/bivak.json",
-	"credit": "Made with Blockbench",
-	"textures": {
-   	 "texture": "./bivakice"
-	}
-}

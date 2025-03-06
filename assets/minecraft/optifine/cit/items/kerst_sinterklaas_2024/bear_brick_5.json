@@ -1,7 +1,0 @@
-{
-	"parent":"./bear_brick.json",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"1": "./bear_brick_5"
-	}
-}

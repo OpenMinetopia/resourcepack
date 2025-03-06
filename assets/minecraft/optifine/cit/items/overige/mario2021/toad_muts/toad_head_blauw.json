@@ -1,8 +1,0 @@
-{
-    "parent": "./toad_head",
-	"textures": {
-		"particle": "items/particle",
-		"texture": "items/texture",
-		"voxels_atlas": "./blauw"
-    }
-}

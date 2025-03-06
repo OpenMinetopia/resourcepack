@@ -1,7 +1,0 @@
-{
-    "parent": "./wideboyarm_base.json",
-	"textures": {
-		"3": "./per_en_sid",
-		"particle": "./per_en_sid"
-    }
-}

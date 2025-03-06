@@ -1,8 +1,0 @@
-{
-    "parent": "./diamond_trophie.json",
-	"textures": {
-		"0": "./dark_oak_planks",
-		"1": "./gold_block",
-		"particle": "./dark_oak_planks"
-	}
-}

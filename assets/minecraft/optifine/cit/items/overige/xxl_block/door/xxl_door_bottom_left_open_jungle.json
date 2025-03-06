@@ -1,7 +1,0 @@
-{
-	"parent": "./xxl_door_bottom_left_open",
-	"textures": {
-		"particle": "./door_jungle_lower",
-		"bottom": "./door_jungle_lower"
-	}
-}

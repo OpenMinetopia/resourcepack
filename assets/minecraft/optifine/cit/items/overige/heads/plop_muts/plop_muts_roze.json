@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./plop_muts",
-	"textures": {
-		"1": "./plop_muts_roze",
-		"particle": "./plop_muts_roze"
-	}
-}

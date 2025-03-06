@@ -1,9 +1,0 @@
-{
-	"parent":"./beamer",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "./i-am-iron-man",
-		"1": "./beamer",
-		"particle": "./i-am-iron-man"
-	}
-}

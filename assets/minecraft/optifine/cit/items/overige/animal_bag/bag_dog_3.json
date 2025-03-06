@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./bag_dog_1",
-	"textures": {
-		"4": "./bag_dog_3",
-		"particle": "./bag_dog_3"
-	}
-}

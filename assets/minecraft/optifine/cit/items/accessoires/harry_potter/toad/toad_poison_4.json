@@ -1,7 +1,0 @@
-{
-    "parent": "./toad_brown.json",
-    "textures": {
-		"particle": "./toad_poison_4",
-		"texture1": "./toad_poison_4"
-    }
-}

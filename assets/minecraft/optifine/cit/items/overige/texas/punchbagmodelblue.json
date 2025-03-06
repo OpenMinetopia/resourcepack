@@ -1,6 +1,0 @@
-{
-    "parent": "./punchbagmodel.json",
-	"textures": {
-		"5": "./punchbagmodelblue"
-    }
-}

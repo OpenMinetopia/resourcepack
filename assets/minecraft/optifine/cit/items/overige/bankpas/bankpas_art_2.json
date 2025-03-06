@@ -1,8 +1,0 @@
-{
-    "parent": "./bankpas_10_jaar_danny.json",
-    "textures": {
-        "bankpas_achterkant": "./bankpas_art_2_back",
-        "particle": "./bankpas_art_2",
-        "bankpas_voorkant": "./bankpas_art_2"
-    }
-}

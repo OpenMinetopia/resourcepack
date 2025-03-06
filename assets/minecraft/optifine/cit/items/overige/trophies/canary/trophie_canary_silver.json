@@ -1,8 +1,0 @@
-{
-    "parent": "./trophie_canary_gold.json",
-    "textures": {
-		"2": "./silver_block",
-		"3": "./dark_oak_planks",
-		"particle": "./dark_oak_planks"
-    }
-}

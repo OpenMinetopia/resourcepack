@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./dino_bag",
-	"textures": {
-		"2": "./dino_bag_orange",
-		"particle": "./dino_bag_orange"
-	}
-}

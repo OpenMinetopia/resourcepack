@@ -1,8 +1,0 @@
-{
-    "parent": "./rolexnew.json",
-	"textures": {
-		"0": "./timepieceym2black",
-		"1": "./extrasym2black",
-		"particle": "./timepieceym2black"
-    }
-}

@@ -1,9 +1,0 @@
-{
-	"parent":"./kerstster_geel",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "./sterbase_rood",
-		"1": "./kerstster_rood",
-		"particle": "./sterbase_rood"
-	}
-}

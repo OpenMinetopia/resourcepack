@@ -1,9 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./funko_pop_perry_big",
-	"textures": {
-		"0": "custom/funko/perry_gold",
-		"1": "custom/funko/standaard",
-		"particle": "custom/funko/perry_gold"
-	}
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "./boksbeugel.json",
-	"textures": {
-		"1": "./boksbeugelgold",
-		"particle": "./boksbeugelgold"
-    }
-}

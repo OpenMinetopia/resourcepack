@@ -1,7 +1,0 @@
-{
-	"parent": "./ak47_fullmodel_camo",
-	"textures": {
-		"0": "custom/overige/ak47_fullmodel_cyre",
-		"particle": "custom/overige/ak47_fullmodel_cyre"
-	}
-}

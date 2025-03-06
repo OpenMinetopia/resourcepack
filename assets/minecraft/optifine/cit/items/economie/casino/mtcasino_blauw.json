@@ -1,8 +1,0 @@
-{
-    "credit": "robinlol2 ;p",
-    "parent": "./mtcasino_base.json",
-    "textures": {
-        "0": "./mtcasino_blauw",
-        "particle": "./mtcasino_blauw"
-    }
-}

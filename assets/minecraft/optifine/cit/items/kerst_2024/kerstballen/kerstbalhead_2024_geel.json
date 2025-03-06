@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./kerstbalhead_2024_rood",
-	"textures": {
-		"0": "./kerstbalhead_2024_geel",
-		"particle": "./kerstbalhead_2024_geel"
-	}
-}

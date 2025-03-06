@@ -1,7 +1,0 @@
-{
-    "parent": "./watchmetlijn.json",
-	"textures": {
-		"2": "./tagheuerferrari",
-		"3": "./tagheuerferrari2"
-    }
-}

@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./plushie_lego",
-	"textures": {
-		"0": "./sneeuw_lego_plushie",
-		"particle": "./sneeuw_lego_plushie"
-	}
-}

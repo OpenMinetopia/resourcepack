@@ -1,9 +1,0 @@
-{
-	"parent": "./xxl_block_up_down",
-	"textures": {
-		"0": "./tnt_top",
-		"1": "./tnt_bottom",
-		"2": "./tnt_side",
-		"particle": "./tnt_top"
-	}
-}

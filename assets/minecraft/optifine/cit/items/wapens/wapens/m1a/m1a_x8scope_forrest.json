@@ -1,8 +1,0 @@
-{
-	"parent":"./m1a_x8scope",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"glass": "./glass",
-		"texture": "./m1a_ironsight_forrest"
-	}
-}

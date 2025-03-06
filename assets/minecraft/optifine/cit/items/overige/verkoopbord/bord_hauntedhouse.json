@@ -1,7 +1,0 @@
-{
-	"parent": "./verkoopbord.json",
-	"textures": {
-		"2": "./bord_hauntedhouse"
-	}
-
-}

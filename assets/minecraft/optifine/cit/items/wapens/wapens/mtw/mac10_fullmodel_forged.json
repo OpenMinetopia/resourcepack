@@ -1,7 +1,0 @@
-{
-	"parent": "./mac10_fullmodel.json",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "./mac10_fullmodel_forged"
-	}
-}

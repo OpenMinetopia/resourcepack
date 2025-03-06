@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./shield_eco",
-	"textures": {
-		"1": "./shield_biza",
-		"particle": "./shield_biza"
-	}
-}

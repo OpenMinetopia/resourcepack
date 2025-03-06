@@ -1,7 +1,0 @@
-{
-    "parent": "./gryffindor_scarf.json",
-    "textures": {
-		"particle": "./slytherin_scarf",
-		"texture": "./slytherin_scarf"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "credit": "Milanvd",
-    "parent": "./funko_rudolf.json",
-    "textures": {
-      "1": "custom/funko/standaard",
-      "3": "custom/funko/rendier",
-      "particle": "custom/funko/rendier"
-    }
-}

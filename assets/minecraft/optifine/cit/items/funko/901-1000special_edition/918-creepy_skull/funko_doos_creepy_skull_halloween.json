@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./funko_doos_creepy_skull",
-	"textures": {
-		"0": "custom/funko/creepy_skull",
-		"2": "./funko_doos_creepy_skull_halloween",
-		"3": "custom/funko/standaard"
-	}
-}

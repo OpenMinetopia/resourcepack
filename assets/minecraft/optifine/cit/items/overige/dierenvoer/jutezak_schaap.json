@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./jutezak_cow",
-	"textures": {
-		"0": "./jutezak_schaap",
-		"particle": "./jutezak_schaap"
-	}
-}

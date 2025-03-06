@@ -1,7 +1,0 @@
-{
-    "parent": "./blue_pointed_hat.json",
-    "textures": {
-		"particle": "./red_hat",
-		"texture": "./red_hat"
-    }
-}

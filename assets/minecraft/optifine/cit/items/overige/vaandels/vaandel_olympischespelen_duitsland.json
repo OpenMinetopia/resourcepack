@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./vaandel_olympischespelen_canada",
-	"textures": {
-		"0": "./vaandel_duitsland",
-		"particle": "./vaandel_duitsland"
-	}
-}

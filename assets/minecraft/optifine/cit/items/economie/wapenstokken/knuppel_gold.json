@@ -1,9 +1,0 @@
-{
-    "parent": "./knuppels.json",
-	"textures": {
-		"0": "block/anvil_base",
-		"1": "block/wool_colored_black",
-		"2": "block/wool_colored_yellow",
-		"particle": "block/anvil_base"
-    }
-}

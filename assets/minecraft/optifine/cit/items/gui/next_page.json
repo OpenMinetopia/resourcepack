@@ -1,7 +1,0 @@
-{
-    "parent": "./join.json",
-    "textures": {
-        "0": "./next_page",
-        "particle": "./next_page"
-    }
-}

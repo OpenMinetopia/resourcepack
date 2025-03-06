@@ -1,7 +1,0 @@
-{
-    "parent": "./mk2_snow.json",
-	"textures": {
-		"0": "./mk2_camoblue",
-		"particle": "./mk2_camoblue"
-    }
-}

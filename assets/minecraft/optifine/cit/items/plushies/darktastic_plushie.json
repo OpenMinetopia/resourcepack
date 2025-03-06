@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./plushie_base_slim",
-	"textures": {
-		"2": "./darktastic_plushie",
-		"particle": "./darktastic_plushie"
-	}
-}

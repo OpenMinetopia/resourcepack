@@ -1,8 +1,0 @@
-{
-    "parent": "./ballon.json",
-	"textures": {
-		"0": "./balloonoranje",
-		"1": "./rope",
-		"particle": "./balloonoranje"
-    }
-}

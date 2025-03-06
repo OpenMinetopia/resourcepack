@@ -1,8 +1,0 @@
-{
-    "parent": "./yoshi",
-	"textures": {
-		"particle": "items/particle",
-		"texture": "items/texture",
-		"voxels_atlas": "./groen"
-    }
-}

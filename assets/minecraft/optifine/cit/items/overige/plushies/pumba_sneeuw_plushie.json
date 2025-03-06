@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./pumba_plushie",
-	"textures": {
-		"0": "./pumba_sneeuw_plushie",
-		"particle": "./pumba_sneeuw_plushie"
-	}
-}

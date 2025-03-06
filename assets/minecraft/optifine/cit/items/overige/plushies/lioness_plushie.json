@@ -1,7 +1,0 @@
-{
-	"parent": "./lion_plushie",
-	"textures": {
-		"1": "./lioness_plushie",
-		"particle": "./lioness_plushie"
-	}
-}

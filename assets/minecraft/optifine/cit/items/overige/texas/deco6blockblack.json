@@ -1,6 +1,0 @@
-{
-    "parent": "./deco6blockwhitemodel.json",
-	"textures": {
-		"5": "./deco6blockblack"
-    }
-}

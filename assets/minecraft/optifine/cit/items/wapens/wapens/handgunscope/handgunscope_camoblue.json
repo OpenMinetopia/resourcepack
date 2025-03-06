@@ -1,6 +1,0 @@
-{
-    "parent": "./handgunscope.json",
-	"textures": {
-		"1": "./handgunscope_camoblue"
-    }
-}

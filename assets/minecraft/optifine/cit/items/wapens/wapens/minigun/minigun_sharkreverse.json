@@ -1,7 +1,0 @@
-{
-    "parent": "./minigun_normal.json",
-    "textures": {
-        "1": "./minigun_sharkreverse_back",
-        "3": "./minigun_sharkreverse_front"
-    }
-}

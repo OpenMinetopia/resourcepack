@@ -1,7 +1,0 @@
-{
-    "parent": "./wideboyarm_base.json",
-	"textures": {
-		"3": "./itsjeboymarcie",
-		"particle": "./itsjeboymarcie"
-    }
-}

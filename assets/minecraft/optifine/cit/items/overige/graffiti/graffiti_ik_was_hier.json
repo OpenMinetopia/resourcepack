@@ -1,7 +1,0 @@
-{
-	"parent": "./graffiti_regenboog",
-	"textures": {
-		"0": "./graffiti_ik_was_hier",
-		"particle": "./graffiti_ik_was_hier"
-	}
-}

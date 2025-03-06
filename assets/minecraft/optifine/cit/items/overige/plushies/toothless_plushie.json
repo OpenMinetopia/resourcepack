@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./dart_plushie",
-	"textures": {
-		"1": "./toothless_plushie",
-		"particle": "./toothless_plushie"
-	}
-}

@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./training_bag",
-	"textures": {
-		"0": "./training_bag_olympic",
-		"particle": "./training_bag_olympic"
-	}
-}

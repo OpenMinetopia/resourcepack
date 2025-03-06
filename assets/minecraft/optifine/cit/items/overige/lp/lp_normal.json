@@ -1,9 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./lp_muur_gold",
-	"textures": {
-		"2": "./lp_normal",
-		"4": "./lp_color",
-		"particle": "./lp_normal"
-	}
-}

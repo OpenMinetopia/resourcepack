@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./aardenation_grafitti",
-	"textures": {
-		"0": "./firenation_grafitti",
-		"particle": "./firenation_grafitti"
-	}
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "./zakmes.json",
-	"textures": {
-		"1": "./zakmesgold",
-		"particle": "./zakmesgold"
-    }
-}

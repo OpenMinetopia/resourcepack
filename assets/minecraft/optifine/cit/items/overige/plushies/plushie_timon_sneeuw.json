@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./plushie_timon",
-	"textures": {
-		"0": "./plushie_timon_sneeuw",
-		"particle": "./plushie_timon_sneeuw"
-	}
-}

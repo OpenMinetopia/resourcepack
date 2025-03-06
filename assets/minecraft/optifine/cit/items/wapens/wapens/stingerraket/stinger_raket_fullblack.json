@@ -1,7 +1,0 @@
-{
-	"parent": "./stinger_raket_normal.json",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "./stinger_raket_fullblack"
-	}
-}

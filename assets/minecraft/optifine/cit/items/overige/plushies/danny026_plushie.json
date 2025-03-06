@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./the_wiz76_plushie",
-	"textures": {
-		"3": "./danny026_plushie",
-		"particle": "./danny026_plushie"
-	}
-}

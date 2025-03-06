@@ -1,7 +1,0 @@
-{
-	"parent":"./m16a4_fullmodel.json",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"voxels_atlas": "./m16a4_forged"
-	}
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "./harrypotterbril.json",
-	"textures": {
-		"0": "block/glass_white",
-		"1": "./harrypotterbril_gold",
-		"particle": "block/glass_white"
-    }
-}

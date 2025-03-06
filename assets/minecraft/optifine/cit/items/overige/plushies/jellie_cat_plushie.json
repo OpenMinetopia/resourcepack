@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./ocelot_plushie",
-	"textures": {
-		"3": "./jellie_cat_plushie",
-		"particle": "./jellie_cat_plushie"
-	}
-}

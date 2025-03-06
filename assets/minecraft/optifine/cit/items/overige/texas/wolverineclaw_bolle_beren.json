@@ -1,7 +1,0 @@
-{
-    "parent": "./wolverineclaw.json",
-	"textures": {
-		"2": "./wolverinetexture_bolle_beren",
-		"particle": "./wolverinetexture_bolle_beren"
-    }
-}

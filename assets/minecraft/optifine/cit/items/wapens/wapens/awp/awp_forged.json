@@ -1,8 +1,0 @@
-{
-	"parent": "./awp.json",
-	"textures": {
-		"3": "block/anvil_base",
-		"4": "block/concrete_powder_yellow",
-		"5": "block/bedrock"
-	}
-}

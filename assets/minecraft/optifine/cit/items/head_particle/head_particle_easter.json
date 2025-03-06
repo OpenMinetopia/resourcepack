@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./head_particle_7yr",
-	"textures": {
-		"1": "./head_particle_easter",
-		"particle": "./head_particle_easter"
-	}
-}

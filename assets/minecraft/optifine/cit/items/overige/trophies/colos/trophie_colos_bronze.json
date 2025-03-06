@@ -1,8 +1,0 @@
-{
-    "parent": "./trophie_colos_gold.json",
-    "textures": {
-		"3": "./dark_oak_planks",
-		"4": "./bronze_block",
-		"particle": "./dark_oak_planks"
-    }
-}

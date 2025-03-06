@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./filmposter_avatar_1",
-	"textures": {
-		"10": "./filmposter_harrypotter_5",
-		"particle": "./filmposter_harrypotter_5"
-	}
-}

@@ -1,8 +1,0 @@
-{
-    "parent": "./rainbowwatch.json",
-	"textures": {
-		"0": "./toxicmercedes1",
-		"1": "./toxicmercedes2",
-		"particle": "./toxicmercedes1"
-    }
-}

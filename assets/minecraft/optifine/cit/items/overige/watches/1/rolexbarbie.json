@@ -1,8 +1,0 @@
-{
-    "parent": "./rolexgold.json",
-	"textures": {
-		"0": "./rolexbarbie1",
-		"1": "./rolexbarbie2",
-		"particle": "./rolexbarbie1"
-    }
-}

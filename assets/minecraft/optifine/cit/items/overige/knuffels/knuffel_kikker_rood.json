@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./knuffel_kikker",
-	"textures": {
-		"0": "./knuffel_kikker_rood",
-		"particle": "./knuffel_kikker_rood"
-	}
-}

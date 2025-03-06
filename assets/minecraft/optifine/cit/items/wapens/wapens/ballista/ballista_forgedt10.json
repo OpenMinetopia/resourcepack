@@ -1,9 +1,0 @@
-{
-	"parent": "./ballista.json",
-	"textures": {
-		"texture": "./ballista_forgedt10",
-		"fire": "./ballista_forgedt10",
-		"scope_top_1": "./ballista_forgedt10",
-		"particle": "./ballista_forgedt10"
-	}
-}

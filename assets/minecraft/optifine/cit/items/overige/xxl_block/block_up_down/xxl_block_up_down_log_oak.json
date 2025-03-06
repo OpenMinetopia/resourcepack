@@ -1,9 +1,0 @@
-{
-	"parent": "./xxl_block_up_down",
-	"textures": {
-		"0": "./log_oak_top",
-		"1": "./log_oak_top",
-		"2": "./log_oak",
-		"particle": "./log_oak_top"
-	}
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "./neon_shield.json",
-	"textures": {
-		"1": "./neon_shield_rainbow2"
-	}
-}

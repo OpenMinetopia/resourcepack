@@ -1,6 +1,0 @@
-{
-	"parent": "./scar_normal.json",
-	"textures": {
-		"0": "./scar_matrix_green"
-	}
-}

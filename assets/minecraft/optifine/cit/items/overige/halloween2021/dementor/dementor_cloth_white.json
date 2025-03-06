@@ -1,9 +1,0 @@
-{
-	"parent": "./dementor",
-	"textures": {
-		"3": "./dementor_cloth_white",
-		"particle": "./dementor1_white",
-		"texture": "./dementor1_white",
-		"texture1": "./dementor2_white"
-	}
-}

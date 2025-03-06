@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./plushie_papagaai_black",
-	"textures": {
-		"1": "./plushie_papagaai_gray",
-		"particle": "./plushie_papagaai_gray"
-	}
-}

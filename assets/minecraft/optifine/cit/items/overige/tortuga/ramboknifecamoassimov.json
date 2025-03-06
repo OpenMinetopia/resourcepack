@@ -1,6 +1,0 @@
-{
-    "parent": "./ramboknife.json",
-	"textures": {
-		"2": "./ramboknifecamoassimov"
-    }
-}

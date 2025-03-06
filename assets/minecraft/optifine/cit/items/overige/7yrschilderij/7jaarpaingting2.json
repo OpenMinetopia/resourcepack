@@ -1,8 +1,0 @@
-{
-    "parent": "./7jaarpainting.json",
-    "textures": {
-        "0": "./7jaarpaingting2",
-        "1": "block/planks_spruce",
-        "particle": "./7jaarpaingting2"
-    }
-}

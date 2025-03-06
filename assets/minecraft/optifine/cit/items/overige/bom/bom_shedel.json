@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./bom",
-	"textures": {
-		"2": "./bom_shedel",
-		"particle": "./bom_shedel"
-	}
-}

@@ -1,7 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./zombie_hand",
-	"textures": {
-		"0": "./husk"
-	}
-}

@@ -1,7 +1,0 @@
-{
-	"parent": "./p90_asiimov.json",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"1": "./p90_asiimovice"
-	}
-}

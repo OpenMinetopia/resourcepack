@@ -1,9 +1,0 @@
-{
-    "parent": "./dragrace_trophie_gold.json",
-    "textures": {
-		"0": "./bone_block_side",
-		"1": "./coal_block",
-		"2": "./dark_oak_planks",
-		"3": "./silver_block"
-    }
-}

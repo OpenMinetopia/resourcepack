@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./7klapper_kraslot",
-	"textures": {
-		"0": "./7klapper_kraslot_geelblauw",
-		"particle": "./7klapper_kraslot_geelblauw"
-	}
-}

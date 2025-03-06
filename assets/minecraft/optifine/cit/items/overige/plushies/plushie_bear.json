@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./plushie_panda",
-	"textures": {
-		"1": "./plushie_bear",
-		"particle": "./plushie_bear"
-	}
-}

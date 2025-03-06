@@ -1,6 +1,0 @@
-{
-    "parent": "./gryffindor_beanie.json",
-    "textures": {
-		"texture2": "./ravenclaw_beanie"
-    }
-}

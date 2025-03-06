@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./deadpool_plushie",
-	"textures": {
-		"3": "./misterdia_plushie",
-		"particle": "./misterdia_plushie"
-	}
-}

@@ -1,7 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./zombie_body",
-	"textures": {
-		"0": "./husk"
-	}
-}

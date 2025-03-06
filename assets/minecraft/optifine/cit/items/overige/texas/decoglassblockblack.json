@@ -1,6 +1,0 @@
-{
-    "parent": "./decoglassblock.json",
-	"textures": {
-		"3": "./decoglassblockblack"
-    }
-}

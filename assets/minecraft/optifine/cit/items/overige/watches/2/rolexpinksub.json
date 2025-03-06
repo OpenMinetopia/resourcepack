@@ -1,7 +1,0 @@
-{
-    "parent": "./watchmetlijn.json",
-	"textures": {
-		"2": "./rolexpinksub1",
-		"3": "./rolexpinksub2"
-    }
-}

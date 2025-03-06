@@ -1,8 +1,0 @@
-{
-	"parent": "./r2d2_plushie",
-	"textures": {
-		"1": "./r2d2_plushie_blue",
-		"particle": "./r2d2_plushie_blue"
-	}
-}
-	

@@ -1,7 +1,0 @@
-{
-	"parent":"./coltm1911_fullmodel_vulcan.json",
-	"textures": {
-		"0": "./coltm1911_fullmodel_bluefire",
-		"particle": "./coltm1911_fullmodel_bluefire"
-	}
-}

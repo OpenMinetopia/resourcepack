@@ -1,7 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./baby_shark_doll",
-	"textures": {
-		"2": "./mommy_shark"
-	}
-}

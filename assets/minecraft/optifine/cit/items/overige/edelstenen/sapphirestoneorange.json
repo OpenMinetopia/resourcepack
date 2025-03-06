@@ -1,7 +1,0 @@
-{
-    "parent": "./sapphirestone.json",
-	"textures": {
-		"0": "./smaragdorange",
-		"particle": "./smaragdorange"
-    }
-}

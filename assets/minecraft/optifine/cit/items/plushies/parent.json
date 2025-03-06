@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "./plushie_base",
-	"textures": {
-		"1": "./dezekeerromijn_plushie",
-		"particle": "./dezekeerromijn_plushie"
-	}
-}

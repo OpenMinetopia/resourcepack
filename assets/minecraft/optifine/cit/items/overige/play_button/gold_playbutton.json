@@ -1,7 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./zilver_playbutton",
-	"textures": {
-		"1": "custom/funko/gold_playbutton"
-	}
-}

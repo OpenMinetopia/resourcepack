@@ -1,7 +1,0 @@
-{
-    "parent": "./fad_snow.json",
-	"textures": {
-		"2": "./fad_camoblue",
-		"particle": "./fad_camoblue"
-    }
-}

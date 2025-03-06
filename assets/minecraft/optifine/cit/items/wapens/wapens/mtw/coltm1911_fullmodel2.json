@@ -1,9 +1,0 @@
-{
-	"parent":"./coltm1911_fullmodel.json",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"1": "./coltm1911_fullmodel2",
-		"3": "block/concrete_yellow",
-		"particle": "block/anvil_base"
-	}
-}

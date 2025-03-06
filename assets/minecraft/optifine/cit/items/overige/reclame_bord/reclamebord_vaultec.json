@@ -1,8 +1,0 @@
-{
-	"credit": "Team DDG",
-	"parent": "./reclamebord_mijn_winkel",
-	"textures": {
-		"0": "./reclamebord_vaultec",
-		"particle": "./reclamebord_vaultec"
-	}
-}

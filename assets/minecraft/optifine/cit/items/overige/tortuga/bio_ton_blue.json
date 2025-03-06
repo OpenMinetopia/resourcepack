@@ -1,7 +1,0 @@
-{
-    "parent": "./bio_ton.json",
-	"textures": {
-		"0": "./bio_ton_blue",
-		"particle": "./bio_ton_blue"
-    }
-}

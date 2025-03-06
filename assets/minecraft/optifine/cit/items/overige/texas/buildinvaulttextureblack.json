@@ -1,7 +1,0 @@
-{
-    "parent": "./buildinvaultmodel.json",
-	"textures": {
-		"1": "./buildinvaulttextureblack",
-		"particle": "./buildinvaulttextureblack"
-    }
-}

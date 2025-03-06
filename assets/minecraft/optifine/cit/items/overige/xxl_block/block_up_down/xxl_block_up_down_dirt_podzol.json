@@ -1,9 +1,0 @@
-{
-	"parent": "./xxl_block_up_down",
-	"textures": {
-		"0": "./dirt_podzol_top",
-		"1": "./dirt",
-		"2": "./dirt_podzol_side",
-		"particle": "./dirt_podzol_top"
-	}
-}

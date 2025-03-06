@@ -1,9 +1,0 @@
-{
-    "credit": "robinnoob220 ;p",
-    "parent": "./munt_base.json",
-    "textures": {
-        "0": "./munt",
-        "1": "./hoofd_jermu",
-        "particle": "./munt"
-    }
-}

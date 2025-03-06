@@ -1,8 +1,0 @@
-{
-    "parent": "./minigun_normal.json",
-    "textures": {
-        "1": "./minigun_lama_back",
-        "3": "./minigun_lama_front",
-        "particle": "./minigun_lama_back"
-    }
-}
