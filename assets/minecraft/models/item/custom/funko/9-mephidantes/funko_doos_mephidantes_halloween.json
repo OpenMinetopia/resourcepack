@@ -1,0 +1,11 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/9-mephidantes/funko_doos_mephidantes",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/9-mephidantes/custom/funko/mephidantes",
+    "1" : "minecraft:item/custom/funko/9-mephidantes/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/9-mephidantes/funko_doos_mephidantes_halloween",
+    "3" : "minecraft:item/custom/funko/9-mephidantes/items/diamond_sword",
+    "particle" : "minecraft:item/custom/funko/9-mephidantes/custom/funko/mephidantes"
+  }
+}

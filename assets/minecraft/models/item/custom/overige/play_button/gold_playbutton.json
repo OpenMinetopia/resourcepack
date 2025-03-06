@@ -1,0 +1,7 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/play_button/zilver_playbutton",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/play_button/custom/funko/gold_playbutton"
+  }
+}

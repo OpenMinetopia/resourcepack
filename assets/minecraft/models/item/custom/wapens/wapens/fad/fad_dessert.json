@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/fad/fad",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/fad/fire-rate",
+    "particle" : "minecraft:item/custom/wapens/wapens/fad/fire-rate",
+    "texture" : "minecraft:item/custom/wapens/wapens/fad/fad_dessert"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/accessoires/harry_potter/goblets/goblet",
+  "textures" : {
+    "particle" : "minecraft:item/custom/accessoires/harry_potter/goblets/goblet_silver",
+    "texture" : "minecraft:item/custom/accessoires/harry_potter/goblets/goblet_silver"
+  }
+}

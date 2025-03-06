@@ -1,0 +1,8 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/koffers/training_bag",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/koffers/training_bag_olympic",
+    "particle" : "minecraft:item/custom/overige/koffers/training_bag_olympic"
+  }
+}

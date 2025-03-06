@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/overige/mario2021/toad_muts/toad_head",
+  "textures" : {
+    "particle" : "minecraft:item/custom/overige/mario2021/toad_muts/items/particle",
+    "texture" : "minecraft:item/custom/overige/mario2021/toad_muts/items/texture",
+    "voxels_atlas" : "minecraft:item/custom/overige/mario2021/toad_muts/rood"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/accessoires/harry_potter/hats/scarf/gryffindor_scarf",
+  "textures" : {
+    "particle" : "minecraft:item/custom/accessoires/harry_potter/hats/scarf/ravenclaw_scarf",
+    "texture" : "minecraft:item/custom/accessoires/harry_potter/hats/scarf/ravenclaw_scarf"
+  }
+}

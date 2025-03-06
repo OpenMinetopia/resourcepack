@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/scar/scar_normal",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/wapens/scar/scar_normal_nether",
+    "particle" : "minecraft:item/custom/wapens/wapens/scar/scar_normal_nether"
+  }
+}

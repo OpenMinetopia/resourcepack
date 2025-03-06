@@ -1,0 +1,11 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/funko/514-nick_nelson/funko_doos_nick_nelson",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/514-nick_nelson/custom/funko/nick_nelson_gold",
+    "1" : "minecraft:item/custom/funko/514-nick_nelson/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/514-nick_nelson/doos",
+    "3" : "minecraft:item/custom/funko/514-nick_nelson/custom/funko/ink_pen",
+    "particle" : "minecraft:item/custom/funko/514-nick_nelson/custom/funko/nick_nelson_gold"
+  }
+}

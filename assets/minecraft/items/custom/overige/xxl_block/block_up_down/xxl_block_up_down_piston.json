@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/custom/overige/xxl_block/block_up_down/xxl_block_up_down_piston"
+  }
+}

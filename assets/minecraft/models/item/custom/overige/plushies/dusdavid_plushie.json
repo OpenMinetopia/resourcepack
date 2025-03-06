@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/plushies/the_wiz76_plushie",
+  "textures" : {
+    "3" : "minecraft:item/custom/overige/plushies/dusdavid_plushie",
+    "particle" : "minecraft:item/custom/overige/plushies/dusdavid_plushie"
+  }
+}

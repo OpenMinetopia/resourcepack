@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/ballista/ballista",
+  "textures" : {
+    "texture" : "minecraft:item/custom/wapens/wapens/ballista/ballista_forged",
+    "fire" : "minecraft:item/custom/wapens/wapens/ballista/fire",
+    "scope_top_1" : "minecraft:item/custom/wapens/wapens/ballista/scope_top_1",
+    "particle" : "minecraft:item/custom/wapens/wapens/ballista/scope"
+  }
+}

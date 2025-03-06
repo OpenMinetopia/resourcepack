@@ -1,0 +1,38 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/puzzel/item/handheld",
+  "textures" : {
+    "layer0" : "minecraft:item/custom/overige/puzzel/puzzel_halloween_9"
+  },
+  "gui_light" : "front",
+  "display" : {
+    "thirdperson_righthand" : {
+      "translation" : [ 5.75, 4.25, -0.25 ]
+    },
+    "thirdperson_lefthand" : {
+      "translation" : [ -5.75, 4, -0.25 ]
+    },
+    "firstperson_righthand" : {
+      "translation" : [ 10, 2.75, -1.75 ]
+    },
+    "firstperson_lefthand" : {
+      "translation" : [ -3, 4.25, 0 ]
+    },
+    "ground" : {
+      "translation" : [ 5.75, 2.75, 0 ]
+    },
+    "gui" : {
+      "translation" : [ 16.75, 6.75, 0 ],
+      "scale" : [ 2.9, 2.9, 2.9 ]
+    },
+    "head" : {
+      "rotation" : [ 90, 180, 0 ],
+      "translation" : [ 0, -10.25, 0 ],
+      "scale" : [ 2, 2, 2 ]
+    },
+    "fixed" : {
+      "translation" : [ 14.25, 5.25, 0 ],
+      "scale" : [ 2.45, 2.45, 2.45 ]
+    }
+  }
+}

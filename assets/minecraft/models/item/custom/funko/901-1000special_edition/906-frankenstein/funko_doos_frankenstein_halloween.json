@@ -1,0 +1,9 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/901-1000special_edition/906-frankenstein/funko_doos_frankenstein",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/901-1000special_edition/906-frankenstein/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/901-1000special_edition/906-frankenstein/funko_doos_frankenstein_halloween",
+    "3" : "minecraft:item/custom/funko/901-1000special_edition/906-frankenstein/custom/funko/frankenstein"
+  }
+}

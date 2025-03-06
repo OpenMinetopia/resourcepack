@@ -1,0 +1,189 @@
+{
+  "credit" : "By EliteCreatures",
+  "textures" : {
+    "3" : "minecraft:item/custom/overige/head_particle/ef_baby_penguins_long"
+  },
+  "elements" : [ {
+    "name" : "ef",
+    "from" : [ 1.5, 5, 3 ],
+    "to" : [ 4.5, 18, 3 ],
+    "rotation" : {
+      "angle" : 45,
+      "axis" : "y",
+      "origin" : [ 3, 11.5, 3 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 0.5, 4, 2.5, 13.5 ],
+        "texture" : "#3"
+      },
+      "east" : {
+        "uv" : [ 0, 0, 0, 13 ],
+        "texture" : "#missing"
+      },
+      "south" : {
+        "uv" : [ 2.5, 4, 0.5, 13.5 ],
+        "texture" : "#3"
+      },
+      "west" : {
+        "uv" : [ 0, 0, 0, 13 ],
+        "texture" : "#missing"
+      },
+      "up" : {
+        "uv" : [ 0, 0, 6, 0 ],
+        "texture" : "#missing"
+      },
+      "down" : {
+        "uv" : [ 0, 0, 6, 0 ],
+        "texture" : "#missing"
+      }
+    }
+  }, {
+    "name" : "ef",
+    "from" : [ 1.5, 2, 13 ],
+    "to" : [ 4.5, 15, 13 ],
+    "rotation" : {
+      "angle" : -45,
+      "axis" : "y",
+      "origin" : [ 3, 11.5, 13 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 15.5, 4, 13.5, 13.5 ],
+        "texture" : "#3"
+      },
+      "east" : {
+        "uv" : [ 13, 0, 13, 13 ],
+        "texture" : "#missing"
+      },
+      "south" : {
+        "uv" : [ 15.5, 4, 13.5, 13.5 ],
+        "texture" : "#3"
+      },
+      "west" : {
+        "uv" : [ 13, 0, 13, 13 ],
+        "texture" : "#missing"
+      },
+      "up" : {
+        "uv" : [ 0, 0, 6, 0 ],
+        "texture" : "#missing"
+      },
+      "down" : {
+        "uv" : [ 0, 0, 6, 0 ],
+        "texture" : "#missing"
+      }
+    }
+  }, {
+    "name" : "ef",
+    "from" : [ 11.5, 6, 3 ],
+    "to" : [ 14.5, 19, 3 ],
+    "rotation" : {
+      "angle" : -45,
+      "axis" : "y",
+      "origin" : [ 13, 11.5, 3 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 15.5, 4, 13.5, 13.5 ],
+        "texture" : "#3"
+      },
+      "east" : {
+        "uv" : [ 13, 0, 13, 13 ],
+        "texture" : "#missing"
+      },
+      "south" : {
+        "uv" : [ 15.5, 4, 13.5, 13.5 ],
+        "texture" : "#3"
+      },
+      "west" : {
+        "uv" : [ 13, 0, 13, 13 ],
+        "texture" : "#missing"
+      },
+      "up" : {
+        "uv" : [ 6, 0, 0, 0 ],
+        "texture" : "#missing"
+      },
+      "down" : {
+        "uv" : [ 6, 0, 0, 0 ],
+        "texture" : "#missing"
+      }
+    }
+  }, {
+    "name" : "ef",
+    "from" : [ 11.5, 6, 13 ],
+    "to" : [ 14.5, 19, 13 ],
+    "rotation" : {
+      "angle" : 45,
+      "axis" : "y",
+      "origin" : [ 13, 11.5, 13 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 9, 4, 7, 13.5 ],
+        "texture" : "#3"
+      },
+      "east" : {
+        "uv" : [ 0, 0, 0, 13 ],
+        "texture" : "#missing"
+      },
+      "south" : {
+        "uv" : [ 7, 4, 9, 13.5 ],
+        "texture" : "#3"
+      },
+      "west" : {
+        "uv" : [ 0, 0, 0, 13 ],
+        "texture" : "#missing"
+      },
+      "up" : {
+        "uv" : [ 6, 0, 0, 0 ],
+        "texture" : "#missing"
+      },
+      "down" : {
+        "uv" : [ 6, 0, 0, 0 ],
+        "texture" : "#missing"
+      }
+    }
+  } ],
+  "gui_light" : "front",
+  "display" : {
+    "thirdperson_righthand" : {
+      "rotation" : [ 61.23, 4.49, 0.46 ],
+      "translation" : [ 0, 1.75, 0.75 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "thirdperson_lefthand" : {
+      "rotation" : [ 61.23, 4.49, 0.46 ],
+      "translation" : [ 0, 1.75, 0.75 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "firstperson_righthand" : {
+      "rotation" : [ -166, 53.68, 171.1 ],
+      "translation" : [ 0.75, 3.75, -0.75 ],
+      "scale" : [ 0.58336, 0.58336, 0.58336 ]
+    },
+    "firstperson_lefthand" : {
+      "rotation" : [ -166, 53.68, 171.1 ],
+      "translation" : [ 0.75, 3.75, -0.75 ],
+      "scale" : [ 0.58336, 0.58336, 0.58336 ]
+    },
+    "ground" : {
+      "rotation" : [ 68, 0, 0 ],
+      "translation" : [ 0, 1.5, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "gui" : {
+      "rotation" : [ -170, 15, -180 ],
+      "translation" : [ 0.25, -2, 0 ],
+      "scale" : [ 0.62, 0.62, 0.62 ]
+    },
+    "head" : {
+      "translation" : [ 0, -4.15, 0 ],
+      "scale" : [ 1.56, 1.56, 1.56 ]
+    },
+    "fixed" : {
+      "rotation" : [ -90, 0, 0 ],
+      "translation" : [ 0, -0.25, -16.25 ],
+      "scale" : [ 2, 2, 2 ]
+    }
+  }
+}

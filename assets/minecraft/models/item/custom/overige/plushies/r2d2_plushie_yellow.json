@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/plushies/r2d2_plushie",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/plushies/r2d2_plushie_yellow",
+    "particle" : "minecraft:item/custom/overige/plushies/r2d2_plushie_yellow"
+  }
+}

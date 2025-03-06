@@ -1,0 +1,8 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/wapens/wapenstok/new_wapenstok",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapenstok/new_politie_wapenstok",
+    "particle" : "minecraft:item/custom/wapens/wapenstok/new_politie_wapenstok"
+  }
+}

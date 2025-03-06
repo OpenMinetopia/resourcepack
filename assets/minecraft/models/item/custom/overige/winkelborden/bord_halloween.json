@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/winkelborden/bord_food",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/winkelborden/custom/halloween",
+    "1" : "minecraft:block/obsidian",
+    "2" : "minecraft:block/log_big_oak",
+    "3" : "minecraft:block/log_big_oak_top",
+    "particle" : "minecraft:item/custom/overige/winkelborden/custom/halloween"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent" : "minecraft:item/custom/funko/201-pikachu/funko_doos_pikachu",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/201-pikachu/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/201-pikachu/doos",
+    "3" : "minecraft:item/custom/funko/201-pikachu/custom/funko/golden_pikachu",
+    "6" : "minecraft:item/custom/funko/201-pikachu/custom/funko/special_edition",
+    "particle" : "minecraft:item/custom/funko/201-pikachu/custom/funko/golden_pikachu"
+  }
+}

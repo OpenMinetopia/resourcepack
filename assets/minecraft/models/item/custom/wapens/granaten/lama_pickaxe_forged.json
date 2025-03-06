@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/wapens/granaten/lama_pickaxe",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/granaten/lama_pickaxe_forged"
+  }
+}

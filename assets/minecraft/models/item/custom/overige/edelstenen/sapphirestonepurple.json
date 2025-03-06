@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/edelstenen/sapphirestone",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/edelstenen/smaragdpurple",
+    "particle" : "minecraft:item/custom/overige/edelstenen/smaragdpurple"
+  }
+}

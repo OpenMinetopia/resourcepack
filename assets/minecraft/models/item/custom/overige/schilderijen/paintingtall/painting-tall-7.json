@@ -1,0 +1,11 @@
+{
+  "parent" : "minecraft:item/custom/overige/schilderijen/paintingtall/easeltall",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/schilderijen/paintingtall/birch_planks",
+    "2" : "minecraft:item/custom/overige/schilderijen/paintingtall/stripped_oak_log",
+    "3" : "minecraft:item/custom/overige/schilderijen/paintingtall/white_wool",
+    "4" : "minecraft:item/custom/overige/schilderijen/paintingtall/anvil_top",
+    "5" : "minecraft:item/custom/overige/schilderijen/paintingtall/custom/schilderijen/painting-7",
+    "particle" : "minecraft:item/custom/overige/schilderijen/paintingtall/birch_planks"
+  }
+}

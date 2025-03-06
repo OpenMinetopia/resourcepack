@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/neon_shields/neon_shield",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/neon_shields/neon_shield_portal_pink"
+  }
+}

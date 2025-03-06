@@ -1,0 +1,117 @@
+{
+  "credit" : "Made with Blockbench",
+  "texture_size" : [ 32, 32 ],
+  "textures" : {
+    "0" : "minecraft:item/custom/kerst_sinterklaas_2024/cadeautje_sinterklaas_licht_blauw",
+    "particle" : "minecraft:item/custom/kerst_sinterklaas_2024/cadeautje_sinterklaas_licht_blauw"
+  },
+  "elements" : [ {
+    "from" : [ 3.02, 0, 3.02 ],
+    "to" : [ 6.98, 4.96, 6.98 ],
+    "rotation" : {
+      "angle" : 22.5,
+      "axis" : "y",
+      "origin" : [ 5, 3.605, 5 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 7, 2.5, 9, 5 ],
+        "texture" : "#0"
+      },
+      "east" : {
+        "uv" : [ 0, 7.5, 2, 10 ],
+        "texture" : "#0"
+      },
+      "south" : {
+        "uv" : [ 7.5, 0, 9.5, 2.5 ],
+        "texture" : "#0"
+      },
+      "west" : {
+        "uv" : [ 2, 7.5, 4, 10 ],
+        "texture" : "#0"
+      },
+      "up" : {
+        "uv" : [ 12, 11.5, 10, 9.5 ],
+        "texture" : "#0"
+      },
+      "down" : {
+        "uv" : [ 12.5, 4.5, 10.5, 6.5 ],
+        "texture" : "#0"
+      }
+    }
+  }, {
+    "from" : [ 5, 5, 3.02 ],
+    "to" : [ 5, 9.96, 6.98 ],
+    "rotation" : {
+      "angle" : 22.5,
+      "axis" : "y",
+      "origin" : [ 5, 8.605, 5 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 0, 0, 0, 2.5 ],
+        "texture" : "#0"
+      },
+      "east" : {
+        "uv" : [ 4, 7.5, 6, 10 ],
+        "texture" : "#0"
+      },
+      "south" : {
+        "uv" : [ 0, 0, 0, 2.5 ],
+        "texture" : "#0"
+      },
+      "west" : {
+        "uv" : [ 6, 7.5, 8, 10 ],
+        "texture" : "#0"
+      },
+      "up" : {
+        "uv" : [ 0, 2, 0, 0 ],
+        "texture" : "#0"
+      },
+      "down" : {
+        "uv" : [ 0, 0, 0, 2 ],
+        "texture" : "#0"
+      }
+    }
+  }, {
+    "from" : [ 2.77, 4.25, 2.77 ],
+    "to" : [ 7.23, 5.21, 7.23 ],
+    "rotation" : {
+      "angle" : 22.5,
+      "axis" : "y",
+      "origin" : [ 5, 3.605, 5 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 12, 7.5, 14.25, 8 ],
+        "texture" : "#0"
+      },
+      "east" : {
+        "uv" : [ 12, 8, 14.25, 8.5 ],
+        "texture" : "#0"
+      },
+      "south" : {
+        "uv" : [ 12, 8.5, 14.25, 9 ],
+        "texture" : "#0"
+      },
+      "west" : {
+        "uv" : [ 12, 9, 14.25, 9.5 ],
+        "texture" : "#0"
+      },
+      "up" : {
+        "uv" : [ 2.25, 7.25, 0, 5 ],
+        "texture" : "#0"
+      },
+      "down" : {
+        "uv" : [ 7.25, 0, 5, 2.25 ],
+        "texture" : "#0"
+      }
+    }
+  } ],
+  "display" : {
+    "head" : {
+      "translation" : [ 0, 20.75, 0 ],
+      "scale" : [ 4, 4, 4 ]
+    }
+  }
+}

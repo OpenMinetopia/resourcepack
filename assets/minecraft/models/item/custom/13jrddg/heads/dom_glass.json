@@ -1,0 +1,7 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/13jrddg/heads/glass",
+  "textures" : {
+    "1" : "minecraft:item/custom/13jrddg/heads/dom_glass"
+  }
+}

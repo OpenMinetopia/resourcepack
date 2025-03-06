@@ -1,0 +1,12 @@
+{
+  "parent" : "minecraft:item/custom/funko/112-slime/funko_doos_slime",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/112-slime/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/112-slime/snow_slime",
+    "3" : "minecraft:item/custom/funko/112-slime/custom/funko/snow_slime",
+    "4" : "minecraft:item/custom/funko/112-slime/particle/particles",
+    "5" : "minecraft:item/custom/funko/112-slime/custom/funko/snow_slime",
+    "6" : "minecraft:item/custom/funko/112-slime/custom/funko/kerst_stikker",
+    "particle" : "minecraft:item/custom/funko/112-slime/custom/funko/snow_slime"
+  }
+}

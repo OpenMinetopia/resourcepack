@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/walterpp/walther_pp",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "texture" : "minecraft:item/custom/wapens/wapens/walterpp/walther_pp_marine"
+  }
+}

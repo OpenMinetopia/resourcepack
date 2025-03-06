@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/texas/decopopvinylkastmodel",
+  "textures" : {
+    "6" : "minecraft:item/custom/overige/texas/decopopvinylkastblack"
+  }
+}

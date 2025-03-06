@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/awp/awp",
+  "textures" : {
+    "3" : "minecraft:block/concrete_yellow",
+    "4" : "minecraft:block/concrete_powder_black",
+    "5" : "minecraft:block/concrete_powder_black"
+  }
+}

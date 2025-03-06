@@ -1,0 +1,10 @@
+{
+  "parent" : "minecraft:item/custom/overige/standbeelden/standbeeldmelizrdiamondgroot",
+  "credit" : "Made with Blockbench",
+  "texture_size" : [ 64, 64 ],
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/standbeelden/custom/standbeelden/standbeeld_baasbas320",
+    "1" : "minecraft:block/diamond_block",
+    "particle" : "minecraft:block/diamond_block"
+  }
+}

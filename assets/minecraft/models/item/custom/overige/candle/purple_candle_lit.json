@@ -1,0 +1,9 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/candle/black_candle",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/candle/fire",
+    "all" : "minecraft:item/custom/overige/candle/purple_candle_lit",
+    "particle" : "minecraft:item/custom/overige/candle/fire"
+  }
+}

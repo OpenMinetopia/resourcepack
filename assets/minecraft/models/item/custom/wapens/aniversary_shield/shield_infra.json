@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/wapens/aniversary_shield/shield_eco",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/aniversary_shield/shield_infra",
+    "particle" : "minecraft:item/custom/wapens/aniversary_shield/shield_infra"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/rolexbox/rolexbox_2",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/rolexbox/2/rolexsubmarinergoldblue1",
+    "1" : "minecraft:item/custom/overige/rolexbox/rolexbox",
+    "2" : "minecraft:item/custom/overige/rolexbox/2/rolexsubmarinergoldblue2",
+    "particle" : "minecraft:item/custom/overige/rolexbox/2/rolexsubmarinergoldblue1"
+  }
+}

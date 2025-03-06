@@ -1,0 +1,9 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/lp/lp_muur_gold",
+  "textures" : {
+    "2" : "minecraft:item/custom/overige/lp/lp_normal",
+    "4" : "minecraft:item/custom/overige/lp/lp_color",
+    "particle" : "minecraft:item/custom/overige/lp/lp_normal"
+  }
+}

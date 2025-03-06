@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/plushies/pumba_plushie",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/plushies/pumba_sneeuw_plushie",
+    "particle" : "minecraft:item/custom/overige/plushies/pumba_sneeuw_plushie"
+  }
+}

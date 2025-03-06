@@ -1,0 +1,10 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/funko/501-600film/505-war_machine/funko_doos_war_machine",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/501-600film/505-war_machine/custom/funko/war_machine",
+    "1" : "minecraft:item/custom/funko/501-600film/505-war_machine/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/501-600film/505-war_machine/funko_doos_war_machine_halloween",
+    "particle" : "minecraft:item/custom/funko/501-600film/505-war_machine/custom/funko/war_machine"
+  }
+}

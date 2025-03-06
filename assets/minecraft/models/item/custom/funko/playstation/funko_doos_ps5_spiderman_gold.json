@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/playstation/funko_doos_spiderman",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/playstation/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/playstation/doos_spiderman",
+    "3" : "minecraft:item/custom/funko/playstation/custom/funko/ps5_doos_spiderman_gold",
+    "4" : "minecraft:item/custom/funko/playstation/custom/funko/ps5_gold",
+    "particle" : "minecraft:item/custom/funko/playstation/custom/funko/ps5_doos_spiderman_gold"
+  }
+}

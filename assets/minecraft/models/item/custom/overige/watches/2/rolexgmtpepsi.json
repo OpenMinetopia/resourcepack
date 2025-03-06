@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/overige/watches/2/rainbowwatch",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/watches/2/rolexgmtpepsi1",
+    "1" : "minecraft:item/custom/overige/watches/2/rolexgmtpepsi2",
+    "particle" : "minecraft:item/custom/overige/watches/2/rolexgmtpepsi1"
+  }
+}

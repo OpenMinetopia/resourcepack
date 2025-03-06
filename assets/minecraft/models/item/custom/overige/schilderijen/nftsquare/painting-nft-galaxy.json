@@ -1,0 +1,12 @@
+{
+  "parent" : "minecraft:item/custom/overige/schilderijen/nftsquare/paintingnftsquare",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/schilderijen/nftsquare/birch_planks",
+    "2" : "minecraft:item/custom/overige/schilderijen/nftsquare/concrete_silver",
+    "3" : "minecraft:item/custom/overige/schilderijen/nftsquare/white_wool",
+    "4" : "minecraft:item/custom/overige/schilderijen/nftsquare/anvil_top",
+    "5" : "minecraft:item/custom/overige/schilderijen/nftsquare/custom/schilderijen/painting-galaxynight",
+    "6" : "minecraft:item/custom/overige/schilderijen/nftsquare/nft",
+    "particle" : "minecraft:item/custom/overige/schilderijen/nftsquare/birch_planks"
+  }
+}

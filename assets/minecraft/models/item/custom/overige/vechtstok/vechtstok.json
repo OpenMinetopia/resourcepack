@@ -1,0 +1,156 @@
+{
+  "credit" : "Team DDG",
+  "ambientocclusion" : false,
+  "textures" : {
+    "particle" : "minecraft:item/custom/overige/vechtstok/sugar_cane",
+    "reeds" : "minecraft:item/custom/overige/vechtstok/sugar_cane",
+    "cactus" : "minecraft:item/custom/overige/vechtstok/cactus_bottom"
+  },
+  "elements" : [ {
+    "name" : "s2",
+    "from" : [ 7, -16, 7 ],
+    "to" : [ 9, 0, 9 ],
+    "shade" : false,
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 8, 8, 8 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 5, 0, 7, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "east" : {
+        "uv" : [ 5, 0, 7, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "south" : {
+        "uv" : [ 5, 0, 7, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "west" : {
+        "uv" : [ 5, 0, 7, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "up" : {
+        "uv" : [ 2, 2, 14, 14 ],
+        "texture" : "#cactus",
+        "cullface" : "up"
+      },
+      "down" : {
+        "uv" : [ 1, 1, 15, 15 ],
+        "texture" : "#cactus"
+      }
+    }
+  }, {
+    "name" : "s3",
+    "from" : [ 7, 0, 7 ],
+    "to" : [ 9, 16, 9 ],
+    "shade" : false,
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 8, 8, 8 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 9, 0, 11, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "east" : {
+        "uv" : [ 9, 0, 11, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "south" : {
+        "uv" : [ 9, 0, 11, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "west" : {
+        "uv" : [ 9, 0, 11, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "up" : {
+        "uv" : [ 2, 2, 14, 14 ],
+        "texture" : "#cactus",
+        "cullface" : "up"
+      }
+    }
+  }, {
+    "name" : "s4",
+    "from" : [ 7, 16, 7 ],
+    "to" : [ 9, 32, 9 ],
+    "shade" : false,
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 8, 8, 8 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 9, 0, 11, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "east" : {
+        "uv" : [ 9, 0, 11, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "south" : {
+        "uv" : [ 9, 0, 11, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "west" : {
+        "uv" : [ 9, 0, 11, 16 ],
+        "texture" : "#reeds",
+        "tintindex" : 0
+      },
+      "up" : {
+        "uv" : [ 2, 2, 14, 14 ],
+        "texture" : "#cactus",
+        "cullface" : "up"
+      }
+    }
+  } ],
+  "display" : {
+    "thirdperson_righthand" : {
+      "translation" : [ 0, 0.5, -0.75 ],
+      "scale" : [ 0.7, 0.7, 0.7 ]
+    },
+    "thirdperson_lefthand" : {
+      "translation" : [ 0, 0.5, -0.75 ],
+      "scale" : [ 0.7, 0.7, 0.7 ]
+    },
+    "firstperson_righthand" : {
+      "rotation" : [ -16, 45, 0 ],
+      "translation" : [ 2.5, 0, 0 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "firstperson_lefthand" : {
+      "rotation" : [ -16, 45, 0 ],
+      "translation" : [ 2.5, 0, 0 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "ground" : {
+      "translation" : [ 0, 11.25, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "gui" : {
+      "rotation" : [ 30, 225, -38 ],
+      "scale" : [ 0.625, 0.625, 0.625 ]
+    },
+    "fixed" : {
+      "scale" : [ 0.39, 0.39, 0.39 ]
+    }
+  }
+}

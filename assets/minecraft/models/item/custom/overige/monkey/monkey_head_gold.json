@@ -1,0 +1,8 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/overige/monkey/monkey_head",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/monkey/monkey_head_gold",
+    "particle" : "minecraft:item/custom/overige/monkey/monkey_head_gold"
+  }
+}

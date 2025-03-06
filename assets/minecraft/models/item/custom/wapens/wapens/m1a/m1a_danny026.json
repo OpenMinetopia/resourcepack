@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/m1a/m1a_snow",
+  "textures" : {
+    "2" : "minecraft:item/custom/wapens/wapens/m1a/m1a_danny026",
+    "particle" : "minecraft:item/custom/wapens/wapens/m1a/noise"
+  }
+}

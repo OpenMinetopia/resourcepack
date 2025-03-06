@@ -1,0 +1,11 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/funko/901-1000special_edition/917-freddy_krueger/funko_doos_freddy_krueger",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/901-1000special_edition/917-freddy_krueger/custom/funko/freddy_krueger",
+    "2" : "minecraft:item/custom/funko/901-1000special_edition/917-freddy_krueger/funko_doos_freddy_krueger_halloween",
+    "3" : "minecraft:item/custom/funko/901-1000special_edition/917-freddy_krueger/custom/funko/standaard",
+    "4" : "minecraft:item/custom/funko/901-1000special_edition/917-freddy_krueger/custom/funko/hand_blade",
+    "particle" : "minecraft:item/custom/funko/901-1000special_edition/917-freddy_krueger/custom/funko/hand_blade"
+  }
+}

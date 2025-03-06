@@ -1,0 +1,9 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/steden_borden/borden_steden_minetopia",
+  "textures" : {
+    "2" : "minecraft:item/custom/overige/steden_borden/borden_steden_thebai",
+    "3" : "minecraft:item/custom/overige/steden_borden/paal_bord",
+    "particle" : "minecraft:item/custom/overige/steden_borden/borden_steden_thebai"
+  }
+}

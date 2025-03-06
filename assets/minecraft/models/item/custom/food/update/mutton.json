@@ -1,0 +1,13 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/food/update/item/handheld",
+  "textures" : {
+    "layer0" : "minecraft:item/custom/food/update/mutton"
+  },
+  "display" : {
+    "gui" : {
+      "translation" : [ -0.75, 0, 0 ],
+      "scale" : [ 1.3, 1.3, 1.3 ]
+    }
+  }
+}

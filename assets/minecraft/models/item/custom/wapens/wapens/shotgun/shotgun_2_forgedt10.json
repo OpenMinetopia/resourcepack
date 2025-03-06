@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/shotgun/shotgun_2",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/wapens/shotgun/shotgun_2_forgedt10",
+    "particle" : "minecraft:item/custom/wapens/wapens/shotgun/shotgun_2_forgedt10"
+  }
+}

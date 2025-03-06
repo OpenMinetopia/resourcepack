@@ -1,0 +1,171 @@
+{
+  "credit" : "Made with Blockbench",
+  "texture_size" : [ 32, 32 ],
+  "textures" : {
+    "2" : "minecraft:item/custom/nieuw_funko/olympischespelen_finishvlag"
+  },
+  "elements" : [ {
+    "name" : "octagon",
+    "from" : [ 13.78, -0.12764, 7.64 ],
+    "to" : [ 14.14, 19.29764, 8.36 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 13.96, 5.46, 8 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 0, 6.5, 0.5, 16 ],
+        "texture" : "#2"
+      },
+      "east" : {
+        "uv" : [ 0.5, 6.5, 1, 16 ],
+        "texture" : "#2"
+      },
+      "south" : {
+        "uv" : [ 1, 6.5, 1.5, 16 ],
+        "texture" : "#2"
+      },
+      "west" : {
+        "uv" : [ 1.5, 6.5, 2, 16 ],
+        "texture" : "#2"
+      },
+      "up" : {
+        "uv" : [ 6.5, 8, 6, 7.5 ],
+        "texture" : "#2"
+      },
+      "down" : {
+        "uv" : [ 7, 7.5, 6.5, 8 ],
+        "texture" : "#2"
+      }
+    }
+  }, {
+    "from" : [ 0.06, 0, 6 ],
+    "to" : [ 16.06, 1, 10 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 0.06, 0, 6 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 2, 6.5, 10, 7 ],
+        "texture" : "#2"
+      },
+      "east" : {
+        "uv" : [ 2, 7.5, 4, 8 ],
+        "texture" : "#2"
+      },
+      "south" : {
+        "uv" : [ 2, 7, 10, 7.5 ],
+        "texture" : "#2"
+      },
+      "west" : {
+        "uv" : [ 4, 7.5, 6, 8 ],
+        "texture" : "#2"
+      },
+      "up" : {
+        "uv" : [ 8, 2, 0, 0 ],
+        "texture" : "#2"
+      },
+      "down" : {
+        "uv" : [ 8, 2, 0, 4 ],
+        "texture" : "#2"
+      }
+    }
+  }, {
+    "from" : [ 2.78, 14.04764, 7.89 ],
+    "to" : [ 14.03, 19.29764, 7.89 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 2.78, 14.04764, 6.89 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 0, 4, 5.5, 6.5 ],
+        "texture" : "#2"
+      },
+      "east" : {
+        "uv" : [ 0, 0, 0, 2.5 ],
+        "texture" : "#2"
+      },
+      "south" : {
+        "uv" : [ 5.5, 4, 11, 6.5 ],
+        "texture" : "#2"
+      },
+      "west" : {
+        "uv" : [ 0, 0, 0, 2.5 ],
+        "texture" : "#2"
+      },
+      "up" : {
+        "uv" : [ 5.5, 0, 0, 0 ],
+        "texture" : "#2"
+      },
+      "down" : {
+        "uv" : [ 5.5, 0, 0, 0 ],
+        "texture" : "#2"
+      }
+    }
+  } ],
+  "display" : {
+    "thirdperson_righthand" : {
+      "rotation" : [ 75, 45, 0 ],
+      "translation" : [ 2.25, 1.5, 0 ],
+      "scale" : [ 0.36, 0.36, 0.36 ]
+    },
+    "thirdperson_lefthand" : {
+      "rotation" : [ 75, 45, 0 ],
+      "translation" : [ 2.25, 1.5, 0 ],
+      "scale" : [ 0.36, 0.36, 0.36 ]
+    },
+    "firstperson_righthand" : {
+      "rotation" : [ 0, 142, 0 ],
+      "translation" : [ 0, 1.5, 0 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "firstperson_lefthand" : {
+      "rotation" : [ 0, 142, 0 ],
+      "translation" : [ 0, 1.5, 0 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "ground" : {
+      "translation" : [ 0, 3, 0 ],
+      "scale" : [ 0.125, 0.125, 0.125 ]
+    },
+    "gui" : {
+      "rotation" : [ 30, 225, 0 ],
+      "translation" : [ 0, -0.5, 0 ],
+      "scale" : [ 0.53, 0.53, 0.53 ]
+    },
+    "head" : {
+      "translation" : [ 0, 1.6, 0 ],
+      "scale" : [ 1.6, 1.6, 1.6 ]
+    },
+    "fixed" : {
+      "translation" : [ -2.5, -2, 0 ],
+      "scale" : [ 0.55, 0.55, 0.55 ]
+    }
+  },
+  "groups" : [ {
+    "name" : "Olympische spelen ringen",
+    "origin" : [ 7.56, 8, 8 ],
+    "color" : 0,
+    "children" : [ {
+      "name" : "octagon",
+      "origin" : [ 7.56, 8, 8 ],
+      "color" : 0,
+      "children" : [ {
+        "name" : "group",
+        "origin" : [ -5.44, 21.5, 8 ],
+        "color" : 0,
+        "children" : [ 0, 1, 2 ]
+      } ]
+    }, {
+      "name" : "octagon",
+      "origin" : [ 7.56, 8, 8 ],
+      "color" : 0,
+      "children" : [ ]
+    } ]
+  } ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/accessoires/hogehoed/hogehoed",
+  "textures" : {
+    "0" : "minecraft:item/custom/accessoires/hogehoed/hogehoed_gold",
+    "particle" : "minecraft:item/custom/accessoires/hogehoed/hogehoed_gold"
+  }
+}

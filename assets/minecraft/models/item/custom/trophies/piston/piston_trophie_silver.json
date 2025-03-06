@@ -1,0 +1,10 @@
+{
+  "parent" : "minecraft:item/custom/trophies/piston/piston_trophie_bronze",
+  "textures" : {
+    "1" : "minecraft:item/custom/trophies/piston/piston_inner_silver",
+    "2" : "minecraft:item/custom/trophies/piston/piston_top_silver",
+    "3" : "minecraft:item/custom/trophies/piston/cauldron_inner",
+    "particle" : "minecraft:item/custom/trophies/piston/piston_side_silver",
+    "side" : "minecraft:item/custom/trophies/piston/piston_side_silver"
+  }
+}

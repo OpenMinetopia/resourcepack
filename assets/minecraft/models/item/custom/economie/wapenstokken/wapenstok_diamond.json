@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/economie/wapenstokken/item/fermented_spider_eye",
+  "textures" : {
+    "politie" : "minecraft:block/diamond_block"
+  }
+}

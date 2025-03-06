@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/tekstballon/tekstballon_bes",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/tekstballon/tekstballon_vdv",
+    "particle" : "minecraft:item/custom/overige/tekstballon/tekstballon_vdv"
+  }
+}

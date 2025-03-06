@@ -1,0 +1,11 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/109-skeleton/funko_doos_skeleton",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/109-skeleton/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/109-skeleton/funko_doos_skeleton_halloween",
+    "3" : "minecraft:item/custom/funko/109-skeleton/custom/funko/skeleton",
+    "4" : "minecraft:item/custom/funko/109-skeleton/custom/funko/boww",
+    "particle" : "minecraft:item/custom/funko/109-skeleton/custom/funko/skeleton"
+  }
+}

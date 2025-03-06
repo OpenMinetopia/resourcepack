@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/plushies/ocelot_plushie",
+  "textures" : {
+    "3" : "minecraft:item/custom/overige/plushies/amore_cat_plushie",
+    "particle" : "minecraft:item/custom/overige/plushies/amore_cat_plushie"
+  }
+}

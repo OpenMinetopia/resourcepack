@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/trophies/1jaar/diamond_trophie",
+  "textures" : {
+    "0" : "minecraft:item/custom/trophies/1jaar/dark_oak_planks",
+    "1" : "minecraft:item/custom/trophies/1jaar/silver_block",
+    "particle" : "minecraft:item/custom/trophies/1jaar/dark_oak_planks"
+  }
+}

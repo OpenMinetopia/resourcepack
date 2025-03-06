@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/overige/halloween2021/dementor/dementor",
+  "textures" : {
+    "3" : "minecraft:item/custom/overige/halloween2021/dementor/dementor_cloth",
+    "particle" : "minecraft:item/custom/overige/halloween2021/dementor/dementor_cloth_david",
+    "texture" : "minecraft:item/custom/overige/halloween2021/dementor/dementor_cloth_david",
+    "texture1" : "minecraft:item/custom/overige/halloween2021/dementor/dementor2"
+  }
+}

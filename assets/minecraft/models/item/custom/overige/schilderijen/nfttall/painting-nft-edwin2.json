@@ -1,0 +1,11 @@
+{
+  "parent" : "minecraft:item/custom/overige/schilderijen/nfttall/easeltallnft",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/schilderijen/nfttall/birch_planks",
+    "2" : "minecraft:item/custom/overige/schilderijen/nfttall/concrete_silver",
+    "3" : "minecraft:item/custom/overige/schilderijen/nfttall/white_wool",
+    "4" : "minecraft:item/custom/overige/schilderijen/nfttall/anvil_top",
+    "5" : "minecraft:item/custom/overige/schilderijen/nfttall/custom/schilderijen/painting-17",
+    "6" : "minecraft:item/custom/overige/schilderijen/nfttall/nft"
+  }
+}

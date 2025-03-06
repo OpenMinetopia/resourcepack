@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/custom/wapens/wapenparts/glock19_grip/glock19_grip"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/custom/overige/dragonhead/dragon_head_diamond"
+  }
+}

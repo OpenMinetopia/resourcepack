@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mtw/mp5_fullmodel",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "3" : "minecraft:item/custom/wapens/wapens/mtw/mp5_forged",
+    "4" : "minecraft:block/concrete_black",
+    "particle" : "minecraft:item/custom/wapens/wapens/mtw/mp5_forged"
+  }
+}

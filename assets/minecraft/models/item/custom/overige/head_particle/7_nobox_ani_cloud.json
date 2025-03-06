@@ -1,0 +1,154 @@
+{
+  "credit" : "By EliteCreatures",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/head_particle/ef_sweet_little_lambs_long"
+  },
+  "elements" : [ {
+    "name" : "ef",
+    "from" : [ 4.5, 13, 15.35 ],
+    "to" : [ 15.5, 18.5, 15.35 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 8, 17, 8 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 0.5, 0.5, 11, 4.5 ],
+        "texture" : "#1"
+      },
+      "east" : {
+        "uv" : [ 0, 0, 0, 7 ],
+        "texture" : "#1"
+      },
+      "south" : {
+        "uv" : [ 11, 0.5, 0.5, 4.5 ],
+        "texture" : "#1"
+      },
+      "west" : {
+        "uv" : [ 0, 0, 0, 7 ],
+        "texture" : "#1"
+      },
+      "up" : {
+        "uv" : [ 0, 0, 10, 0 ],
+        "texture" : "#1"
+      },
+      "down" : {
+        "uv" : [ 0, 0, 10, 0 ],
+        "texture" : "#1"
+      }
+    }
+  }, {
+    "name" : "ef",
+    "from" : [ -0.05, 16.3, 12.95 ],
+    "to" : [ 10.95, 21.8, 12.95 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 8, 17, 8 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 11, 0.5, 0.5, 4.5 ],
+        "texture" : "#1"
+      },
+      "east" : {
+        "uv" : [ 0, 0, 0, 7 ],
+        "texture" : "#1"
+      },
+      "south" : {
+        "uv" : [ 0.5, 0.5, 11, 4.5 ],
+        "texture" : "#1"
+      },
+      "west" : {
+        "uv" : [ 0, 0, 0, 7 ],
+        "texture" : "#1"
+      },
+      "up" : {
+        "uv" : [ 10, 0, 0, 0 ],
+        "texture" : "#1"
+      },
+      "down" : {
+        "uv" : [ 10, 0, 0, 0 ],
+        "texture" : "#1"
+      }
+    }
+  }, {
+    "name" : "ef",
+    "from" : [ 6.7, 18, 8.45 ],
+    "to" : [ 16.7, 22, 8.45 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 8, 17, 8 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 15, 7, 8, 9.5 ],
+        "texture" : "#1"
+      },
+      "east" : {
+        "uv" : [ 0, 0, 0, 7 ],
+        "texture" : "#1"
+      },
+      "south" : {
+        "uv" : [ 8, 7, 15, 9.5 ],
+        "texture" : "#1"
+      },
+      "west" : {
+        "uv" : [ 0, 0, 0, 7 ],
+        "texture" : "#1"
+      },
+      "up" : {
+        "uv" : [ 10, 0, 0, 0 ],
+        "texture" : "#1"
+      },
+      "down" : {
+        "uv" : [ 10, 0, 0, 0 ],
+        "texture" : "#1"
+      }
+    }
+  } ],
+  "gui_light" : "front",
+  "display" : {
+    "thirdperson_righthand" : {
+      "rotation" : [ 61.23, 4.49, 0.46 ],
+      "translation" : [ 0, 1.75, 0.75 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "thirdperson_lefthand" : {
+      "rotation" : [ 61.23, 4.49, 0.46 ],
+      "translation" : [ 0, 1.75, 0.75 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "firstperson_righthand" : {
+      "rotation" : [ -166, 53.68, 171.1 ],
+      "translation" : [ 0.75, 3.75, -0.75 ],
+      "scale" : [ 0.58336, 0.58336, 0.58336 ]
+    },
+    "firstperson_lefthand" : {
+      "rotation" : [ -166, 53.68, 171.1 ],
+      "translation" : [ 0.75, 3.75, -0.75 ],
+      "scale" : [ 0.58336, 0.58336, 0.58336 ]
+    },
+    "ground" : {
+      "rotation" : [ 68, 0, 0 ],
+      "translation" : [ 0, 1.5, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "gui" : {
+      "rotation" : [ -170, 15, -180 ],
+      "translation" : [ 0.25, -2, 0 ],
+      "scale" : [ 0.62, 0.62, 0.62 ]
+    },
+    "head" : {
+      "translation" : [ 0, 0.1, -6.25 ],
+      "scale" : [ 1.34, 1.34, 1.34 ]
+    },
+    "fixed" : {
+      "rotation" : [ -90, 0, 0 ],
+      "translation" : [ 0, -0.25, -16.25 ],
+      "scale" : [ 2, 2, 2 ]
+    }
+  }
+}

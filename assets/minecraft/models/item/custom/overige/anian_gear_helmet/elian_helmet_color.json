@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/anian_gear_helmet/elian_helmet",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/anian_gear_helmet/ufo",
+    "1" : "minecraft:item/custom/overige/anian_gear_helmet/alien",
+    "2" : "minecraft:item/custom/overige/anian_gear_helmet/particle_color",
+    "3" : "minecraft:item/custom/overige/anian_gear_helmet/particle2",
+    "particle" : "minecraft:item/custom/overige/anian_gear_helmet/ufo"
+  }
+}

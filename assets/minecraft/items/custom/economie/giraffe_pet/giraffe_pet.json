@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/custom/economie/giraffe_pet/giraffe_pet"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/trophies/legend/legend_beker",
+  "textures" : {
+    "0" : "minecraft:item/custom/trophies/legend/custom/skins/danny026_skin",
+    "2" : "minecraft:item/custom/trophies/legend/legend_beker",
+    "particle" : "minecraft:item/custom/trophies/legend/custom/skins/danny026_skin"
+  }
+}

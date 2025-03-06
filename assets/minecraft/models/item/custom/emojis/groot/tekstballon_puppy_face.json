@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/emojis/groot/tekstballon_bes",
+  "textures" : {
+    "0" : "minecraft:item/custom/emojis/groot/tekstballon_puppy_face",
+    "particle" : "minecraft:item/custom/emojis/groot/tekstballon_puppy_face"
+  }
+}

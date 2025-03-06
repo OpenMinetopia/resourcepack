@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/texas/wolverineclaw",
+  "textures" : {
+    "2" : "minecraft:item/custom/overige/texas/wolverineclawice_sunset",
+    "particle" : "minecraft:item/custom/overige/texas/wolverineclawice_sunset"
+  }
+}

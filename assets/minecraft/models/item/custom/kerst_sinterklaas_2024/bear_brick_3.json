@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/kerst_sinterklaas_2024/bear_brick",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "1" : "minecraft:item/custom/kerst_sinterklaas_2024/bear_brick_3"
+  }
+}

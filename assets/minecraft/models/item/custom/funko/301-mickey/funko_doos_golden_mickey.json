@@ -1,0 +1,10 @@
+{
+  "parent" : "minecraft:item/custom/funko/301-mickey/funko_doos_mickey",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/301-mickey/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/301-mickey/doos",
+    "3" : "minecraft:item/custom/funko/301-mickey/custom/funko/golden_mickey",
+    "6" : "minecraft:item/custom/funko/301-mickey/custom/funko/special_edition",
+    "particle" : "minecraft:item/custom/funko/301-mickey/custom/funko/golden_mickey"
+  }
+}

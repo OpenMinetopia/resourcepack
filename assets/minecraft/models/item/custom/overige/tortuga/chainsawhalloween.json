@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/tortuga/chainsaw",
+  "textures" : {
+    "2" : "minecraft:item/custom/overige/tortuga/chainsawhalloween"
+  }
+}

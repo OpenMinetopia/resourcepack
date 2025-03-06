@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/magnum44_fullmodel/magnum44_fullmodel",
+  "textures" : {
+    "voxels_atlas" : "minecraft:item/custom/wapens/wapens/magnum44_fullmodel/magnum44_fake"
+  }
+}

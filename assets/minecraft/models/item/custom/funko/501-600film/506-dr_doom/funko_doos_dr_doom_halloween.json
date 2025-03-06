@@ -1,0 +1,11 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/funko/501-600film/506-dr_doom/funko_doos_dr_doom",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/501-600film/506-dr_doom/custom/funko/dr_doom",
+    "1" : "minecraft:item/custom/funko/501-600film/506-dr_doom/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/501-600film/506-dr_doom/funko_doos_dr_doom_halloween",
+    "3" : "minecraft:item/custom/funko/501-600film/506-dr_doom/items/book_writable",
+    "particle" : "minecraft:item/custom/funko/501-600film/506-dr_doom/custom/funko/dr_doom"
+  }
+}

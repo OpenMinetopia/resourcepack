@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/plushie/deadpool_plushie",
+  "textures" : {
+    "3" : "minecraft:item/custom/overige/plushie/wolveriene_plushie",
+    "particle" : "minecraft:item/custom/overige/plushie/wolveriene_plushie"
+  }
+}

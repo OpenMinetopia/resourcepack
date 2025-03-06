@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/plushies/plushie_base_slim",
+  "textures" : {
+    "2" : "minecraft:item/custom/plushies/darktastic_plushie",
+    "particle" : "minecraft:item/custom/plushies/darktastic_plushie"
+  }
+}

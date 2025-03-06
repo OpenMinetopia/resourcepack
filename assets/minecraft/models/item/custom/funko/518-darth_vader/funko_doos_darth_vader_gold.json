@@ -1,0 +1,12 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/518-darth_vader/funko_doos_darth_vader",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/518-darth_vader/custom/funko/darth_vader_gold",
+    "1" : "minecraft:item/custom/funko/518-darth_vader/custom/funko/light_saber_red",
+    "2" : "minecraft:item/custom/funko/518-darth_vader/doos",
+    "3" : "minecraft:item/custom/funko/518-darth_vader/custom/funko/standaard",
+    "4" : "minecraft:item/custom/funko/518-darth_vader/custom/funko/light_saber_green",
+    "particle" : "minecraft:item/custom/funko/518-darth_vader/custom/funko/darth_vader_gold"
+  }
+}

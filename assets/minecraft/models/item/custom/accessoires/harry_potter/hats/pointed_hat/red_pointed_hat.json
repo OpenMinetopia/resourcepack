@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/accessoires/harry_potter/hats/pointed_hat/blue_pointed_hat",
+  "textures" : {
+    "particle" : "minecraft:item/custom/accessoires/harry_potter/hats/pointed_hat/red_hat",
+    "texture" : "minecraft:item/custom/accessoires/harry_potter/hats/pointed_hat/red_hat"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/edelstenen/edelsteen",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/edelstenen/ruby",
+    "particle" : "minecraft:item/custom/overige/edelstenen/ruby"
+  }
+}

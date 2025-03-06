@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/bivak/custom/items/bivak",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "texture" : "minecraft:block/wool_colored_pink"
+  }
+}

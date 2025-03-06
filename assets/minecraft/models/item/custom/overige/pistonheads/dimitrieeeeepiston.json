@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/pistonheads/pistonhead",
+  "textures" : {
+    "6" : "minecraft:item/custom/overige/pistonheads/dimitrieeeeepiston"
+  }
+}

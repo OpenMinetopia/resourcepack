@@ -1,0 +1,13 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/funko/513-avatar_state_aang/funko_doos_avatar_state_aang",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/513-avatar_state_aang/custom/funko/avatar_state_aang_gold",
+    "1" : "minecraft:item/custom/funko/513-avatar_state_aang/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/513-avatar_state_aang/doos",
+    "3" : "minecraft:item/custom/funko/513-avatar_state_aang/custom/funko/aang_staff",
+    "4" : "minecraft:item/custom/funko/513-avatar_state_aang/custom/funko/water",
+    "5" : "minecraft:block/fire_layer_0",
+    "particle" : "minecraft:item/custom/funko/513-avatar_state_aang/custom/funko/avatar_state_aang_gold"
+  }
+}

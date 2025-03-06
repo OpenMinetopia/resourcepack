@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/dieren/phoenix",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/dieren/phoenixgold",
+    "2" : "minecraft:item/custom/overige/dieren/vleugelgold"
+  }
+}

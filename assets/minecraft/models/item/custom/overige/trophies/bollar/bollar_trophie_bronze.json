@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/overige/trophies/bollar/bollar_trophie_gold",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/trophies/bollar/bronze_block",
+    "3" : "minecraft:item/custom/overige/trophies/bollar/dark_oak_planks",
+    "particle" : "minecraft:item/custom/overige/trophies/bollar/dark_oak_planks"
+  }
+}

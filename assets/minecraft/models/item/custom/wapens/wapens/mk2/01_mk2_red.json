@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mk2/01_mk2",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "texture" : "minecraft:item/custom/wapens/wapens/mk2/mk2_red",
+    "fire" : "minecraft:item/custom/wapens/wapens/mk2/fire",
+    "txt" : "minecraft:item/custom/wapens/wapens/mk2/txt"
+  }
+}

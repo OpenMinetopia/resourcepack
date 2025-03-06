@@ -1,0 +1,7 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/kerst_2024/kerstballen/kerstbal_2024_rood",
+  "textures" : {
+    "1" : "minecraft:item/custom/kerst_2024/kerstballen/kerstbal_2024_blauw"
+  }
+}

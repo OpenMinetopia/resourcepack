@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mag7/mag_7_normal",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/mag7/mag_7_seabirdreverse",
+    "particle" : "minecraft:item/custom/wapens/wapens/mag7/mag_7_seabirdreverse"
+  }
+}

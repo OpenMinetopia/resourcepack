@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/posters/filmposter_avatar_1",
+  "textures" : {
+    "10" : "minecraft:item/custom/overige/posters/filmposter_avatar_4",
+    "particle" : "minecraft:item/custom/overige/posters/filmposter_avatar_4"
+  }
+}

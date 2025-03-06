@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/528-voldemort/funko_doos_voldemort",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/528-voldemort/custom/funko/harry_potter_wand",
+    "2" : "minecraft:item/custom/funko/528-voldemort/funko_doos_voldemort_halloween",
+    "3" : "minecraft:item/custom/funko/528-voldemort/custom/funko/standaard",
+    "4" : "minecraft:item/custom/funko/528-voldemort/custom/funko/voldemort",
+    "particle" : "minecraft:item/custom/funko/528-voldemort/custom/funko/harry_potter_wand"
+  }
+}

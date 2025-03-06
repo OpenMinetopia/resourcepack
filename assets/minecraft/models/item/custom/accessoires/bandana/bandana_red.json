@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/accessoires/bandana/bandana_blue",
+  "texture_size" : [ 32, 32 ],
+  "textures" : {
+    "0" : "minecraft:item/custom/accessoires/bandana/bandana_red",
+    "particle" : "minecraft:item/custom/accessoires/bandana/bandana_red"
+  }
+}

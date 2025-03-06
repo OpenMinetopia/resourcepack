@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/texas/deco6blockwhitemodel",
+  "textures" : {
+    "5" : "minecraft:item/custom/overige/texas/deco6blockblack"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mtw/coltm1911_fullmodel",
+  "__comment" : "Designed by Spooky_538 with Cubik Studio - https://cubik.studio",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/mtw/coltm1911_forgedt10",
+    "3" : "minecraft:block/concrete_black",
+    "particle" : "minecraft:block/anvil_base"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mtw/coltm1911_fullmodel_vulcan",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/wapens/mtw/coltm1911_fullmodel_red",
+    "particle" : "minecraft:item/custom/wapens/wapens/mtw/coltm1911_fullmodel_red"
+  }
+}

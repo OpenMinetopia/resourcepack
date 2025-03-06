@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/318-woody/funko_doos_woody",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/318-woody/custom/funko/woody",
+    "1" : "minecraft:item/custom/funko/318-woody/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/318-woody/funko_doos_woody_halloween",
+    "3" : "minecraft:item/custom/funko/318-woody/custom/funko/lasso",
+    "particle" : "minecraft:item/custom/funko/318-woody/custom/funko/woody"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/zakmes/zakmes",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/zakmes/zakmesdiamond",
+    "particle" : "minecraft:item/custom/wapens/wapens/zakmes/zakmesdiamond"
+  }
+}

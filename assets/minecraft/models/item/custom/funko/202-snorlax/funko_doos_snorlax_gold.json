@@ -1,0 +1,13 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/202-snorlax/funko_doos_snorlax",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/202-snorlax/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/202-snorlax/doos",
+    "3" : "minecraft:item/custom/funko/202-snorlax/custom/funko/snorlax_gold",
+    "4" : "minecraft:item/custom/funko/202-snorlax/custom/funko/onzichtbaar",
+    "5" : "minecraft:item/custom/funko/202-snorlax/custom/funko/onzichtbaar",
+    "6" : "minecraft:item/custom/funko/202-snorlax/custom/funko/onzichtbaar",
+    "particle" : "minecraft:item/custom/funko/202-snorlax/custom/funko/onzichtbaar"
+  }
+}

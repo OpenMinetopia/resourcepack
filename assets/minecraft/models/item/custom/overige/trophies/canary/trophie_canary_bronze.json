@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/overige/trophies/canary/trophie_canary_gold",
+  "textures" : {
+    "2" : "minecraft:item/custom/overige/trophies/canary/bronze_block",
+    "3" : "minecraft:item/custom/overige/trophies/canary/dark_oak_planks",
+    "particle" : "minecraft:item/custom/overige/trophies/canary/dark_oak_planks"
+  }
+}

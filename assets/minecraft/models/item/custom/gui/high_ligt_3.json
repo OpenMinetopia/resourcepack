@@ -1,0 +1,15 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/gui/gui_balkje_base",
+  "textures" : {
+    "0" : "minecraft:item/custom/gui/high_ligt_3",
+    "particle" : "minecraft:item/custom/gui/high_ligt_3"
+  },
+  "gui_light" : "front",
+  "display" : {
+    "gui" : {
+      "translation" : [ 72, 65, -75 ],
+      "scale" : [ 3.66, 3.66, 3.66 ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/trophies/range_trophie/range_trophie_gold",
+  "textures" : {
+    "1" : "minecraft:item/custom/trophies/range_trophie/anvil",
+    "2" : "minecraft:item/custom/trophies/range_trophie/bone_block_side",
+    "4" : "minecraft:item/custom/trophies/range_trophie/dark_oak_planks",
+    "5" : "minecraft:item/custom/trophies/range_trophie/bronze_block"
+  }
+}

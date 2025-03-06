@@ -1,0 +1,15 @@
+{
+  "parent" : "minecraft:item/custom/trophies/season_victory/ra4004/season_trophie",
+  "textures" : {
+    "0" : "minecraft:item/custom/trophies/season_victory/ra4004/cape_texture",
+    "1" : "minecraft:item/custom/trophies/season_victory/ra4004/bone_block_side",
+    "2" : "minecraft:item/custom/trophies/season_victory/ra4004/spruce_log",
+    "3" : "minecraft:item/custom/trophies/season_victory/ra4004/dark_oak_trapdoor",
+    "4" : "minecraft:item/custom/trophies/season_victory/ra4004/dark_oak_planks",
+    "6" : "minecraft:item/custom/trophies/season_victory/ra4004/gold_block",
+    "7" : "minecraft:item/custom/trophies/season_victory/ra4004/red_glazed_terracotta",
+    "8" : "minecraft:item/custom/trophies/season_victory/ra4004/lime_shulker_box",
+    "9" : "minecraft:item/custom/trophies/season_victory/ra4004/ra4004",
+    "particle" : "minecraft:item/custom/trophies/season_victory/ra4004/bone_block_side"
+  }
+}

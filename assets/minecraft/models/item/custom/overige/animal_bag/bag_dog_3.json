@@ -1,0 +1,8 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/animal_bag/bag_dog_1",
+  "textures" : {
+    "4" : "minecraft:item/custom/overige/animal_bag/bag_dog_3",
+    "particle" : "minecraft:item/custom/overige/animal_bag/bag_dog_3"
+  }
+}

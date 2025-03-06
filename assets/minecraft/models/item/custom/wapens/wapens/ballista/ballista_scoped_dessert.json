@@ -1,0 +1,13 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/ballista/ballista_scoped",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "texture" : "minecraft:item/custom/wapens/wapens/ballista/ballista_dessert",
+    "fire" : "minecraft:item/custom/wapens/wapens/ballista/fire",
+    "scope_top_1" : "minecraft:item/custom/wapens/wapens/ballista/scope_top_1",
+    "scope_top_2" : "minecraft:item/custom/wapens/wapens/ballista/scope_top_2",
+    "scope_side" : "minecraft:item/custom/wapens/wapens/ballista/scope_side",
+    "scope_side_2" : "minecraft:item/custom/wapens/wapens/ballista/scope_side_2",
+    "scope_front" : "minecraft:item/custom/wapens/wapens/ballista/scope_front"
+  }
+}

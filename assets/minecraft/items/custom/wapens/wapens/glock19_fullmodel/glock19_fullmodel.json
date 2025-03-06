@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/custom/wapens/wapens/glock19_fullmodel/glock19_fullmodel"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/funko/501-600film/504-venom/funko_doos_venom",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/501-600film/504-venom/custom/funko/venom",
+    "1" : "minecraft:item/custom/funko/501-600film/504-venom/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/501-600film/504-venom/funko_doos_venom_halloween",
+    "particle" : "minecraft:item/custom/funko/501-600film/504-venom/custom/funko/venom"
+  }
+}

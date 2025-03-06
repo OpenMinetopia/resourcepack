@@ -1,0 +1,11 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/funko/531-chucky/funko_doos_chucky",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/531-chucky/custom/funko/chucky_gold",
+    "2" : "minecraft:item/custom/funko/531-chucky/doos",
+    "3" : "minecraft:item/custom/funko/531-chucky/custom/funko/standaard",
+    "4" : "minecraft:item/custom/funko/531-chucky/custom/funko/mes",
+    "particle" : "minecraft:item/custom/funko/531-chucky/custom/funko/chucky_gold"
+  }
+}

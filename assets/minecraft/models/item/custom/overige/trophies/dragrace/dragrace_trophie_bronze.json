@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/overige/trophies/dragrace/dragrace_trophie_gold",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/trophies/dragrace/bone_block_side",
+    "1" : "minecraft:item/custom/overige/trophies/dragrace/coal_block",
+    "2" : "minecraft:item/custom/overige/trophies/dragrace/dark_oak_planks",
+    "3" : "minecraft:item/custom/overige/trophies/dragrace/bronze_block"
+  }
+}

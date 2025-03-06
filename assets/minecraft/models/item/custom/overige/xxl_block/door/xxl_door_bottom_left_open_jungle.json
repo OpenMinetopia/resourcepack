@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/xxl_block/door/xxl_door_bottom_left_open",
+  "textures" : {
+    "particle" : "minecraft:item/custom/overige/xxl_block/door/door_jungle_lower",
+    "bottom" : "minecraft:item/custom/overige/xxl_block/door/door_jungle_lower"
+  }
+}

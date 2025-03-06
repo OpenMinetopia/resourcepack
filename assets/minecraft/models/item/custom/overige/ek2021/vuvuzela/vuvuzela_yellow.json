@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/overige/ek2021/vuvuzela/vuvuzela_blauw",
+  "textures" : {
+    "0" : "minecraft:block/concrete_black",
+    "1" : "minecraft:block/hardened_clay_stained_yellow",
+    "particle" : "minecraft:block/concrete_black"
+  }
+}

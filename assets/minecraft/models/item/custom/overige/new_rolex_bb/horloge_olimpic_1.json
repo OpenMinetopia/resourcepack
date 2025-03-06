@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/new_rolex_bb/rolex_nieuw_bb_color",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/new_rolex_bb/leeg",
+    "2" : "minecraft:item/custom/overige/new_rolex_bb/leeg",
+    "3" : "minecraft:item/custom/overige/new_rolex_bb/plaat_olimpic_1",
+    "4" : "minecraft:item/custom/overige/new_rolex_bb/horloge_olimpic_1",
+    "particle" : "minecraft:item/custom/overige/new_rolex_bb/horloge_olimpic_1"
+  }
+}

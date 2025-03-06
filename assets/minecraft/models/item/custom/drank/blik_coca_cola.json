@@ -1,0 +1,9 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/drank/blik_color",
+  "textures" : {
+    "1" : "minecraft:item/custom/drank/blik_coca_cola_rond_color",
+    "2" : "minecraft:item/custom/drank/blik_coca_cola_rond_non_color",
+    "particle" : "minecraft:item/custom/drank/blik_coca_cola_rond_non_color"
+  }
+}

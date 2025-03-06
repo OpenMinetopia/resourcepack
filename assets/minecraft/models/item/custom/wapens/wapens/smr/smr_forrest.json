@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/smr/smr",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "texture" : "minecraft:item/custom/wapens/wapens/smr/smr_forrest",
+    "particle" : "minecraft:item/custom/wapens/wapens/smr/details"
+  }
+}

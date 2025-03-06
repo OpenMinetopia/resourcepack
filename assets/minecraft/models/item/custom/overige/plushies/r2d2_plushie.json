@@ -1,0 +1,225 @@
+{
+  "credit" : "Made with Blockbench",
+  "texture_size" : [ 64, 64 ],
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/plushies/r2d2_plushie_gold",
+    "particle" : "minecraft:item/custom/overige/plushies/r2d2_plushie_blue"
+  },
+  "elements" : [ {
+    "name" : "head",
+    "from" : [ 4, 2, 5 ],
+    "to" : [ 12, 13, 13 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 7.86447, 7.26, 8.88222 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 0, 0, 2, 2.75 ],
+        "texture" : "#1"
+      },
+      "east" : {
+        "uv" : [ 2, 0, 4, 2.75 ],
+        "texture" : "#1"
+      },
+      "south" : {
+        "uv" : [ 0, 2.75, 2, 5.5 ],
+        "texture" : "#1"
+      },
+      "west" : {
+        "uv" : [ 2, 2.75, 4, 5.5 ],
+        "texture" : "#1"
+      },
+      "up" : {
+        "uv" : [ 6, 2, 4, 0 ],
+        "texture" : "#1"
+      },
+      "down" : {
+        "uv" : [ 6, 2, 4, 4 ],
+        "texture" : "#1"
+      }
+    }
+  }, {
+    "from" : [ 3, 0.01, 7 ],
+    "to" : [ 4, 9.01, 11 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 0, 7.26, 0 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 6, 5.5, 6.25, 7.75 ],
+        "texture" : "#1"
+      },
+      "east" : {
+        "uv" : [ 4, 4, 5, 6.25 ],
+        "texture" : "#1"
+      },
+      "south" : {
+        "uv" : [ 4, 6.25, 4.25, 8.5 ],
+        "texture" : "#1"
+      },
+      "west" : {
+        "uv" : [ 5, 4, 6, 6.25 ],
+        "texture" : "#1"
+      },
+      "up" : {
+        "uv" : [ 5, 7.25, 4.75, 6.25 ],
+        "texture" : "#1"
+      },
+      "down" : {
+        "uv" : [ 5.25, 6.25, 5, 7.25 ],
+        "texture" : "#1"
+      }
+    }
+  }, {
+    "from" : [ 12, 0.01, 7 ],
+    "to" : [ 13, 9.01, 11 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 0, 7.26, 0 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 4.25, 6.25, 4.5, 8.5 ],
+        "texture" : "#1"
+      },
+      "east" : {
+        "uv" : [ 0, 5.5, 1, 7.75 ],
+        "texture" : "#1"
+      },
+      "south" : {
+        "uv" : [ 4.5, 6.25, 4.75, 8.5 ],
+        "texture" : "#1"
+      },
+      "west" : {
+        "uv" : [ 1, 5.5, 2, 7.75 ],
+        "texture" : "#1"
+      },
+      "up" : {
+        "uv" : [ 5.5, 7.25, 5.25, 6.25 ],
+        "texture" : "#1"
+      },
+      "down" : {
+        "uv" : [ 5.75, 6.25, 5.5, 7.25 ],
+        "texture" : "#1"
+      }
+    }
+  }, {
+    "from" : [ 2, 0, 6 ],
+    "to" : [ 4.25, 2, 12 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 0, 7.26, 0 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 6.25, 5.5, 6.75, 6 ],
+        "texture" : "#1"
+      },
+      "east" : {
+        "uv" : [ 2, 5.5, 3.5, 6 ],
+        "texture" : "#1"
+      },
+      "south" : {
+        "uv" : [ 6.25, 6, 6.75, 6.5 ],
+        "texture" : "#1"
+      },
+      "west" : {
+        "uv" : [ 6, 0, 7.5, 0.5 ],
+        "texture" : "#1"
+      },
+      "up" : {
+        "uv" : [ 4, 7, 3.5, 5.5 ],
+        "texture" : "#1"
+      },
+      "down" : {
+        "uv" : [ 6.5, 0.5, 6, 2 ],
+        "texture" : "#1"
+      }
+    }
+  }, {
+    "from" : [ 11.75, 0, 6 ],
+    "to" : [ 14, 2, 12 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 0, 7.26, 0 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 6.5, 0.5, 7, 1 ],
+        "texture" : "#1"
+      },
+      "east" : {
+        "uv" : [ 2, 6, 3.5, 6.5 ],
+        "texture" : "#1"
+      },
+      "south" : {
+        "uv" : [ 6.5, 1, 7, 1.5 ],
+        "texture" : "#1"
+      },
+      "west" : {
+        "uv" : [ 6, 2, 7.5, 2.5 ],
+        "texture" : "#1"
+      },
+      "up" : {
+        "uv" : [ 6.5, 4, 6, 2.5 ],
+        "texture" : "#1"
+      },
+      "down" : {
+        "uv" : [ 6.5, 4, 6, 5.5 ],
+        "texture" : "#1"
+      }
+    }
+  } ],
+  "display" : {
+    "thirdperson_righthand" : {
+      "rotation" : [ 48, 5, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "thirdperson_lefthand" : {
+      "rotation" : [ 48, 5, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "firstperson_righthand" : {
+      "rotation" : [ 48, 5, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "firstperson_lefthand" : {
+      "rotation" : [ 48, 5, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "ground" : {
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "gui" : {
+      "rotation" : [ 27, 135, 0 ],
+      "translation" : [ 0, 1, 0 ]
+    },
+    "head" : {
+      "translation" : [ 0, 1.6, 0 ],
+      "scale" : [ 1.6, 1.6, 1.6 ]
+    }
+  },
+  "groups" : [ {
+    "name" : "R2D2",
+    "origin" : [ 8, 8, 8 ],
+    "color" : 0,
+    "children" : [ {
+      "name" : "notch",
+      "origin" : [ 6, 4, 0 ],
+      "color" : 0,
+      "children" : [ {
+        "name" : "head",
+        "origin" : [ 0, 1, 0 ],
+        "color" : 0,
+        "children" : [ 0, 1, 2, 3, 4 ]
+      } ]
+    } ]
+  } ]
+}

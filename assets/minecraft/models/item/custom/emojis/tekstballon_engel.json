@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/emojis/tekstballon_aarde",
+  "textures" : {
+    "0" : "minecraft:item/custom/emojis/tekstballon_engel",
+    "particle" : "minecraft:item/custom/emojis/tekstballon_engel"
+  }
+}

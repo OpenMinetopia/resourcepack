@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/wideboys/wideboy_base",
+  "textures" : {
+    "3" : "minecraft:item/custom/overige/wideboys/toezpz_"
+  }
+}

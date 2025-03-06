@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/grenadelauncher/grenade_launcher",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/wapens/grenadelauncher/grenade_launcher_snowball",
+    "particle" : "minecraft:item/custom/wapens/wapens/grenadelauncher/grenade_launcher_snowball"
+  }
+}

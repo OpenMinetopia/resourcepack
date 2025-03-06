@@ -1,0 +1,10 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/111-enderman/funko_doos_enderman",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/111-enderman/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/111-enderman/funko_doos_enderman_halloween",
+    "3" : "minecraft:item/custom/funko/111-enderman/custom/funko/enderman",
+    "particle" : "minecraft:item/custom/funko/111-enderman/custom/funko/enderman"
+  }
+}

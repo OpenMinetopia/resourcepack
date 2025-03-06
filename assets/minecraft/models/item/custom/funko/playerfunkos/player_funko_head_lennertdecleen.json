@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/funko/playerfunkos/player_funko_head_base",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/playerfunkos/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/playerfunkos/player_funko_head_lennertdecleen"
+  }
+}

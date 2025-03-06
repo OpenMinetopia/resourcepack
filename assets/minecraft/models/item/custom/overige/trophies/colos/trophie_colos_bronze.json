@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/overige/trophies/colos/trophie_colos_gold",
+  "textures" : {
+    "3" : "minecraft:item/custom/overige/trophies/colos/dark_oak_planks",
+    "4" : "minecraft:item/custom/overige/trophies/colos/bronze_block",
+    "particle" : "minecraft:item/custom/overige/trophies/colos/dark_oak_planks"
+  }
+}

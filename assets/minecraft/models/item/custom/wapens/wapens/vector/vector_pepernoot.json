@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/vector/vector_normal",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/wapens/vector/vector_pepernoot",
+    "particle" : "minecraft:item/custom/wapens/wapens/vector/vector_pepernoot"
+  }
+}

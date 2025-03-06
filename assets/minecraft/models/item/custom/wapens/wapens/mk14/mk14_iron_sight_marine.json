@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mk14/mk14_iron_sight",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "texture" : "minecraft:item/custom/wapens/wapens/mk14/mk14_iron_sight_marine"
+  }
+}

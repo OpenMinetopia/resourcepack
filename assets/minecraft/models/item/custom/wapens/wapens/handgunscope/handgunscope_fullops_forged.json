@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/handgunscope/handgunscope",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/handgunscope/handgunscope_fullops_forged"
+  }
+}

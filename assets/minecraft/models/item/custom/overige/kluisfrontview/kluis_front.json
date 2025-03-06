@@ -1,0 +1,11 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/overige/kluisfrontview/block/red_glazed_terracotta",
+  "gui_light" : "front",
+  "display" : {
+    "gui" : {
+      "translation" : [ 0, 0, 0 ]
+    }
+  },
+  "textures" : { }
+}

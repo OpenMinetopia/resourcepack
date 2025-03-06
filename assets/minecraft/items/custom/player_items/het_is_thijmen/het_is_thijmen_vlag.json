@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/custom/player_items/het_is_thijmen/het_is_thijmen_vlag"
+  }
+}

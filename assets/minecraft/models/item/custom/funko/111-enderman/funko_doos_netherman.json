@@ -1,0 +1,10 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/111-enderman/funko_doos_enderman",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/111-enderman/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/111-enderman/doos_netherman",
+    "3" : "minecraft:item/custom/funko/111-enderman/custom/funko/netherman",
+    "particle" : "minecraft:item/custom/funko/111-enderman/custom/funko/netherman"
+  }
+}

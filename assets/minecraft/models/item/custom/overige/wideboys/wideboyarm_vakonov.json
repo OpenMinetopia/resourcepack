@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/wideboys/wideboyarm_base",
+  "textures" : {
+    "3" : "minecraft:item/custom/overige/wideboys/vakonov",
+    "particle" : "minecraft:item/custom/overige/wideboys/vakonov"
+  }
+}

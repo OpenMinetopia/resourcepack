@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/accessoires/harry_potter/toad/toad_brown",
+  "textures" : {
+    "particle" : "minecraft:item/custom/accessoires/harry_potter/toad/toad_poison_2",
+    "texture1" : "minecraft:item/custom/accessoires/harry_potter/toad/toad_poison_2"
+  }
+}

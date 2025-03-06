@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/accessoires/harrypotterbril/harrypotterbril",
+  "textures" : {
+    "0" : "minecraft:block/glass_white",
+    "1" : "minecraft:item/custom/accessoires/harrypotterbril/harrypotterbril_gold",
+    "particle" : "minecraft:block/glass_white"
+  }
+}

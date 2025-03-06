@@ -1,0 +1,10 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/901-1000special_edition/902-vampier_danny/funko_doos_vampier_danny",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/901-1000special_edition/902-vampier_danny/funko_doos_vampier_danny_halloween",
+    "1" : "minecraft:item/custom/funko/901-1000special_edition/902-vampier_danny/custom/funko/standaard",
+    "7" : "minecraft:item/custom/funko/901-1000special_edition/902-vampier_danny/custom/funko/vampier_danny",
+    "particle" : "minecraft:item/custom/funko/901-1000special_edition/902-vampier_danny/funko_doos_vampier_danny_halloween"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent" : "minecraft:item/custom/funko/806-danny026/funko_doos_danny_5_minister",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/806-danny026/custom/funko/onzichtbaar",
+    "1" : "minecraft:item/custom/funko/806-danny026/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/806-danny026/doos2",
+    "3" : "minecraft:item/custom/funko/806-danny026/custom/funko/onzichtbaar",
+    "4" : "minecraft:item/custom/funko/806-danny026/custom/funko/onzichtbaar",
+    "5" : "minecraft:item/custom/funko/806-danny026/custom/funko/onzichtbaar",
+    "particle" : "minecraft:item/custom/funko/806-danny026/custom/funko/onzichtbaar"
+  }
+}

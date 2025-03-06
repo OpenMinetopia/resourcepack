@@ -1,0 +1,38 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/puzzel/spiderman/item/handheld",
+  "textures" : {
+    "layer0" : "minecraft:item/custom/puzzel/spiderman/spiderman_puzzel_3"
+  },
+  "gui_light" : "front",
+  "display" : {
+    "thirdperson_righthand" : {
+      "translation" : [ -2, -5, -0.25 ]
+    },
+    "thirdperson_lefthand" : {
+      "translation" : [ 2, -5, -0.25 ]
+    },
+    "firstperson_righthand" : {
+      "translation" : [ 3.25, -5.5, -1.75 ]
+    },
+    "firstperson_lefthand" : {
+      "translation" : [ 5, -4, 0 ]
+    },
+    "ground" : {
+      "translation" : [ -2, -3.75, 0 ]
+    },
+    "gui" : {
+      "translation" : [ -5.75, -17, 0 ],
+      "scale" : [ 2.9, 2.9, 2.9 ]
+    },
+    "head" : {
+      "rotation" : [ 90, 180, 0 ],
+      "translation" : [ 0, -10.25, 0 ],
+      "scale" : [ 2, 2, 2 ]
+    },
+    "fixed" : {
+      "translation" : [ -4.25, -13.75, 0 ],
+      "scale" : [ 2.45, 2.45, 2.45 ]
+    }
+  }
+}

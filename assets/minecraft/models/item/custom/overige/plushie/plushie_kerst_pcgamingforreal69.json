@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/overige/plushie/plushie_kerst_anoouk",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/plushie/plushie_kerst_pcgamingforreal69",
+    "particle" : "minecraft:item/custom/overige/plushie/plushie_kerst_pcgamingforreal69"
+  }
+}

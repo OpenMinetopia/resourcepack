@@ -1,0 +1,7 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/babyshark_fam/baby_shark_doll",
+  "textures" : {
+    "2" : "minecraft:item/custom/overige/babyshark_fam/daddy_shark"
+  }
+}

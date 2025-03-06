@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/custom/trophies/range_trophie/range_trophie_silver"
+  }
+}

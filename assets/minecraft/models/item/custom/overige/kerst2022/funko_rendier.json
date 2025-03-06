@@ -1,0 +1,9 @@
+{
+  "credit" : "Milanvd",
+  "parent" : "minecraft:item/custom/overige/kerst2022/funko_rudolf",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/kerst2022/custom/funko/standaard",
+    "3" : "minecraft:item/custom/overige/kerst2022/custom/funko/rendier",
+    "particle" : "minecraft:item/custom/overige/kerst2022/custom/funko/rendier"
+  }
+}

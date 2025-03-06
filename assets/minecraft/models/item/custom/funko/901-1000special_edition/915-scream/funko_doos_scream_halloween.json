@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/901-1000special_edition/915-scream/funko_doos_scream",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/901-1000special_edition/915-scream/custom/funko/scream",
+    "2" : "minecraft:item/custom/funko/901-1000special_edition/915-scream/funko_doos_scream_halloween",
+    "3" : "minecraft:item/custom/funko/901-1000special_edition/915-scream/custom/funko/standaard",
+    "4" : "minecraft:item/custom/funko/901-1000special_edition/915-scream/custom/funko/mes",
+    "particle" : "minecraft:item/custom/funko/901-1000special_edition/915-scream/custom/funko/scream"
+  }
+}

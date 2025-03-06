@@ -1,0 +1,9 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/drank/pak",
+  "textures" : {
+    "0" : "minecraft:item/custom/drank/pak_melk_non_color",
+    "1" : "minecraft:item/custom/drank/pak_melk_color",
+    "particle" : "minecraft:item/custom/drank/pak_melk_color"
+  }
+}

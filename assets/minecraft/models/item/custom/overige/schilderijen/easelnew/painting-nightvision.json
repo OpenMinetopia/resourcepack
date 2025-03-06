@@ -1,0 +1,11 @@
+{
+  "parent" : "minecraft:item/custom/overige/schilderijen/easelnew/easelnew",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/schilderijen/easelnew/birch_planks",
+    "2" : "minecraft:item/custom/overige/schilderijen/easelnew/anvil_base",
+    "3" : "minecraft:item/custom/overige/schilderijen/easelnew/white_wool",
+    "4" : "minecraft:item/custom/overige/schilderijen/easelnew/anvil_top",
+    "5" : "minecraft:item/custom/overige/schilderijen/easelnew/custom/schilderijen/painting-nightvision",
+    "particle" : "minecraft:item/custom/overige/schilderijen/easelnew/birch_planks"
+  }
+}

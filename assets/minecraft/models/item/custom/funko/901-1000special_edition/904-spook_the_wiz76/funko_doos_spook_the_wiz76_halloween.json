@@ -1,0 +1,11 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/901-1000special_edition/904-spook_the_wiz76/funko_doos_spook_the_wiz76",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/901-1000special_edition/904-spook_the_wiz76/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/901-1000special_edition/904-spook_the_wiz76/funko_doos_spook_the_wiz76_halloween",
+    "3" : "minecraft:item/custom/funko/901-1000special_edition/904-spook_the_wiz76/custom/funko/spook_the_wiz76",
+    "4" : "minecraft:item/custom/funko/901-1000special_edition/904-spook_the_wiz76/custom/funko/the_wiz76",
+    "particle" : "minecraft:item/custom/funko/901-1000special_edition/904-spook_the_wiz76/custom/funko/the_wiz76"
+  }
+}

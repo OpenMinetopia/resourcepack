@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/sowrd/kingswordmodel",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/sowrd/kingswordwatertexture",
+    "particle" : "minecraft:item/custom/overige/sowrd/kingswordwatertexture"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent" : "minecraft:item/custom/overige/standbeelden/statuesilver",
+  "credit" : "Made with Blockbench",
+  "texture_size" : [ 64, 64 ],
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/standbeelden/custom/standbeelden/jarigamezzstandbeeld",
+    "1" : "minecraft:block/stonebrick_cracked",
+    "2" : "minecraft:block/iron_block",
+    "particle" : "minecraft:block/stonebrick_cracked"
+  }
+}

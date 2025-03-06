@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/custom/overige/trophies/dragrace/dragrace_trophie_bronze"
+  }
+}

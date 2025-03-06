@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/vuur_vuist/vuurvuist",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/vuur_vuist/color_vuurvuist",
+    "particle" : "minecraft:item/custom/overige/vuur_vuist/color_vuurvuist"
+  }
+}

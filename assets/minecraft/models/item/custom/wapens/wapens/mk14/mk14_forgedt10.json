@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mk14/mk14_snow",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/mk14/mk14_forgedt10",
+    "particle" : "minecraft:item/custom/wapens/wapens/mk14/mk14_forgedt10"
+  }
+}

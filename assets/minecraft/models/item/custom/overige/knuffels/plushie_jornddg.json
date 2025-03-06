@@ -1,0 +1,7 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/knuffels/plushie_danny",
+  "textures" : {
+    "3" : "minecraft:item/custom/overige/knuffels/jornddg"
+  }
+}

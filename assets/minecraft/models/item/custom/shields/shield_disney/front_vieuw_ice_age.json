@@ -1,0 +1,9 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/shields/shield_disney/front_vieuw_big_hero_6",
+  "textures" : {
+    "0" : "minecraft:item/custom/shields/shield_disney/cosmopolitan_shield",
+    "1" : "minecraft:item/custom/shields/shield_disney/front_vieuw_ice_age",
+    "particle" : "minecraft:item/custom/shields/shield_disney/cosmopolitan_shield"
+  }
+}

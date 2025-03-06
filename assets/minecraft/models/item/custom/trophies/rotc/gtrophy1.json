@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/trophies/rotc/btrophy1",
+  "textures" : {
+    "1" : "minecraft:block/gold_block",
+    "2" : "minecraft:block/concrete_black",
+    "3" : "minecraft:block/concrete_white",
+    "5" : "minecraft:item/custom/trophies/rotc/custom/overige/4"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/graduation_hat/graduation_hat",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/graduation_hat/graduation_hat_orange"
+  }
+}

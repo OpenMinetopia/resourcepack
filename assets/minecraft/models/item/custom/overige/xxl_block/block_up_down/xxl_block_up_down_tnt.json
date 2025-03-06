@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/overige/xxl_block/block_up_down/xxl_block_up_down",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/xxl_block/block_up_down/tnt_top",
+    "1" : "minecraft:item/custom/overige/xxl_block/block_up_down/tnt_bottom",
+    "2" : "minecraft:item/custom/overige/xxl_block/block_up_down/tnt_side",
+    "particle" : "minecraft:item/custom/overige/xxl_block/block_up_down/tnt_top"
+  }
+}

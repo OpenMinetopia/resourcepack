@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/watches/2/watchmetlijn",
+  "textures" : {
+    "2" : "minecraft:item/custom/overige/watches/2/tagheuerbassie",
+    "3" : "minecraft:item/custom/overige/watches/2/tagheuerbassie2"
+  }
+}

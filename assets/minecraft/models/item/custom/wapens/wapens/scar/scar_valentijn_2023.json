@@ -1,0 +1,7 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/wapens/wapens/scar/scar_normal",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/wapens/scar/scar_valentijn_2023"
+  }
+}

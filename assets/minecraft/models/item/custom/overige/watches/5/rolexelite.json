@@ -1,0 +1,7 @@
+{
+  "credit" : "Team DDG",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/watches/5/timepieceelite_watches",
+    "1" : "minecraft:item/custom/overige/watches/5/extras11"
+  }
+}

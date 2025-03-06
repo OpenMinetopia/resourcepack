@@ -1,0 +1,54 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/overige/kerst2021/sneeuwbol/kerstbol",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/kerst2021/sneeuwbol/custom/funko/dusdavid",
+    "1" : "minecraft:item/custom/overige/kerst2021/sneeuwbol/custom/funko/danny026",
+    "2" : "minecraft:item/custom/overige/kerst2021/sneeuwbol/custom/funko/tovenaar_timewalk",
+    "3" : "minecraft:block/glass",
+    "4" : "minecraft:block/dark_oak_planks",
+    "5" : "minecraft:item/custom/overige/kerst2021/sneeuwbol/custom/funko/onzichtbaar",
+    "6" : "minecraft:block/snow",
+    "7" : "minecraft:item/custom/overige/kerst2021/sneeuwbol/particle/particles",
+    "particle" : "minecraft:item/custom/overige/kerst2021/sneeuwbol/custom/funko/dusdavid"
+  },
+  "display" : {
+    "thirdperson_righthand" : {
+      "rotation" : [ 55, -180, 0 ],
+      "translation" : [ 0, 4, 0.5 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "thirdperson_lefthand" : {
+      "rotation" : [ 55, -180, 0 ],
+      "translation" : [ 0, 4, 0.5 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "firstperson_righthand" : {
+      "rotation" : [ 0, -29, 0 ],
+      "translation" : [ -1, 6, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "firstperson_lefthand" : {
+      "rotation" : [ 0, -29, 0 ],
+      "translation" : [ -1, 6, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "ground" : {
+      "translation" : [ 0, 4, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "gui" : {
+      "rotation" : [ 16, -28, 0 ],
+      "translation" : [ 0, 1.5, 0 ]
+    },
+    "head" : {
+      "rotation" : [ 0, -180, 0 ],
+      "translation" : [ 0, 8, -2.5 ],
+      "scale" : [ 2, 2, 2 ]
+    },
+    "fixed" : {
+      "rotation" : [ 0, -180, 0 ],
+      "translation" : [ 0, 0, -4 ]
+    }
+  }
+}

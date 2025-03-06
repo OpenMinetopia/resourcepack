@@ -1,0 +1,10 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/rolexbox/rolexbox_5",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/rolexbox/5/timepieceelite_watches",
+    "1" : "minecraft:item/custom/overige/rolexbox/rolexbox",
+    "2" : "minecraft:item/custom/overige/rolexbox/5/extras11",
+    "particle" : "minecraft:item/custom/overige/rolexbox/5/timepieceelite_watches"
+  }
+}

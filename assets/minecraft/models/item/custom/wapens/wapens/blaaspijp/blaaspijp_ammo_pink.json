@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/blaaspijp/blaaspijp_ammo",
+  "textures" : {
+    "0" : "minecraft:block/wool_colored_pink",
+    "1" : "minecraft:block/anvil_base",
+    "particle" : "minecraft:block/wool_colored_pink"
+  }
+}

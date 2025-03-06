@@ -1,0 +1,10 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/ballista/ballista",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "texture" : "minecraft:item/custom/wapens/wapens/ballista/ballista_pink",
+    "fire" : "minecraft:item/custom/wapens/wapens/ballista/fire",
+    "scope_top_1" : "minecraft:item/custom/wapens/wapens/ballista/scope_top_1",
+    "particle" : "minecraft:item/custom/wapens/wapens/ballista/scope"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mtw/ak47_fullmodel",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/wapens/mtw/custom/overige/weapon_b",
+    "1" : "minecraft:item/custom/wapens/wapens/mtw/custom/overige/weapon_a",
+    "2" : "minecraft:block/hardened_clay_stained_yellow",
+    "3" : "minecraft:item/custom/wapens/wapens/mtw/case_gold"
+  }
+}

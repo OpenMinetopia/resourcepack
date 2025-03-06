@@ -1,0 +1,12 @@
+{
+  "parent" : "minecraft:item/custom/overige/schilderijen/nftwide/nftwide",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/schilderijen/nftwide/birch_planks",
+    "2" : "minecraft:item/custom/overige/schilderijen/nftwide/concrete_silver",
+    "3" : "minecraft:item/custom/overige/schilderijen/nftwide/white_wool",
+    "4" : "minecraft:item/custom/overige/schilderijen/nftwide/anvil_top",
+    "5" : "minecraft:item/custom/overige/schilderijen/nftwide/custom/schilderijen/painting-3",
+    "6" : "minecraft:item/custom/overige/schilderijen/nftwide/nft",
+    "particle" : "minecraft:item/custom/overige/schilderijen/nftwide/birch_planks"
+  }
+}

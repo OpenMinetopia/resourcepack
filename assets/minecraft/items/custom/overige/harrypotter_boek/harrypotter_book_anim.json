@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/custom/overige/harrypotter_boek/harrypotter_book_anim"
+  }
+}

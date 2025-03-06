@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/plushies/dart_plushie",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/plushies/toothless_nether_plushie",
+    "particle" : "minecraft:item/custom/overige/plushies/toothless_nether_plushie"
+  }
+}

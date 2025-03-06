@@ -1,0 +1,9 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/overige/vlag/vlag_ddg11jaar",
+  "textures" : {
+    "0" : "minecraft:block/planks_spruce",
+    "3" : "minecraft:item/custom/overige/vlag/vlag_djangovdl",
+    "particle" : "minecraft:block/planks_spruce"
+  }
+}

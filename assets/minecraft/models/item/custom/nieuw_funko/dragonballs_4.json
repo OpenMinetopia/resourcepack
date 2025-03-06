@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/nieuw_funko/dragonballs_1",
+  "textures" : {
+    "2" : "minecraft:item/custom/nieuw_funko/dragonballs_4",
+    "3" : "minecraft:item/custom/nieuw_funko/nieuw_funko_naamkaartje",
+    "4" : "minecraft:item/custom/nieuw_funko/nieuw_funko_standaard",
+    "particle" : "minecraft:item/custom/nieuw_funko/dragonballs_4"
+  }
+}

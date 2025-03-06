@@ -1,0 +1,10 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/901-1000special_edition/903-zombie_david/funko_doos_zombie_david",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/901-1000special_edition/903-zombie_david/custom/funko/zombie_david",
+    "1" : "minecraft:item/custom/funko/901-1000special_edition/903-zombie_david/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/901-1000special_edition/903-zombie_david/funko_doos_zombie_david_halloween",
+    "particle" : "minecraft:item/custom/funko/901-1000special_edition/903-zombie_david/custom/funko/zombie_david"
+  }
+}

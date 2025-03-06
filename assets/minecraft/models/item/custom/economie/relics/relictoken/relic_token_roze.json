@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/economie/relics/relictoken/relic_token_nether",
+  "textures" : {
+    "0" : "minecraft:item/custom/economie/relics/relictoken/relic_token_roze",
+    "particle" : "minecraft:item/custom/economie/relics/relictoken/relic_token_roze"
+  }
+}

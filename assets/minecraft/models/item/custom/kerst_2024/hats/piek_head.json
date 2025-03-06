@@ -1,0 +1,187 @@
+{
+  "credit" : "Made with Blockbench",
+  "texture_size" : [ 32, 32 ],
+  "textures" : {
+    "0" : "minecraft:item/custom/kerst_2024/hats/piek_head",
+    "particle" : "minecraft:item/custom/kerst_2024/hats/piek_head"
+  },
+  "elements" : [ {
+    "from" : [ 5.855, 0, 5.855 ],
+    "to" : [ 10.145, 1.43, 10.145 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 5.855, 0, 5.855 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 7.5, 5.5, 9.5, 6 ],
+        "texture" : "#0"
+      },
+      "east" : {
+        "uv" : [ 3, 8, 5, 8.5 ],
+        "texture" : "#0"
+      },
+      "south" : {
+        "uv" : [ 5, 8, 7, 8.5 ],
+        "texture" : "#0"
+      },
+      "west" : {
+        "uv" : [ 7, 8, 9, 8.5 ],
+        "texture" : "#0"
+      },
+      "up" : {
+        "uv" : [ 2, 8, 0, 6 ],
+        "texture" : "#0"
+      },
+      "down" : {
+        "uv" : [ 8, 0, 6, 2 ],
+        "texture" : "#0"
+      }
+    }
+  }, {
+    "from" : [ 5.855, 4.29, 5.855 ],
+    "to" : [ 10.145, 5.72, 10.145 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 5.855, 4.29, 5.855 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 8.5, 0, 10.5, 0.5 ],
+        "texture" : "#0"
+      },
+      "east" : {
+        "uv" : [ 8.5, 0.5, 10.5, 1 ],
+        "texture" : "#0"
+      },
+      "south" : {
+        "uv" : [ 8.5, 1, 10.5, 1.5 ],
+        "texture" : "#0"
+      },
+      "west" : {
+        "uv" : [ 8.5, 1.5, 10.5, 2 ],
+        "texture" : "#0"
+      },
+      "up" : {
+        "uv" : [ 4, 8, 2, 6 ],
+        "texture" : "#0"
+      },
+      "down" : {
+        "uv" : [ 8, 2, 6, 4 ],
+        "texture" : "#0"
+      }
+    }
+  }, {
+    "from" : [ 6.57, 5.72, 6.57 ],
+    "to" : [ 9.43, 9.72, 9.43 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 6.57, 5.72, 6.57 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 4, 6, 5.5, 8 ],
+        "texture" : "#0"
+      },
+      "east" : {
+        "uv" : [ 6, 4, 7.5, 6 ],
+        "texture" : "#0"
+      },
+      "south" : {
+        "uv" : [ 5.5, 6, 7, 8 ],
+        "texture" : "#0"
+      },
+      "west" : {
+        "uv" : [ 7, 6, 8.5, 8 ],
+        "texture" : "#0"
+      },
+      "up" : {
+        "uv" : [ 9, 5.5, 7.5, 4 ],
+        "texture" : "#0"
+      },
+      "down" : {
+        "uv" : [ 1.5, 8, 0, 9.5 ],
+        "texture" : "#0"
+      }
+    }
+  }, {
+    "from" : [ 7.285, 9.62, 7.285 ],
+    "to" : [ 8.715, 18.12, 8.715 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 7.285, 9.62, 7.285 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 8, 0, 8.5, 4 ],
+        "texture" : "#0"
+      },
+      "east" : {
+        "uv" : [ 1.5, 8, 2, 12 ],
+        "texture" : "#0"
+      },
+      "south" : {
+        "uv" : [ 2, 8, 2.5, 12 ],
+        "texture" : "#0"
+      },
+      "west" : {
+        "uv" : [ 2.5, 8, 3, 12 ],
+        "texture" : "#0"
+      },
+      "up" : {
+        "uv" : [ 9, 2.5, 8.5, 2 ],
+        "texture" : "#0"
+      },
+      "down" : {
+        "uv" : [ 9, 2.5, 8.5, 3 ],
+        "texture" : "#0"
+      }
+    }
+  }, {
+    "from" : [ 5.14, 1.43, 5.14 ],
+    "to" : [ 10.86, 4.29, 10.86 ],
+    "rotation" : {
+      "angle" : 0,
+      "axis" : "y",
+      "origin" : [ 5.14, 1.43, 5.14 ]
+    },
+    "faces" : {
+      "north" : {
+        "uv" : [ 3, 0, 6, 1.5 ],
+        "texture" : "#0"
+      },
+      "east" : {
+        "uv" : [ 3, 1.5, 6, 3 ],
+        "texture" : "#0"
+      },
+      "south" : {
+        "uv" : [ 3, 3, 6, 4.5 ],
+        "texture" : "#0"
+      },
+      "west" : {
+        "uv" : [ 3, 4.5, 6, 6 ],
+        "texture" : "#0"
+      },
+      "up" : {
+        "uv" : [ 3, 3, 0, 0 ],
+        "texture" : "#0"
+      },
+      "down" : {
+        "uv" : [ 3, 3, 0, 6 ],
+        "texture" : "#0"
+      }
+    }
+  } ],
+  "display" : {
+    "ground" : {
+      "translation" : [ 0, 4, 0 ]
+    },
+    "head" : {
+      "translation" : [ 0, 14.25, 0 ]
+    }
+  }
+}

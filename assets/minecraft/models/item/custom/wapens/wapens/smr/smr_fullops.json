@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/smr/smr_snow",
+  "textures" : {
+    "2" : "minecraft:item/custom/wapens/wapens/smr/smr_fullops",
+    "particle" : "minecraft:item/custom/wapens/wapens/smr/details"
+  }
+}

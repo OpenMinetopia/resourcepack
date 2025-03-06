@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/krasloten/7klapper_kraslot",
+  "textures" : {
+    "0" : "minecraft:item/custom/krasloten/7klapper_kraslot_geelblauw",
+    "particle" : "minecraft:item/custom/krasloten/7klapper_kraslot_geelblauw"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/m240/m240_normal",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/m240/m240_lama",
+    "particle" : "minecraft:item/custom/wapens/wapens/m240/m240_lama"
+  }
+}

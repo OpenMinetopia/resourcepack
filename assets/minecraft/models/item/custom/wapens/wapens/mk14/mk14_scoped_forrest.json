@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mk14/mk14_iron_sight",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/mk14/scope",
+    "particle" : "minecraft:item/custom/wapens/wapens/mk14/scope",
+    "texture" : "minecraft:item/custom/wapens/wapens/mk14/mk14_iron_sight_forrest"
+  }
+}

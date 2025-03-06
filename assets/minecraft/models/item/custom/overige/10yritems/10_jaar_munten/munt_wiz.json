@@ -1,0 +1,9 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/overige/10yritems/10_jaar_munten/munt_base",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/10yritems/10_jaar_munten/munt",
+    "1" : "minecraft:item/custom/overige/10yritems/10_jaar_munten/hoofd_wiz",
+    "particle" : "minecraft:item/custom/overige/10yritems/10_jaar_munten/munt"
+  }
+}

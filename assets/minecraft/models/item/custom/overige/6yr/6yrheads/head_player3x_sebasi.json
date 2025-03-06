@@ -1,0 +1,7 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/overige/6yr/6yrheads/head_player3x",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/6yr/6yrheads/custom/funko/sebasi"
+  }
+}

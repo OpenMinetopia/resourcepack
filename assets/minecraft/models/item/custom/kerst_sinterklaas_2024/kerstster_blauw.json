@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/kerst_sinterklaas_2024/kerstster_geel",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "0" : "minecraft:item/custom/kerst_sinterklaas_2024/sterbase_blauw",
+    "1" : "minecraft:item/custom/kerst_sinterklaas_2024/kerstster_blauw",
+    "particle" : "minecraft:item/custom/kerst_sinterklaas_2024/sterbase_blauw"
+  }
+}

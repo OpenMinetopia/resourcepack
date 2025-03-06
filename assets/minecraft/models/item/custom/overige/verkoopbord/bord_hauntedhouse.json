@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/verkoopbord/verkoopbord",
+  "textures" : {
+    "2" : "minecraft:item/custom/overige/verkoopbord/bord_hauntedhouse"
+  }
+}

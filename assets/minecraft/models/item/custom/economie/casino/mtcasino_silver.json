@@ -1,0 +1,8 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/economie/casino/mtcasino_base",
+  "textures" : {
+    "0" : "minecraft:item/custom/economie/casino/mtcasino_silver",
+    "particle" : "minecraft:item/custom/economie/casino/mtcasino_silver"
+  }
+}

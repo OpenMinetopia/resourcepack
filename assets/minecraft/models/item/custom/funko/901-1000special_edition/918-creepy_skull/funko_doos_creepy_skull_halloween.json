@@ -1,0 +1,9 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/funko/901-1000special_edition/918-creepy_skull/funko_doos_creepy_skull",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/901-1000special_edition/918-creepy_skull/custom/funko/creepy_skull",
+    "2" : "minecraft:item/custom/funko/901-1000special_edition/918-creepy_skull/funko_doos_creepy_skull_halloween",
+    "3" : "minecraft:item/custom/funko/901-1000special_edition/918-creepy_skull/custom/funko/standaard"
+  }
+}

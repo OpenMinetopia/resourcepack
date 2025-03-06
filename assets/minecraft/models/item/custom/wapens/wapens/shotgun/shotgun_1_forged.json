@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/shotgun/shotgun_1",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/wapens/shotgun/shotgun_1_forged"
+  }
+}

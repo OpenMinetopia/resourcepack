@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/emojis/groot/tekstballon_bes",
+  "textures" : {
+    "0" : "minecraft:item/custom/emojis/groot/tekstballon_geld_emoji",
+    "particle" : "minecraft:item/custom/emojis/groot/tekstballon_geld_emoji"
+  }
+}

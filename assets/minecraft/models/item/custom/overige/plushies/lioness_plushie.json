@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/plushies/lion_plushie",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/plushies/lioness_plushie",
+    "particle" : "minecraft:item/custom/overige/plushies/lioness_plushie"
+  }
+}

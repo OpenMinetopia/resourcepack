@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/overige/mario2021/yoshi/yoshi",
+  "textures" : {
+    "particle" : "minecraft:item/custom/overige/mario2021/yoshi/items/particle",
+    "texture" : "minecraft:item/custom/overige/mario2021/yoshi/items/texture",
+    "voxels_atlas" : "minecraft:item/custom/overige/mario2021/yoshi/roze"
+  }
+}

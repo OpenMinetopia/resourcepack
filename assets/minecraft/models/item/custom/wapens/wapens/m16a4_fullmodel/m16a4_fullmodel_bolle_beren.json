@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/m16a4_fullmodel/m16a4_fullmodel",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "voxels_atlas" : "minecraft:item/custom/wapens/wapens/m16a4_fullmodel/m16a4_fullmodel_bolle_beren"
+  }
+}

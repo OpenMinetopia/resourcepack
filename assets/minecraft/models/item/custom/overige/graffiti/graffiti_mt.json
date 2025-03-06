@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/graffiti/graffiti_regenboog",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/graffiti/graffiti_mt",
+    "particle" : "minecraft:item/custom/overige/graffiti/graffiti_mt"
+  }
+}

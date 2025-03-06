@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/texas/buildinvaultmodel",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/texas/buildinvaulttextureblack",
+    "particle" : "minecraft:item/custom/overige/texas/buildinvaulttextureblack"
+  }
+}

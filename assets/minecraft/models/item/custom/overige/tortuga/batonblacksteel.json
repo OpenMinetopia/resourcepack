@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/tortuga/baton",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/tortuga/batonblacksteel"
+  }
+}

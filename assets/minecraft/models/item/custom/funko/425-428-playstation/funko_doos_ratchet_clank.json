@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/425-428-playstation/funko_doos_spiderman",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/425-428-playstation/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/425-428-playstation/doos_ratchet_clank",
+    "3" : "minecraft:item/custom/funko/425-428-playstation/custom/funko/ps5_doos_ratchet_clank",
+    "4" : "minecraft:item/custom/funko/425-428-playstation/custom/funko/ps5",
+    "particle" : "minecraft:item/custom/funko/425-428-playstation/custom/funko/ps5_doos_ratchet_clank"
+  }
+}

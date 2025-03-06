@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/tortuga/machette_normal",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/tortuga/machette_gold"
+  }
+}

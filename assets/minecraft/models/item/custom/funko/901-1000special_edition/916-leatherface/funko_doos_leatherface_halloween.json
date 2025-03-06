@@ -1,0 +1,12 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/funko/901-1000special_edition/916-leatherface/funko_doos_leatherface",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/901-1000special_edition/916-leatherface/custom/funko/leatherface",
+    "1" : "minecraft:item/custom/funko/901-1000special_edition/916-leatherface/custom/funko/chainsaw2",
+    "2" : "minecraft:item/custom/funko/901-1000special_edition/916-leatherface/funko_doos_leatherface_halloween",
+    "3" : "minecraft:item/custom/funko/901-1000special_edition/916-leatherface/custom/funko/standaard",
+    "particle" : "minecraft:item/custom/funko/901-1000special_edition/916-leatherface/custom/funko/chainsaw",
+    "texture" : "minecraft:item/custom/funko/901-1000special_edition/916-leatherface/custom/funko/chainsaw"
+  }
+}

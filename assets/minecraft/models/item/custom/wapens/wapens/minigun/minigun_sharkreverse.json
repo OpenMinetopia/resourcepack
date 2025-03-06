@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/minigun/minigun_normal",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/minigun/minigun_sharkreverse_back",
+    "3" : "minecraft:item/custom/wapens/wapens/minigun/minigun_sharkreverse_front"
+  }
+}

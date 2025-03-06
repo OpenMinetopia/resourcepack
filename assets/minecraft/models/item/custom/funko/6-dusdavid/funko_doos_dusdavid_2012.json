@@ -1,0 +1,11 @@
+{
+  "parent" : "minecraft:item/custom/funko/6-dusdavid/funko_doos_dusdavid",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/6-dusdavid/custom/funko/dusdavid_og",
+    "1" : "minecraft:item/custom/funko/6-dusdavid/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/6-dusdavid/dusdavid_doos_2012",
+    "a1" : "minecraft:item/custom/funko/6-dusdavid/custom/funko/onzichtbaar",
+    "a2" : "minecraft:item/custom/funko/6-dusdavid/custom/funko/dusdavid_og",
+    "particle" : "minecraft:item/custom/funko/6-dusdavid/custom/funko/dusdavid_og"
+  }
+}

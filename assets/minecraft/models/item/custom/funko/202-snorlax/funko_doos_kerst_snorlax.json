@@ -1,0 +1,12 @@
+{
+  "parent" : "minecraft:item/custom/funko/202-snorlax/funko_doos_snorlax",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/202-snorlax/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/202-snorlax/funko_doos_snorlax_kerst",
+    "3" : "minecraft:item/custom/funko/202-snorlax/custom/funko/snorlax",
+    "4" : "minecraft:item/custom/funko/202-snorlax/custom/funko/kerst_muts",
+    "5" : "minecraft:item/custom/funko/202-snorlax/particle/particles",
+    "6" : "minecraft:item/custom/funko/202-snorlax/custom/funko/kerst_stikker",
+    "particle" : "minecraft:item/custom/funko/202-snorlax/custom/funko/snorlax"
+  }
+}

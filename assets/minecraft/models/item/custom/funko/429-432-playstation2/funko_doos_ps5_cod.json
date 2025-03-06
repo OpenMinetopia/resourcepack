@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/429-432-playstation2/funko_doos_ps5_hogwarts_legacy",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/429-432-playstation2/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/429-432-playstation2/ps5_2_cod",
+    "3" : "minecraft:item/custom/funko/429-432-playstation2/cod",
+    "4" : "minecraft:item/custom/funko/429-432-playstation2/custom/funko/ps5",
+    "particle" : "minecraft:item/custom/funko/429-432-playstation2/cod"
+  }
+}

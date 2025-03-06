@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/tortuga/gasmask",
+  "textures" : {
+    "2" : "minecraft:item/custom/overige/tortuga/gasmaskpunk"
+  }
+}

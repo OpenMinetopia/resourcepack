@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/watches/5/rolexwhite",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/watches/5/timepiecefeyenoord",
+    "1" : "minecraft:item/custom/overige/watches/5/extras9"
+  }
+}

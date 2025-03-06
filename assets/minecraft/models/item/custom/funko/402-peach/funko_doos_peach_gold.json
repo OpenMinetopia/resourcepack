@@ -1,0 +1,10 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/402-peach/funko_doos_peach",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/402-peach/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/402-peach/doos",
+    "3" : "minecraft:item/custom/funko/402-peach/custom/funko/peach_gold",
+    "particle" : "minecraft:item/custom/funko/402-peach/custom/funko/peach_gold"
+  }
+}

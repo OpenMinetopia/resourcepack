@@ -1,0 +1,7 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/halloween_2023/pumpkin_head_halloween_1",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/halloween_2023/pumpkin_sad"
+  }
+}

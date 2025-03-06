@@ -1,0 +1,8 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/plushies/plushie_husky_gray",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/plushies/brown_husky_plushie",
+    "particle" : "minecraft:item/custom/overige/plushies/brown_husky_plushie"
+  }
+}

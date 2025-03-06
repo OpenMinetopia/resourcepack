@@ -1,0 +1,11 @@
+{
+  "parent" : "minecraft:item/custom/overige/schilderijen/paintingwide/easelwide",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/schilderijen/paintingwide/birch_planks",
+    "2" : "minecraft:item/custom/overige/schilderijen/paintingwide/anvil_base",
+    "3" : "minecraft:item/custom/overige/schilderijen/paintingwide/white_wool",
+    "4" : "minecraft:item/custom/overige/schilderijen/paintingwide/anvil_top",
+    "5" : "minecraft:item/custom/overige/schilderijen/paintingwide/custom/schilderijen/painting-pokemon",
+    "particle" : "minecraft:item/custom/overige/schilderijen/paintingwide/birch_planks"
+  }
+}

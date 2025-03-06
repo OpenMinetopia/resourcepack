@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/accessoires/abubu/abubu_blauw",
+  "textures" : {
+    "0" : "minecraft:item/custom/accessoires/abubu/abubu_botzwart",
+    "1" : "minecraft:item/custom/accessoires/abubu/abubu_deco",
+    "2" : "minecraft:item/custom/accessoires/abubu/abubu_topzwart",
+    "particle" : "minecraft:item/custom/accessoires/abubu/abubu_botzwart"
+  }
+}

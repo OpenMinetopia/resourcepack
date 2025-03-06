@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/accessoires/harry_potter/hats/beanies/gryffindor_beanie",
+  "textures" : {
+    "texture2" : "minecraft:item/custom/accessoires/harry_potter/hats/beanies/ravenclaw_beanie"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/overige/kerst2021/kerstbal2021/fijne_kerstbal",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/kerst2021/kerstbal2021/bal",
+    "2" : "minecraft:item/custom/overige/kerst2021/kerstbal2021/kerst_2021",
+    "particle" : "minecraft:item/custom/overige/kerst2021/kerstbal2021/bal"
+  }
+}

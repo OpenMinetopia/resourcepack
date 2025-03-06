@@ -1,0 +1,10 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/417-424-fortnite/funko_doos_dark_astronaut",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/417-424-fortnite/custom/funko/scar_normal",
+    "1" : "minecraft:item/custom/funko/417-424-fortnite/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/417-424-fortnite/doos_raptor",
+    "particle" : "minecraft:item/custom/funko/417-424-fortnite/custom/funko/raptor"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/kerst_sinterklaas_2024/beamer",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "0" : "minecraft:item/custom/kerst_sinterklaas_2024/frozen",
+    "1" : "minecraft:item/custom/kerst_sinterklaas_2024/beamer",
+    "particle" : "minecraft:item/custom/kerst_sinterklaas_2024/frozen"
+  }
+}

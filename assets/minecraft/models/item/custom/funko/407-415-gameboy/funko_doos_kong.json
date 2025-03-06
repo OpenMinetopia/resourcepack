@@ -1,0 +1,14 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/funko/407-415-gameboy/gameboy_base",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/407-415-gameboy/doos_kong",
+    "4" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/onzichtbaar",
+    "5" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/gameboy_card_yellow",
+    "6" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/game_boy",
+    "7" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/scherm_kong",
+    "8" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/scherm_kong",
+    "particle" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/game_boy"
+  }
+}

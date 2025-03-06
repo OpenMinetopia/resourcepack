@@ -1,0 +1,10 @@
+{
+  "parent" : "minecraft:item/custom/overige/standbeelden/statuemelizrklein",
+  "credit" : "Made with Blockbench",
+  "texture_size" : [ 64, 64 ],
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/standbeelden/custom/standbeelden/duncan78",
+    "1" : "minecraft:block/furnace_top",
+    "particle" : "minecraft:block/furnace_top"
+  }
+}

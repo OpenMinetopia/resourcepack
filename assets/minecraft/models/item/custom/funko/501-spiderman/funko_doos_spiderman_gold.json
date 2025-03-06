@@ -1,0 +1,10 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/funko/501-spiderman/funko_doos_spiderman",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/501-spiderman/custom/funko/spiderman_gold",
+    "1" : "minecraft:item/custom/funko/501-spiderman/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/501-spiderman/doos",
+    "particle" : "minecraft:item/custom/funko/501-spiderman/custom/funko/spiderman_gold"
+  }
+}

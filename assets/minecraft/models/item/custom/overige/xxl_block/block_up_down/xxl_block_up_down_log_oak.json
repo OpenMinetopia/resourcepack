@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/overige/xxl_block/block_up_down/xxl_block_up_down",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/xxl_block/block_up_down/log_oak_top",
+    "1" : "minecraft:item/custom/overige/xxl_block/block_up_down/log_oak_top",
+    "2" : "minecraft:item/custom/overige/xxl_block/block_up_down/log_oak",
+    "particle" : "minecraft:item/custom/overige/xxl_block/block_up_down/log_oak_top"
+  }
+}

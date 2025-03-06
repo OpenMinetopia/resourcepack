@@ -1,0 +1,10 @@
+{
+  "parent" : "minecraft:item/custom/trophies/car/car_trophie_bronze",
+  "textures" : {
+    "5" : "minecraft:item/custom/trophies/car/cargold",
+    "6" : "minecraft:item/custom/trophies/car/road",
+    "10" : "minecraft:item/custom/trophies/car/stand",
+    "11" : "minecraft:item/custom/trophies/car/tire",
+    "particle" : "minecraft:item/custom/trophies/car/carsilver"
+  }
+}

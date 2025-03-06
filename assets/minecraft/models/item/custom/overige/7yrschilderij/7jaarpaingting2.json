@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/overige/7yrschilderij/7jaarpainting",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/7yrschilderij/7jaarpaingting2",
+    "1" : "minecraft:block/planks_spruce",
+    "particle" : "minecraft:item/custom/overige/7yrschilderij/7jaarpaingting2"
+  }
+}

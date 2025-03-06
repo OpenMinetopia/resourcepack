@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/economie/wapenstokken/knuppels",
+  "textures" : {
+    "0" : "minecraft:block/anvil_base",
+    "1" : "minecraft:block/wool_colored_black",
+    "2" : "minecraft:block/wool_colored_yellow",
+    "particle" : "minecraft:block/anvil_base"
+  }
+}

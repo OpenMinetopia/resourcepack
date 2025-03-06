@@ -1,0 +1,47 @@
+{
+  "parent" : "minecraft:item/custom/funko/901-1000special_edition/908-6_jaar_mt/funko_doos_6_jaar_mt",
+  "textures" : {
+    "2" : "minecraft:item/custom/funko/901-1000special_edition/908-6_jaar_mt/custom/funko/onzichtbaar",
+    "3" : "minecraft:item/custom/funko/901-1000special_edition/908-6_jaar_mt/minetopia",
+    "4" : "minecraft:item/custom/funko/901-1000special_edition/908-6_jaar_mt/custom/funko/6yr",
+    "5" : "minecraft:item/custom/funko/901-1000special_edition/908-6_jaar_mt/cup",
+    "particle" : "minecraft:item/custom/funko/901-1000special_edition/908-6_jaar_mt/cup"
+  },
+  "display" : {
+    "thirdperson_righthand" : {
+      "rotation" : [ 68, 0, 0 ],
+      "translation" : [ -0.25, 2.25, 1.75 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "thirdperson_lefthand" : {
+      "rotation" : [ 68, 0, 0 ],
+      "translation" : [ 0.25, 2.25, 1.75 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "firstperson_righthand" : {
+      "rotation" : [ 0, 107, 0 ],
+      "translation" : [ 2.5, 3, -0.5 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "firstperson_lefthand" : {
+      "rotation" : [ 0, 107, 0 ],
+      "translation" : [ 2.5, 3, -0.75 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "ground" : {
+      "translation" : [ 0, 3.5, 0 ],
+      "scale" : [ 0.5, 0.5, 0.5 ]
+    },
+    "gui" : {
+      "rotation" : [ 26, 137, 0 ],
+      "translation" : [ 0, -1.25, 0 ],
+      "scale" : [ 0.7, 0.7, 0.7 ]
+    },
+    "head" : {
+      "translation" : [ -1, -2.5, 0 ]
+    },
+    "fixed" : {
+      "translation" : [ -1.5, -2.25, -3.25 ]
+    }
+  }
+}

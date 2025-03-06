@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/overige/bankpas/bankpas_10_jaar_danny",
+  "textures" : {
+    "bankpas_achterkant" : "minecraft:item/custom/overige/bankpas/bankpas_realmadrid_back",
+    "particle" : "minecraft:item/custom/overige/bankpas/bankpas_realmadrid",
+    "bankpas_voorkant" : "minecraft:item/custom/overige/bankpas/bankpas_realmadrid"
+  }
+}

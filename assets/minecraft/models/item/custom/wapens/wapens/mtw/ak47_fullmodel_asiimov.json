@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mtw/ak47_fullmodel_camo",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/wapens/mtw/custom/overige/ak47_fullmodel_asiimov",
+    "particle" : "minecraft:item/custom/wapens/wapens/mtw/custom/overige/ak47_fullmodel_asiimov"
+  }
+}

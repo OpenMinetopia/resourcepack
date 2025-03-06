@@ -1,0 +1,6 @@
+{
+  "model" : {
+    "type" : "minecraft:model",
+    "model" : "minecraft:item/custom/trophies/manager_trophies/manager_trofee"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/voertuigenparts/carparts/enginev6",
+  "textures" : {
+    "4" : "minecraft:item/custom/overige/voertuigenparts/carparts/dieselv6",
+    "particle" : "minecraft:item/custom/overige/voertuigenparts/carparts/dieselv6"
+  }
+}

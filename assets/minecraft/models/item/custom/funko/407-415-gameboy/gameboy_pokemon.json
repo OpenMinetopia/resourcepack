@@ -1,0 +1,50 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/funko/407-415-gameboy/gameboy_base",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/onzichtbaar",
+    "2" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/onzichtbaar",
+    "4" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/game_boy_under",
+    "5" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/gameboy_card_red",
+    "6" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/game_boy",
+    "7" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/scherm_pokemon",
+    "8" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/onzichtbaar",
+    "particle" : "minecraft:item/custom/funko/407-415-gameboy/custom/funko/game_boy"
+  },
+  "display" : {
+    "thirdperson_righthand" : {
+      "rotation" : [ 30, -180, 0 ],
+      "translation" : [ -0.25, 3.5, 1.25 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "thirdperson_lefthand" : {
+      "rotation" : [ 30, -180, 0 ],
+      "translation" : [ -0.25, 3.5, 1.25 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "firstperson_righthand" : {
+      "rotation" : [ 0, 170, 0 ],
+      "translation" : [ 1.5, 4.5, -1.25 ],
+      "scale" : [ 0.5, 0.53711, 0.5 ]
+    },
+    "firstperson_lefthand" : {
+      "rotation" : [ 0, 170, 0 ],
+      "translation" : [ 1.5, 4.5, -1.25 ],
+      "scale" : [ 0.5, 0.53711, 0.5 ]
+    },
+    "ground" : {
+      "translation" : [ 0, 3.5, 0 ],
+      "scale" : [ 0.4, 0.4, 0.4 ]
+    },
+    "gui" : {
+      "rotation" : [ 30, 225, 0 ],
+      "scale" : [ 0.625, 0.625, 0.625 ]
+    },
+    "head" : {
+      "translation" : [ -2, -2.5, 0 ]
+    },
+    "fixed" : {
+      "translation" : [ -0.75, -1.25, -1.5 ]
+    }
+  }
+}

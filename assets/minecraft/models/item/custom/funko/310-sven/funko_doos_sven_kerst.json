@@ -1,0 +1,10 @@
+{
+  "parent" : "minecraft:item/custom/funko/310-sven/funko_doos_sven",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/310-sven/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/310-sven/funko_doos_sven_kerst",
+    "3" : "minecraft:item/custom/funko/310-sven/sven_kerst",
+    "6" : "minecraft:item/custom/funko/310-sven/custom/funko/kerst_stikker",
+    "particle" : "minecraft:item/custom/funko/310-sven/sven_kerst"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/zombie_gear/zombie_body",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/zombie_gear/husk"
+  }
+}

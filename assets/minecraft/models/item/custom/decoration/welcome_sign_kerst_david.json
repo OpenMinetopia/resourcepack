@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/decoration/welcome_sign",
+  "textures" : {
+    "1" : "minecraft:item/custom/decoration/welcome_sign_kerst_david",
+    "2" : "minecraft:item/custom/decoration/custom/funko/dusdavid",
+    "particle" : "minecraft:item/custom/decoration/welcome_sign_kerst_david"
+  }
+}

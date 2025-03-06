@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/xxl_block/fullblock/xxl_block",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/xxl_block/fullblock/soul_sand",
+    "particle" : "minecraft:item/custom/overige/xxl_block/fullblock/soul_sand"
+  }
+}

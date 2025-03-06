@@ -1,0 +1,9 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/311-perry/funko_pop_perry_big",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/311-perry/custom/funko/perry_gold",
+    "1" : "minecraft:item/custom/funko/311-perry/custom/funko/standaard",
+    "particle" : "minecraft:item/custom/funko/311-perry/custom/funko/perry_gold"
+  }
+}

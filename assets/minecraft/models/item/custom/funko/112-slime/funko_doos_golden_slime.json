@@ -1,0 +1,12 @@
+{
+  "parent" : "minecraft:item/custom/funko/112-slime/funko_doos_slime",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/112-slime/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/112-slime/doos",
+    "3" : "minecraft:item/custom/funko/112-slime/custom/funko/golden_slime",
+    "4" : "minecraft:item/custom/funko/112-slime/custom/funko/onzichtbaar",
+    "5" : "minecraft:item/custom/funko/112-slime/custom/funko/onzichtbaar",
+    "6" : "minecraft:item/custom/funko/112-slime/custom/funko/special_edition",
+    "particle" : "minecraft:item/custom/funko/112-slime/custom/funko/slime"
+  }
+}

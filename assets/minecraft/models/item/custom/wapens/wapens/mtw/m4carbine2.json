@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mtw/m4carbine",
+  "textures" : {
+    "0" : "minecraft:item/custom/wapens/wapens/mtw/m4carbine2"
+  }
+}

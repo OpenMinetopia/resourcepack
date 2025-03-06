@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/texas/persianrug",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/texas/persianrugpink",
+    "particle" : "minecraft:item/custom/overige/texas/persianrugpink"
+  }
+}

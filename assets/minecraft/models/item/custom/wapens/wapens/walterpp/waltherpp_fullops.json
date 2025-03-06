@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/walterpp/waltherpp_snow",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/walterpp/waltherpp_fullops",
+    "particle" : "minecraft:item/custom/wapens/wapens/walterpp/waltherpp_fullops"
+  }
+}

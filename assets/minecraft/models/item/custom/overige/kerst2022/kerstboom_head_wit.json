@@ -1,0 +1,7 @@
+{
+  "credit" : "Milanvd",
+  "parent" : "minecraft:item/custom/overige/kerst2022/kerstboom_head",
+  "textures" : {
+    "1" : "minecraft:item/custom/overige/kerst2022/kerstboom_wit"
+  }
+}

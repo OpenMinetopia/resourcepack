@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/425-428-xbox/funko_doos_xbox_spiderman",
+  "textures" : {
+    "1" : "minecraft:item/custom/funko/425-428-xbox/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/425-428-xbox/xbox_ratchet_clank",
+    "3" : "minecraft:item/custom/funko/425-428-xbox/custom/funko/xbox_doos_ratchet_clank",
+    "6" : "minecraft:item/custom/funko/425-428-xbox/custom/funko/xbox",
+    "particle" : "minecraft:item/custom/funko/425-428-xbox/custom/funko/xbox_doos_ratchet_clank"
+  }
+}

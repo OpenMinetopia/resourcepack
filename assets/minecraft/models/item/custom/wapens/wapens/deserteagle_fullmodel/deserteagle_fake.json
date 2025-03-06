@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/deserteagle_fullmodel/deserteagle_fullmodel",
+  "textures" : {
+    "particle" : "minecraft:item/custom/wapens/wapens/deserteagle_fullmodel/items/particle",
+    "texture" : "minecraft:item/custom/wapens/wapens/deserteagle_fullmodel/items/texture",
+    "voxels_atlas" : "minecraft:item/custom/wapens/wapens/deserteagle_fullmodel/deserteagle_fake"
+  }
+}

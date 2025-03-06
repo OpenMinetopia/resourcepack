@@ -1,0 +1,8 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/dierenvoer/jutezak_cow",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/dierenvoer/jutezak_schaap",
+    "particle" : "minecraft:item/custom/overige/dierenvoer/jutezak_schaap"
+  }
+}

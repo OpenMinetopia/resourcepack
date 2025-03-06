@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/tortuga/bio_ton",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/tortuga/bio_ton_blue",
+    "particle" : "minecraft:item/custom/overige/tortuga/bio_ton_blue"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/3-ragterros/funko_doos_ragterros",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/3-ragterros/custom/funko/ragterros",
+    "1" : "minecraft:item/custom/funko/3-ragterros/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/3-ragterros/funko_doos_ragterros_halloween",
+    "3" : "minecraft:item/custom/funko/3-ragterros/items/blaze_rod",
+    "particle" : "minecraft:item/custom/funko/3-ragterros/custom/funko/ragterros"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/overige/3d/telephone_cell",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/3d/telephone_cellchristmas",
+    "particle" : "minecraft:item/custom/overige/3d/telephone_cellchristmas"
+  }
+}

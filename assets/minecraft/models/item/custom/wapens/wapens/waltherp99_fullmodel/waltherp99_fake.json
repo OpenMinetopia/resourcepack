@@ -1,0 +1,8 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/waltherp99_fullmodel/waltherp99_fullmodel",
+  "textures" : {
+    "particle" : "minecraft:item/custom/wapens/wapens/waltherp99_fullmodel/items/particle",
+    "texture" : "minecraft:item/custom/wapens/wapens/waltherp99_fullmodel/items/texture",
+    "voxels_atlas" : "minecraft:item/custom/wapens/wapens/waltherp99_fullmodel/waltherp99_fake"
+  }
+}

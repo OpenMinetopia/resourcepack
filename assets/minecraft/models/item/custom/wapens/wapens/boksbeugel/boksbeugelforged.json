@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/boksbeugel/boksbeugel",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/boksbeugel/boksbeugelforged",
+    "particle" : "minecraft:item/custom/wapens/wapens/boksbeugel/boksbeugelforged"
+  }
+}

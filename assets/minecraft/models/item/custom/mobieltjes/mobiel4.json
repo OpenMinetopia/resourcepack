@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/mobieltjes/mobiel1",
+  "textures" : {
+    "7" : "minecraft:item/custom/mobieltjes/mobiel4",
+    "particle" : "minecraft:item/custom/mobieltjes/mobiel4"
+  }
+}

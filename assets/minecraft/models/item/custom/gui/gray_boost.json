@@ -1,0 +1,15 @@
+{
+  "credit" : "robinlol2 ;p",
+  "parent" : "minecraft:item/custom/gui/icon_base",
+  "textures" : {
+    "0" : "minecraft:item/custom/gui/gray_boost",
+    "particle" : "minecraft:item/custom/gui/gray_boost"
+  },
+  "gui_light" : "front",
+  "display" : {
+    "gui" : {
+      "rotation" : [ 0, -180, 0 ],
+      "translation" : [ -0.5, 0, -0.5 ]
+    }
+  }
+}

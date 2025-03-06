@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/ballista/ballista_snow",
+  "textures" : {
+    "4" : "minecraft:item/custom/wapens/wapens/ballista/ballista_fullops",
+    "particle" : "minecraft:item/custom/wapens/wapens/ballista/ballista_fullops"
+  }
+}

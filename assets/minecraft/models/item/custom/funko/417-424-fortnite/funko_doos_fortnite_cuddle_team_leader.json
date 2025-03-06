@@ -1,0 +1,10 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/funko/417-424-fortnite/funko_doos_fortnite_red_knight",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/417-424-fortnite/custom/funko/grenade_bol",
+    "1" : "minecraft:item/custom/funko/417-424-fortnite/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/417-424-fortnite/doos_cuddle_team_leader",
+    "particle" : "minecraft:item/custom/funko/417-424-fortnite/custom/funko/cuddle_team_leader"
+  }
+}

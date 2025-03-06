@@ -1,0 +1,8 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/plushies/plushie_base",
+  "textures" : {
+    "1" : "minecraft:item/custom/plushies/plushie_patrickstar",
+    "particle" : "minecraft:item/custom/plushies/plushie_patrickstar"
+  }
+}

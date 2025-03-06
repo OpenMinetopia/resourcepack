@@ -1,0 +1,11 @@
+{
+  "credit" : "Team DDG",
+  "parent" : "minecraft:item/custom/overige/flippo/flippo_1",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/flippo/flippo_25",
+    "1" : "minecraft:item/custom/overige/flippo/flippo_25_back",
+    "2" : "minecraft:item/custom/overige/flippo/flippo_middel",
+    "3" : "minecraft:item/custom/overige/flippo/planks_spruce",
+    "particle" : "minecraft:item/custom/overige/flippo/flippo_25"
+  }
+}

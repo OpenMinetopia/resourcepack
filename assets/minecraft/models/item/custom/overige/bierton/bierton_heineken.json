@@ -1,0 +1,10 @@
+{
+  "credit" : "Made with Blockbench",
+  "parent" : "minecraft:item/custom/overige/bierton/bierton_normaal",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/bierton/biertontexture",
+    "1" : "minecraft:item/custom/overige/bierton/bierton_color",
+    "2" : "minecraft:item/custom/overige/bierton/bierton_logo_heiniken",
+    "particle" : "minecraft:item/custom/overige/bierton/biertontexture"
+  }
+}

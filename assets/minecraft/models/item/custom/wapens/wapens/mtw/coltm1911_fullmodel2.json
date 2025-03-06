@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/mtw/coltm1911_fullmodel",
+  "credit" : "Made with Blockbench",
+  "textures" : {
+    "1" : "minecraft:item/custom/wapens/wapens/mtw/coltm1911_fullmodel2",
+    "3" : "minecraft:block/concrete_yellow",
+    "particle" : "minecraft:block/anvil_base"
+  }
+}

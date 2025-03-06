@@ -1,0 +1,9 @@
+{
+  "parent" : "minecraft:item/custom/overige/paaltjes_verkeer/30zone",
+  "textures" : {
+    "0" : "minecraft:item/custom/overige/paaltjes_verkeer/pijl_rechts",
+    "1" : "minecraft:item/custom/overige/paaltjes_verkeer/round_blue_back",
+    "3" : "minecraft:item/custom/overige/paaltjes_verkeer/paal",
+    "particle" : "minecraft:item/custom/overige/paaltjes_verkeer/pijl_rechts"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "credit" : "robinnoob220 ;p",
+  "parent" : "minecraft:item/custom/funko/7-ragthanatos/funko_doos_rahthanatos",
+  "textures" : {
+    "0" : "minecraft:item/custom/funko/7-ragthanatos/custom/funko/rahthanatos",
+    "1" : "minecraft:item/custom/funko/7-ragthanatos/custom/funko/standaard",
+    "2" : "minecraft:item/custom/funko/7-ragthanatos/funko_doos_rahthanatos_halloween",
+    "particle" : "minecraft:item/custom/funko/7-ragthanatos/custom/funko/rahthanatos"
+  }
+}

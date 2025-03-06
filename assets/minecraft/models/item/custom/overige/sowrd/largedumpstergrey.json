@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/overige/sowrd/largedumpstermodel",
+  "textures" : {
+    "5" : "minecraft:item/custom/overige/sowrd/largedumpstergreytexture"
+  }
+}

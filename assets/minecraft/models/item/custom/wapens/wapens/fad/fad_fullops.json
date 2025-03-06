@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/wapens/wapens/fad/fad_snow",
+  "textures" : {
+    "2" : "minecraft:item/custom/wapens/wapens/fad/fad_fullops",
+    "particle" : "minecraft:item/custom/wapens/wapens/fad/fad_fullops"
+  }
+}
