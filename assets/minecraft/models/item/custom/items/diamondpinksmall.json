@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/items/item/generated",
+  "textures" : {
+    "layer0" : "minecraft:item/custom/items/custom/overige/roze_diamant_1"
+  }
+}

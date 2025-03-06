@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/custom/items/custom/items/gokuhair",
+  "textures" : {
+    "texture" : "minecraft:item/custom/items/custom/overige/gokublue"
+  }
+}

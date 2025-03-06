@@ -1,0 +1,7 @@
+{
+  "parent" : "minecraft:item/custom/items/custom/items/handtas",
+  "textures" : {
+    "1" : "minecraft:item/custom/items/custom/overige/handtasdiamond",
+    "particle" : "minecraft:item/custom/items/custom/overige/handtasdiamond"
+  }
+}
