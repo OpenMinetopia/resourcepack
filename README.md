@@ -13,7 +13,7 @@ In deze repository zetten we de DusDavidGames Minetopia resourcepack om naar de 
 
 **Items:**
 ```mcfunction
-/give @p minecraft:paper[item_model="minecraft:custom/wapens/awp/awp_forged"] 1
+/give @p minecraft:paper[item_model="minecraft:custom/wapens/wapens/awp/awp_forged"] 1
 ```
 
 ## 🛡️ Hoe werkt custom armor?
