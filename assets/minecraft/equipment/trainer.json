@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:trainer"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:trainer"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:trainer"
+      },
+      {
+        "texture": "minecraft:trainer_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:trainer"
+      },
+      {
+        "texture": "minecraft:trainer_overlay"
+      }
+    ]
   }
 }

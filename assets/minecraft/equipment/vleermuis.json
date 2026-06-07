@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:vleermuis"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:vleermuis"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:vleermuis"
+      },
+      {
+        "texture": "minecraft:vleermuis_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:vleermuis"
+      }
+    ]
   }
 }

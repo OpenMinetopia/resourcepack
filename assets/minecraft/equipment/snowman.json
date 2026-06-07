@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:snowman"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:snowman"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:snowman"
+      },
+      {
+        "texture": "minecraft:snowman_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:snowman"
+      },
+      {
+        "texture": "minecraft:snowman_overlay"
+      }
+    ]
   }
 }

@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:wintertrui"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:wintertrui"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:wintertrui"
+      },
+      {
+        "texture": "minecraft:wintertrui_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:wintertrui"
+      }
+    ]
   }
 }

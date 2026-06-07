@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:spectral"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:spectral"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:spectral"
+      },
+      {
+        "texture": "minecraft:spectral_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:spectral"
+      },
+      {
+        "texture": "minecraft:spectral_overlay"
+      }
+    ]
   }
 }

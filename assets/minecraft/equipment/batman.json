@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:batman"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:batman"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:batman"
+      },
+      {
+        "texture": "minecraft:batman_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:batman"
+      },
+      {
+        "texture": "minecraft:batman_overlay"
+      }
+    ]
   }
 }

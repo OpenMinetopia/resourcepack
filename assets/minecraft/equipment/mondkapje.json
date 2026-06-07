@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:mondkapje"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:mondkapje"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:mondkapje"
+      },
+      {
+        "texture": "minecraft:mondkapje_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:mondkapje"
+      }
+    ]
   }
 }

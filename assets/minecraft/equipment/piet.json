@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:piet"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:piet"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:piet"
+      },
+      {
+        "texture": "minecraft:piet_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:piet"
+      },
+      {
+        "texture": "minecraft:piet_overlay"
+      }
+    ]
   }
 }

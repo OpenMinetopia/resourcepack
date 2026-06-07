@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:aliens_are_coming"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:aliens_are_coming"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:aliens_are_coming"
+      },
+      {
+        "texture": "minecraft:aliens_are_coming_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:aliens_are_coming"
+      }
+    ]
   }
 }

@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:mox_bordeaux_rood_star"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:mox_bordeaux_rood_star"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:mox_bordeaux_rood_star"
+      },
+      {
+        "texture": "minecraft:mox_bordeaux_rood_star_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:mox_bordeaux_rood_star"
+      },
+      {
+        "texture": "minecraft:mox_bordeaux_rood_star_overlay"
+      }
+    ]
   }
 }

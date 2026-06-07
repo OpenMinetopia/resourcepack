@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:valentijnrechts"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:valentijnrechts"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:valentijnrechts"
+      },
+      {
+        "texture": "minecraft:valentijnrechts_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:valentijnrechts"
+      }
+    ]
   }
 }

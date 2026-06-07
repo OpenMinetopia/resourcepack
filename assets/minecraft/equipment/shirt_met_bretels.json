@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:shirt_met_bretels"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:shirt_met_bretels"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:shirt_met_bretels"
+      },
+      {
+        "texture": "minecraft:shirt_met_bretels_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:shirt_met_bretels"
+      }
+    ]
   }
 }

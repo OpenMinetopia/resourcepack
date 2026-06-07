@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:bunny_face"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:bunny_face"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:bunny_face"
+      },
+      {
+        "texture": "minecraft:bunny_face_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:bunny_face"
+      }
+    ]
   }
 }

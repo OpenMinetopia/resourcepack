@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:korteblouse"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:korteblouse"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:korteblouse"
+      },
+      {
+        "texture": "minecraft:korteblouse_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:korteblouse"
+      }
+    ]
   }
 }

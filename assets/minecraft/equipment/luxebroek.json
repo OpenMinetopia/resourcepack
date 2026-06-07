@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:luxebroek"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:luxebroek"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:luxebroek"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:luxebroek"
+      },
+      {
+        "texture": "minecraft:luxebroek_overlay"
+      }
+    ]
   }
 }

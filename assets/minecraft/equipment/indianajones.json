@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:indianajones"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:indianajones"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:indianajones"
+      },
+      {
+        "texture": "minecraft:indianajones_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:indianajones"
+      },
+      {
+        "texture": "minecraft:indianajones_overlay"
+      }
+    ]
   }
 }

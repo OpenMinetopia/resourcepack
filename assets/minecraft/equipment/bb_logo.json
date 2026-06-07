@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:bb_logo"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:bb_logo"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:bb_logo"
+      },
+      {
+        "texture": "minecraft:bb_logo_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:bb_logo"
+      },
+      {
+        "texture": "minecraft:bb_logo_overlay"
+      }
+    ]
   }
 }

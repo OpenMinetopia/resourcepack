@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:zomer_streepjes2"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:zomer_streepjes2"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:zomer_streepjes2"
+      },
+      {
+        "texture": "minecraft:zomer_streepjes2_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:zomer_streepjes2"
+      }
+    ]
   }
 }

@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:gympie"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:gympie"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:gympie"
+      },
+      {
+        "texture": "minecraft:gympie_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:gympie"
+      }
+    ]
   }
 }

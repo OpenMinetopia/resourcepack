@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:duivelsoortjes"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:duivelsoortjes"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:duivelsoortjes"
+      },
+      {
+        "texture": "minecraft:duivelsoortjes_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:duivelsoortjes"
+      }
+    ]
   }
 }

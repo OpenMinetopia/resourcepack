@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:shirt_met_stropdas"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:shirt_met_stropdas"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:shirt_met_stropdas"
+      },
+      {
+        "texture": "minecraft:shirt_met_stropdas_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:shirt_met_stropdas"
+      }
+    ]
   }
 }

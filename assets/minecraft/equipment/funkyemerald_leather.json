@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:funkyemerald_leather"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:funkyemerald_leather"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:funkyemerald_leather"
+      },
+      {
+        "texture": "minecraft:funkyemerald_leather_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:funkyemerald_leather"
+      },
+      {
+        "texture": "minecraft:funkyemerald_leather_overlay"
+      }
+    ]
   }
 }

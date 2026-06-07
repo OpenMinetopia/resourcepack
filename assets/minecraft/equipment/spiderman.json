@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:spiderman"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:spiderman"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:spiderman"
+      },
+      {
+        "texture": "minecraft:spiderman_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:spiderman"
+      },
+      {
+        "texture": "minecraft:spiderman_overlay"
+      }
+    ]
   }
 }

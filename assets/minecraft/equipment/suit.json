@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:suit"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:suit"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:suit"
+      },
+      {
+        "texture": "minecraft:suit_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:suit"
+      },
+      {
+        "texture": "minecraft:suit_overlay"
+      }
+    ]
   }
 }

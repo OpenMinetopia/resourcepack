@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:winterjas"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:winterjas"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:winterjas"
+      },
+      {
+        "texture": "minecraft:winterjas_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:winterjas"
+      }
+    ]
   }
 }

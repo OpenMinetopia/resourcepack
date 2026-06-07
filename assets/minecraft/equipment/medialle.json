@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:medialle"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:medialle"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:medialle"
+      },
+      {
+        "texture": "minecraft:medialle_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:medialle"
+      }
+    ]
   }
 }

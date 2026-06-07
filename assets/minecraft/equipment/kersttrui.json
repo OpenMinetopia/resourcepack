@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:kersttrui"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:kersttrui"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:kersttrui"
+      },
+      {
+        "texture": "minecraft:kersttrui_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:kersttrui"
+      }
+    ]
   }
 }

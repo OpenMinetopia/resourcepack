@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:hipster"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:hipster"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:hipster"
+      },
+      {
+        "texture": "minecraft:hipster_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:hipster"
+      },
+      {
+        "texture": "minecraft:hipster_overlay"
+      }
+    ]
   }
 }

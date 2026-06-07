@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:tuinbroek"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:tuinbroek"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:tuinbroek"
+      },
+      {
+        "texture": "minecraft:tuinbroek_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:tuinbroek"
+      },
+      {
+        "texture": "minecraft:tuinbroek_overlay"
+      }
+    ]
   }
 }

@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:elfenschoentjes"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:elfenschoentjes"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:elfenschoentjes"
+      },
+      {
+        "texture": "minecraft:elfenschoentjes_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:elfenschoentjes"
+      }
+    ]
   }
 }

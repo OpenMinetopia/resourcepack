@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:moxrainbow"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:moxrainbow"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:moxrainbow"
+      },
+      {
+        "texture": "minecraft:moxrainbow_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:moxrainbow"
+      },
+      {
+        "texture": "minecraft:moxrainbow_overlay"
+      }
+    ]
   }
 }

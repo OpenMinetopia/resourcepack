@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:bandana"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:bandana"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:bandana"
+      },
+      {
+        "texture": "minecraft:bandana_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:bandana"
+      }
+    ]
   }
 }

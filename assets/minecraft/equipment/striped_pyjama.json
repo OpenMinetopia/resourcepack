@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:striped_pyjama"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:striped_pyjama"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:striped_pyjama"
+      },
+      {
+        "texture": "minecraft:striped_pyjama_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:striped_pyjama"
+      },
+      {
+        "texture": "minecraft:striped_pyjama_overlay"
+      }
+    ]
   }
 }

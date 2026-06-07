@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:dp"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:dp"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:dp"
+      },
+      {
+        "texture": "minecraft:dp_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:dp"
+      }
+    ]
   }
 }

@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:barret"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:barret"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:barret"
+      },
+      {
+        "texture": "minecraft:barret_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:barret"
+      }
+    ]
   }
 }

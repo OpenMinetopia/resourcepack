@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:highsneaker"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:highsneaker"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:highsneaker"
+      },
+      {
+        "texture": "minecraft:highsneaker_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:highsneaker"
+      }
+    ]
   }
 }

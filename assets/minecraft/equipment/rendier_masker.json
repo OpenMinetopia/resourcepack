@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:rendier_masker"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:rendier_masker"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:rendier_masker"
+      },
+      {
+        "texture": "minecraft:rendier_masker_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:rendier_masker"
+      }
+    ]
   }
 }

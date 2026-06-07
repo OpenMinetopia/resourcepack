@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:dog"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:dog"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:dog"
+      },
+      {
+        "texture": "minecraft:dog_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:dog"
+      },
+      {
+        "texture": "minecraft:dog_overlay"
+      }
+    ]
   }
 }

@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:theblues_leather"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:theblues_leather"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:theblues_leather"
+      },
+      {
+        "texture": "minecraft:theblues_leather_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:theblues_leather"
+      },
+      {
+        "texture": "minecraft:theblues_leather_overlay"
+      }
+    ]
   }
 }

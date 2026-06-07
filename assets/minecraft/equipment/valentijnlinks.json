@@ -1,10 +1,17 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:valentijnlinks"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:valentijnlinks"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:valentijnlinks"
+      },
+      {
+        "texture": "minecraft:valentijnlinks_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:valentijnlinks"
+      }
+    ]
   }
 }

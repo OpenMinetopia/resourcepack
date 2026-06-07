@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:colored_pyjama"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:colored_pyjama"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:colored_pyjama"
+      },
+      {
+        "texture": "minecraft:colored_pyjama_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:colored_pyjama"
+      },
+      {
+        "texture": "minecraft:colored_pyjama_overlay"
+      }
+    ]
   }
 }

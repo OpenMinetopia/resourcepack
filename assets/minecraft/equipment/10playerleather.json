@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:10playerleather"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:10playerleather"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:10playerleather"
+      },
+      {
+        "texture": "minecraft:10playerleather_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:10playerleather"
+      },
+      {
+        "texture": "minecraft:10playerleather_overlay"
+      }
+    ]
   }
 }

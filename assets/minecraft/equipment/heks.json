@@ -1,10 +1,20 @@
 {
-  "layers" : {
-    "humanoid" : [ {
-      "texture" : "minecraft:heks"
-    } ],
-    "humanoid_leggings" : [ {
-      "texture" : "minecraft:heks"
-    } ]
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:heks"
+      },
+      {
+        "texture": "minecraft:heks_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:heks"
+      },
+      {
+        "texture": "minecraft:heks_overlay"
+      }
+    ]
   }
 }
